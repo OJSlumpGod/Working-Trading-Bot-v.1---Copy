@@ -4,7 +4,7 @@ FROM python:3.11-slim
 # Set environment variables to prevent Python from writing pyc files and buffering stdout/stderr
 ENV PYTHONDONTWRITEBYTECODE=1
 ENV PYTHONUNBUFFERED=1
-ENV CYTHON_WARNINGS=0  # Suppress Cython warnings
+ENV CYTHON_WARNINGS=0
 
 # Set working directory
 WORKDIR /app
@@ -30,11 +30,11 @@ RUN pip install --quiet --prefer-binary -r requirements.txt
 COPY . .
 
 # Expose the port (Railway provides the port via the PORT environment variable)
-ENV PORT=5000  # Default to 5000 if PORT is not set
+ENV PORT=5000
 EXPOSE $PORT
 
 # Define environment variable for Flask (if applicable)
-ENV FLASK_APP=app.py  # Replace 'app.py' with your Flask entry point
+ENV FLASK_APP=app.py
 
 # Start the application using Gunicorn, binding to all interfaces and the specified port
 CMD ["gunicorn", "--bind", "0.0.0.0:$PORT", "app:app"]
