@@ -9,13 +9,25 @@ ENV CYTHON_WARNINGS=0
 # Set working directory
 WORKDIR /app
 
-# Install system dependencies
+# Install system dependencies including build tools and dependencies to compile TA-Lib
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \
     build-essential \
-    libta-lib0 \
-    libta-lib0-dev \
-    && rm -rf /var/lib/apt/lists/*
+    wget \
+    libtool \
+    autoconf \
+    automake && \
+    rm -rf /var/lib/apt/lists/*
+
+# Download, build, and install TA-Lib from source
+RUN wget http://prdownloads.sourceforge.net/ta-lib/ta-lib-0.4.0-src.tar.gz && \
+    tar -xzvf ta-lib-0.4.0-src.tar.gz && \
+    cd ta-lib && \
+    ./configure --prefix=/usr && \
+    make && \
+    make install && \
+    cd .. && \
+    rm -rf ta-lib ta-lib-0.4.0-src.tar.gz
 
 # Upgrade pip, setuptools, and wheel
 RUN python -m pip install --upgrade pip setuptools wheel
@@ -33,7 +45,7 @@ COPY . .
 ENV PORT=5000
 EXPOSE $PORT
 
-# Define environment variable for Flask (if applicable)
+# Define environment variable for Flask application entry point
 ENV FLASK_APP=app.py
 
 # Start the application using Gunicorn, binding to all interfaces and the specified port
