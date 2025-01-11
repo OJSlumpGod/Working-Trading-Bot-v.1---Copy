@@ -1291,3 +1291,94 @@
 2025-01-11 02:24:04,641 - TradingBot - INFO - [load_state] Loaded existing state from database.
 2025-01-11 02:24:04,641 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
 2025-01-11 02:24:04,643 - TradingBot - INFO - TradingBot: Settings applied successfully.
+2025-01-11 02:29:00,189 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-11 02:29:00,324 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-11 02:29:00,355 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 1}
+2025-01-11 02:29:00,445 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'M15', 'count': 100}
+2025-01-11 02:29:00,554 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H4', 'count': 100}
+2025-01-11 02:29:00,675 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-11 02:29:00,676 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-11 02:29:00,676 - TradingBot - INFO - [multi_timeframe_analysis] Combined Buy: 0, Combined Sell: 2
+2025-01-11 02:29:00,677 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-11 02:29:00,785 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-11 02:29:00,785 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-11 02:29:00,786 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-11 02:29:00,786 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 100}
+2025-01-11 02:29:00,859 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-11 02:29:00,953 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-11 02:29:00,953 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-11 02:29:00,954 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-11 02:29:00,954 - TradingBot - INFO - [manage_position] Opening SELL. Confidence score: 4
+2025-01-11 02:29:00,954 - TradingBot - INFO - [manage_position] Calculated SL: 1.04491, TP: 0.97320
+2025-01-11 02:29:00,954 - TradingBot - INFO - [make_trade] Attempt 1: Sending trade order to https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/orders with data {"order": {"units": "-1000", "instrument": "EUR_USD", "timeInForce": "FOK", "type": "MARKET", "positionFill": "DEFAULT", "stopLossOnFill": {"price": "1.04491"}, "takeProfitOnFill": {"price": "0.97320"}}}
+2025-01-11 02:29:01,021 - TradingBot - ERROR - [make_trade] Trade ID not found. Error: Trade ID not found and no error message provided.. Full Response: {"orderCreateTransaction": {"id": "7835", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "7835", "requestID": "115370137777256940", "time": "2025-01-11T07:29:03.206078365Z", "type": "MARKET_ORDER", "instrument": "EUR_USD", "units": "-1000", "timeInForce": "FOK", "positionFill": "DEFAULT", "takeProfitOnFill": {"price": "0.97320", "timeInForce": "GTC"}, "stopLossOnFill": {"price": "1.04491", "timeInForce": "GTC", "triggerMode": "TOP_OF_BOOK"}, "reason": "CLIENT_ORDER"}, "orderCancelTransaction": {"id": "7836", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "7835", "requestID": "115370137777256940", "time": "2025-01-11T07:29:03.206078365Z", "type": "ORDER_CANCEL", "orderID": "7835", "reason": "MARKET_HALTED"}, "relatedTransactionIDs": ["7835", "7836"], "lastTransactionID": "7836"}
+2025-01-11 02:29:04,532 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-11 02:29:04,649 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-11 02:29:04,662 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 1}
+2025-01-11 02:29:04,749 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'M15', 'count': 100}
+2025-01-11 02:29:04,822 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H4', 'count': 100}
+2025-01-11 02:29:04,938 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-11 02:29:04,939 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-11 02:29:04,939 - TradingBot - INFO - [multi_timeframe_analysis] Combined Buy: 0, Combined Sell: 2
+2025-01-11 02:29:04,939 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-11 02:29:05,011 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-11 02:29:05,012 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-11 02:29:05,012 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-11 02:29:05,012 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 100}
+2025-01-11 02:29:05,095 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-11 02:29:05,182 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-11 02:29:05,183 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-11 02:29:05,183 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-11 02:29:05,183 - TradingBot - INFO - [manage_position] Opening SELL. Confidence score: 4
+2025-01-11 02:29:05,183 - TradingBot - INFO - [manage_position] Calculated SL: 1.04491, TP: 0.97320
+2025-01-11 02:29:05,183 - TradingBot - INFO - [make_trade] Attempt 1: Sending trade order to https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/orders with data {"order": {"units": "-1000", "instrument": "EUR_USD", "timeInForce": "FOK", "type": "MARKET", "positionFill": "DEFAULT", "stopLossOnFill": {"price": "1.04491"}, "takeProfitOnFill": {"price": "0.97320"}}}
+2025-01-11 02:29:05,256 - TradingBot - ERROR - [make_trade] Trade ID not found. Error: Trade ID not found and no error message provided.. Full Response: {"orderCreateTransaction": {"id": "7837", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "7837", "requestID": "97355739283921207", "time": "2025-01-11T07:29:07.447939436Z", "type": "MARKET_ORDER", "instrument": "EUR_USD", "units": "-1000", "timeInForce": "FOK", "positionFill": "DEFAULT", "takeProfitOnFill": {"price": "0.97320", "timeInForce": "GTC"}, "stopLossOnFill": {"price": "1.04491", "timeInForce": "GTC", "triggerMode": "TOP_OF_BOOK"}, "reason": "CLIENT_ORDER"}, "orderCancelTransaction": {"id": "7838", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "7837", "requestID": "97355739283921207", "time": "2025-01-11T07:29:07.447939436Z", "type": "ORDER_CANCEL", "orderID": "7837", "reason": "MARKET_HALTED"}, "relatedTransactionIDs": ["7837", "7838"], "lastTransactionID": "7838"}
+2025-01-11 02:34:00,189 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-11 02:34:00,305 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-11 02:34:00,315 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 1}
+2025-01-11 02:34:00,388 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'M15', 'count': 100}
+2025-01-11 02:34:00,483 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H4', 'count': 100}
+2025-01-11 02:34:00,537 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-11 02:34:00,538 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-11 02:34:00,538 - TradingBot - INFO - [multi_timeframe_analysis] Combined Buy: 0, Combined Sell: 2
+2025-01-11 02:34:00,538 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-11 02:34:00,651 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-11 02:34:00,652 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-11 02:34:00,653 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-11 02:34:00,653 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 100}
+2025-01-11 02:34:00,753 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-11 02:34:00,827 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-11 02:34:00,828 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-11 02:34:00,828 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-11 02:34:00,828 - TradingBot - INFO - [manage_position] Opening SELL. Confidence score: 4
+2025-01-11 02:34:00,828 - TradingBot - INFO - [manage_position] Calculated SL: 1.04491, TP: 0.97320
+2025-01-11 02:34:00,828 - TradingBot - INFO - [make_trade] Attempt 1: Sending trade order to https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/orders with data {"order": {"units": "-1000", "instrument": "EUR_USD", "timeInForce": "FOK", "type": "MARKET", "positionFill": "DEFAULT", "stopLossOnFill": {"price": "1.04491"}, "takeProfitOnFill": {"price": "0.97320"}}}
+2025-01-11 02:34:00,909 - TradingBot - ERROR - [make_trade] Trade ID not found. Error: Trade ID not found and no error message provided.. Full Response: {"orderCreateTransaction": {"id": "7839", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "7839", "requestID": "115370139035599887", "time": "2025-01-11T07:34:03.101902605Z", "type": "MARKET_ORDER", "instrument": "EUR_USD", "units": "-1000", "timeInForce": "FOK", "positionFill": "DEFAULT", "takeProfitOnFill": {"price": "0.97320", "timeInForce": "GTC"}, "stopLossOnFill": {"price": "1.04491", "timeInForce": "GTC", "triggerMode": "TOP_OF_BOOK"}, "reason": "CLIENT_ORDER"}, "orderCancelTransaction": {"id": "7840", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "7839", "requestID": "115370139035599887", "time": "2025-01-11T07:34:03.101902605Z", "type": "ORDER_CANCEL", "orderID": "7839", "reason": "MARKET_HALTED"}, "relatedTransactionIDs": ["7839", "7840"], "lastTransactionID": "7840"}
+2025-01-11 02:34:04,533 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-11 02:34:04,661 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-11 02:34:04,669 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 1}
+2025-01-11 02:34:04,778 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'M15', 'count': 100}
+2025-01-11 02:34:04,860 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H4', 'count': 100}
+2025-01-11 02:34:04,952 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-11 02:34:04,953 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-11 02:34:04,953 - TradingBot - INFO - [multi_timeframe_analysis] Combined Buy: 0, Combined Sell: 2
+2025-01-11 02:34:04,953 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-11 02:34:05,028 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-11 02:34:05,028 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-11 02:34:05,029 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-11 02:34:05,029 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 100}
+2025-01-11 02:34:05,100 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-11 02:34:05,157 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-11 02:34:05,158 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-11 02:34:05,158 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-11 02:34:05,158 - TradingBot - INFO - [manage_position] Opening SELL. Confidence score: 4
+2025-01-11 02:34:05,158 - TradingBot - INFO - [manage_position] Calculated SL: 1.04491, TP: 0.97320
+2025-01-11 02:34:05,159 - TradingBot - INFO - [make_trade] Attempt 1: Sending trade order to https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/orders with data {"order": {"units": "-1000", "instrument": "EUR_USD", "timeInForce": "FOK", "type": "MARKET", "positionFill": "DEFAULT", "stopLossOnFill": {"price": "1.04491"}, "takeProfitOnFill": {"price": "0.97320"}}}
+2025-01-11 02:34:05,246 - TradingBot - ERROR - [make_trade] Trade ID not found. Error: Trade ID not found and no error message provided.. Full Response: {"orderCreateTransaction": {"id": "7841", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "7841", "requestID": "61326943522302751", "time": "2025-01-11T07:34:07.440686679Z", "type": "MARKET_ORDER", "instrument": "EUR_USD", "units": "-1000", "timeInForce": "FOK", "positionFill": "DEFAULT", "takeProfitOnFill": {"price": "0.97320", "timeInForce": "GTC"}, "stopLossOnFill": {"price": "1.04491", "timeInForce": "GTC", "triggerMode": "TOP_OF_BOOK"}, "reason": "CLIENT_ORDER"}, "orderCancelTransaction": {"id": "7842", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "7841", "requestID": "61326943522302751", "time": "2025-01-11T07:34:07.440686679Z", "type": "ORDER_CANCEL", "orderID": "7841", "reason": "MARKET_HALTED"}, "relatedTransactionIDs": ["7841", "7842"], "lastTransactionID": "7842"}
+2025-01-11 02:36:49,975 - TradingBot - INFO - Initializing TradingBot...
+2025-01-11 02:36:50,034 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-11 02:36:50,133 - TradingBot - INFO - [load_account_balance] Account balance: 86714.4518
+2025-01-11 02:36:50,134 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-11 02:36:50,134 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-11 02:36:50,135 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-11 02:36:50,136 - TradingBot - INFO - TradingBot: Settings applied successfully.

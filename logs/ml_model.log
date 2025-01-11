@@ -1845,3 +1845,42 @@
 2025-01-11 02:24:04,518 - INFO - [MLModel] Loading existing PyTorch model state.
 2025-01-11 02:24:04,520 - INFO - [MLModel] PyTorch model loaded successfully.
 2025-01-11 02:24:04,521 - INFO - [MLModel] Scaler and PCA loaded successfully.
+2025-01-11 02:29:00,324 - INFO - [MLModel] Starting feature engineering.
+2025-01-11 02:29:00,325 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-11 02:29:00,326 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-11 02:29:00,326 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-11 02:29:00,332 - INFO - [MLModel] Classical ML models predictions computed successfully.
+2025-01-11 02:29:00,354 - INFO - [MLModel] PyTorch predictions computed successfully.
+2025-01-11 02:29:00,355 - INFO - [MLModel] Ensemble final prediction computed successfully.
+2025-01-11 02:29:04,651 - INFO - [MLModel] Starting feature engineering.
+2025-01-11 02:29:04,651 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-11 02:29:04,653 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-11 02:29:04,653 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-11 02:29:04,659 - INFO - [MLModel] Classical ML models predictions computed successfully.
+2025-01-11 02:29:04,660 - INFO - [MLModel] PyTorch predictions computed successfully.
+2025-01-11 02:29:04,661 - INFO - [MLModel] Ensemble final prediction computed successfully.
+2025-01-11 02:34:00,306 - INFO - [MLModel] Starting feature engineering.
+2025-01-11 02:34:00,306 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-11 02:34:00,308 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-11 02:34:00,308 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-11 02:34:00,313 - INFO - [MLModel] Classical ML models predictions computed successfully.
+2025-01-11 02:34:00,314 - INFO - [MLModel] PyTorch predictions computed successfully.
+2025-01-11 02:34:00,314 - INFO - [MLModel] Ensemble final prediction computed successfully.
+2025-01-11 02:34:04,662 - INFO - [MLModel] Starting feature engineering.
+2025-01-11 02:34:04,662 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-11 02:34:04,662 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-11 02:34:04,662 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-11 02:34:04,668 - INFO - [MLModel] Classical ML models predictions computed successfully.
+2025-01-11 02:34:04,669 - INFO - [MLModel] PyTorch predictions computed successfully.
+2025-01-11 02:34:04,669 - INFO - [MLModel] Ensemble final prediction computed successfully.
+2025-01-11 02:36:49,976 - INFO - [MLModel] Initializing model pipeline...
+2025-01-11 02:36:49,976 - INFO - [MLModel] Models directory: D:\Coding3.0\Working Trading Bot v.1 - Copy\models
+2025-01-11 02:36:49,976 - INFO - [MLModel] Loading sgd from D:\Coding3.0\Working Trading Bot v.1 - Copy\models\sgd_model.pkl
+2025-01-11 02:36:49,978 - INFO - [MLModel] Loading rf from D:\Coding3.0\Working Trading Bot v.1 - Copy\models\rf_model.pkl
+2025-01-11 02:36:49,992 - INFO - [MLModel] Loading gb from D:\Coding3.0\Working Trading Bot v.1 - Copy\models\gb_model.pkl
+2025-01-11 02:36:49,996 - INFO - [MLModel] Voting classifier initialized.
+2025-01-11 02:36:49,996 - INFO - [MLModel] Loading existing Voting classifier.
+2025-01-11 02:36:50,027 - INFO - [MLModel] Voting classifier loaded successfully.
+2025-01-11 02:36:50,029 - INFO - [MLModel] Loading existing PyTorch model state.
+2025-01-11 02:36:50,030 - INFO - [MLModel] PyTorch model loaded successfully.
+2025-01-11 02:36:50,031 - INFO - [MLModel] Scaler and PCA loaded successfully.
