@@ -1823,3 +1823,25 @@
 2025-01-04 15:14:04,479 - INFO - [MLModel] Classical ML models predictions computed successfully.
 2025-01-04 15:14:04,480 - INFO - [MLModel] PyTorch predictions computed successfully.
 2025-01-04 15:14:04,481 - INFO - [MLModel] Ensemble final prediction computed successfully.
+2025-01-11 02:24:00,003 - INFO - [MLModel] Initializing model pipeline...
+2025-01-11 02:24:00,003 - INFO - [MLModel] Models directory: D:\Coding3.0\Working Trading Bot v.1 - Copy\models
+2025-01-11 02:24:00,005 - INFO - [MLModel] Loading sgd from D:\Coding3.0\Working Trading Bot v.1 - Copy\models\sgd_model.pkl
+2025-01-11 02:24:00,012 - INFO - [MLModel] Loading rf from D:\Coding3.0\Working Trading Bot v.1 - Copy\models\rf_model.pkl
+2025-01-11 02:24:00,035 - INFO - [MLModel] Loading gb from D:\Coding3.0\Working Trading Bot v.1 - Copy\models\gb_model.pkl
+2025-01-11 02:24:00,049 - INFO - [MLModel] Voting classifier initialized.
+2025-01-11 02:24:00,050 - INFO - [MLModel] Loading existing Voting classifier.
+2025-01-11 02:24:00,091 - INFO - [MLModel] Voting classifier loaded successfully.
+2025-01-11 02:24:00,103 - INFO - [MLModel] Loading existing PyTorch model state.
+2025-01-11 02:24:00,126 - INFO - [MLModel] PyTorch model loaded successfully.
+2025-01-11 02:24:00,143 - INFO - [MLModel] Scaler and PCA loaded successfully.
+2025-01-11 02:24:04,451 - INFO - [MLModel] Initializing model pipeline...
+2025-01-11 02:24:04,451 - INFO - [MLModel] Models directory: D:\Coding3.0\Working Trading Bot v.1 - Copy\models
+2025-01-11 02:24:04,452 - INFO - [MLModel] Loading sgd from D:\Coding3.0\Working Trading Bot v.1 - Copy\models\sgd_model.pkl
+2025-01-11 02:24:04,452 - INFO - [MLModel] Loading rf from D:\Coding3.0\Working Trading Bot v.1 - Copy\models\rf_model.pkl
+2025-01-11 02:24:04,470 - INFO - [MLModel] Loading gb from D:\Coding3.0\Working Trading Bot v.1 - Copy\models\gb_model.pkl
+2025-01-11 02:24:04,476 - INFO - [MLModel] Voting classifier initialized.
+2025-01-11 02:24:04,477 - INFO - [MLModel] Loading existing Voting classifier.
+2025-01-11 02:24:04,516 - INFO - [MLModel] Voting classifier loaded successfully.
+2025-01-11 02:24:04,518 - INFO - [MLModel] Loading existing PyTorch model state.
+2025-01-11 02:24:04,520 - INFO - [MLModel] PyTorch model loaded successfully.
+2025-01-11 02:24:04,521 - INFO - [MLModel] Scaler and PCA loaded successfully.

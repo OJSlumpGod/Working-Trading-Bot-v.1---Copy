@@ -1277,3 +1277,17 @@
 2025-01-04 15:14:05,139 - TradingBot - INFO - [manage_position] Calculated SL: 1.01028, TP: 1.08244
 2025-01-04 15:14:05,140 - TradingBot - INFO - [make_trade] Attempt 1: Sending trade order to https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/orders with data {"order": {"units": "1000", "instrument": "EUR_USD", "timeInForce": "FOK", "type": "MARKET", "positionFill": "DEFAULT", "stopLossOnFill": {"price": "1.01028"}, "takeProfitOnFill": {"price": "1.08244"}}}
 2025-01-04 15:14:05,244 - TradingBot - ERROR - [make_trade] Trade ID not found. Error: Trade ID not found and no error message provided.. Full Response: {"orderCreateTransaction": {"id": "6403", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6403", "requestID": "97353395092705527", "time": "2025-01-04T20:14:08.731572695Z", "type": "MARKET_ORDER", "instrument": "EUR_USD", "units": "1000", "timeInForce": "FOK", "positionFill": "DEFAULT", "takeProfitOnFill": {"price": "1.08244", "timeInForce": "GTC"}, "stopLossOnFill": {"price": "1.01028", "timeInForce": "GTC", "triggerMode": "TOP_OF_BOOK"}, "reason": "CLIENT_ORDER"}, "orderCancelTransaction": {"id": "6404", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6403", "requestID": "97353395092705527", "time": "2025-01-04T20:14:08.731572695Z", "type": "ORDER_CANCEL", "orderID": "6403", "reason": "MARKET_HALTED"}, "relatedTransactionIDs": ["6403", "6404"], "lastTransactionID": "6404"}
+2025-01-11 02:24:00,002 - TradingBot - INFO - Initializing TradingBot...
+2025-01-11 02:24:00,185 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-11 02:24:00,323 - TradingBot - INFO - [load_account_balance] Account balance: 86714.4518
+2025-01-11 02:24:00,323 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-11 02:24:00,325 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-11 02:24:00,326 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-11 02:24:00,338 - TradingBot - INFO - TradingBot: Settings applied successfully.
+2025-01-11 02:24:04,450 - TradingBot - INFO - Initializing TradingBot...
+2025-01-11 02:24:04,525 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-11 02:24:04,640 - TradingBot - INFO - [load_account_balance] Account balance: 86714.4518
+2025-01-11 02:24:04,640 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-11 02:24:04,641 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-11 02:24:04,641 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-11 02:24:04,643 - TradingBot - INFO - TradingBot: Settings applied successfully.

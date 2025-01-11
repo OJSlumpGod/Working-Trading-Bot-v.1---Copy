@@ -182,3 +182,7 @@
 2025-01-04 14:44:27,265 - INFO - BotManager: Settings applied to TradingBot.
 2025-01-04 14:52:58,900 - INFO - BotManager: TradingBot stopped.
 2025-01-04 14:52:58,901 - INFO - BotManager: State saved successfully.
+2025-01-11 02:24:00,331 - INFO - BotManager: State loaded successfully.
+2025-01-11 02:24:00,338 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-11 02:24:04,643 - INFO - BotManager: State loaded successfully.
+2025-01-11 02:24:04,643 - INFO - BotManager: Settings applied to TradingBot.
