@@ -1,0 +1,1825 @@
+2025-01-03 23:07:46,423 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:07:46,423 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:07:46,424 - INFO - [MLModel] sgd not found. Using default model.
+2025-01-03 23:07:46,424 - INFO - [MLModel] rf not found. Using default model.
+2025-01-03 23:07:46,424 - INFO - [MLModel] gb not found. Using default model.
+2025-01-03 23:07:46,435 - INFO - [MLModel] No existing PyTorch model found. Initializing a new one.
+2025-01-03 23:07:46,436 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:07:46,436 - INFO - [MLModel] Voting classifier not trained yet. It will be trained during model training.
+2025-01-03 23:07:51,106 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:07:51,107 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:07:51,108 - INFO - [MLModel] sgd not found. Using default model.
+2025-01-03 23:07:51,108 - INFO - [MLModel] rf not found. Using default model.
+2025-01-03 23:07:51,108 - INFO - [MLModel] gb not found. Using default model.
+2025-01-03 23:07:51,109 - INFO - [MLModel] No existing PyTorch model found. Initializing a new one.
+2025-01-03 23:07:51,109 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:07:51,110 - INFO - [MLModel] Voting classifier not trained yet. It will be trained during model training.
+2025-01-03 23:08:21,948 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:08:21,949 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:08:21,949 - INFO - [MLModel] sgd not found. Using default model.
+2025-01-03 23:08:21,950 - INFO - [MLModel] rf not found. Using default model.
+2025-01-03 23:08:21,950 - INFO - [MLModel] gb not found. Using default model.
+2025-01-03 23:08:21,951 - INFO - [MLModel] No existing PyTorch model found. Initializing a new one.
+2025-01-03 23:08:21,951 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:08:21,952 - INFO - [MLModel] Voting classifier not trained yet. It will be trained during model training.
+2025-01-03 23:11:44,559 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:11:44,559 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:11:44,559 - INFO - [MLModel] sgd not found. Using default model.
+2025-01-03 23:11:44,560 - INFO - [MLModel] rf not found. Using default model.
+2025-01-03 23:11:44,560 - INFO - [MLModel] gb not found. Using default model.
+2025-01-03 23:11:44,561 - INFO - [MLModel] No existing PyTorch model found. Initializing a new one.
+2025-01-03 23:11:44,561 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:11:44,562 - INFO - [MLModel] Voting classifier not trained yet. It will be trained during model training.
+2025-01-03 23:12:14,876 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:12:14,877 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:12:14,877 - INFO - [MLModel] sgd not found. Using default model.
+2025-01-03 23:12:14,877 - INFO - [MLModel] rf not found. Using default model.
+2025-01-03 23:12:14,878 - INFO - [MLModel] gb not found. Using default model.
+2025-01-03 23:12:14,878 - INFO - [MLModel] No existing PyTorch model found. Initializing a new one.
+2025-01-03 23:12:14,879 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:12:14,879 - INFO - [MLModel] Voting classifier not trained yet. It will be trained during model training.
+2025-01-03 23:12:19,267 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:12:19,268 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:12:19,268 - INFO - [MLModel] sgd not found. Using default model.
+2025-01-03 23:12:19,269 - INFO - [MLModel] rf not found. Using default model.
+2025-01-03 23:12:19,269 - INFO - [MLModel] gb not found. Using default model.
+2025-01-03 23:12:19,270 - INFO - [MLModel] No existing PyTorch model found. Initializing a new one.
+2025-01-03 23:12:19,270 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:12:19,270 - INFO - [MLModel] Voting classifier not trained yet. It will be trained during model training.
+2025-01-03 23:13:15,874 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:13:15,874 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:13:15,874 - INFO - [MLModel] sgd not found. Using default model.
+2025-01-03 23:13:15,875 - INFO - [MLModel] rf not found. Using default model.
+2025-01-03 23:13:15,875 - INFO - [MLModel] gb not found. Using default model.
+2025-01-03 23:13:15,876 - INFO - [MLModel] No existing PyTorch model found. Initializing a new one.
+2025-01-03 23:13:15,877 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:13:15,877 - INFO - [MLModel] Voting classifier not trained yet. It will be trained during model training.
+2025-01-03 23:13:22,828 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:13:22,829 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:13:22,829 - INFO - [MLModel] sgd not found. Using default model.
+2025-01-03 23:13:22,829 - INFO - [MLModel] rf not found. Using default model.
+2025-01-03 23:13:22,830 - INFO - [MLModel] gb not found. Using default model.
+2025-01-03 23:13:22,830 - INFO - [MLModel] No existing PyTorch model found. Initializing a new one.
+2025-01-03 23:13:22,831 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:13:22,831 - INFO - [MLModel] Voting classifier not trained yet. It will be trained during model training.
+2025-01-03 23:15:21,617 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:15:21,617 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:15:21,618 - INFO - [MLModel] sgd not found. Using default model.
+2025-01-03 23:15:21,618 - INFO - [MLModel] rf not found. Using default model.
+2025-01-03 23:15:21,618 - INFO - [MLModel] gb not found. Using default model.
+2025-01-03 23:15:21,619 - INFO - [MLModel] No existing PyTorch model found. Initializing a new one.
+2025-01-03 23:15:21,619 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:15:21,619 - INFO - [MLModel] Voting classifier not trained yet. It will be trained during model training.
+2025-01-03 23:17:18,401 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:17:18,401 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:17:18,402 - INFO - [MLModel] sgd not found. Using default model.
+2025-01-03 23:17:18,402 - INFO - [MLModel] rf not found. Using default model.
+2025-01-03 23:17:18,402 - INFO - [MLModel] gb not found. Using default model.
+2025-01-03 23:17:18,403 - INFO - [MLModel] No existing PyTorch model found. Initializing a new one.
+2025-01-03 23:17:18,403 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:17:18,403 - INFO - [MLModel] Voting classifier not trained yet. It will be trained during model training.
+2025-01-03 23:17:22,242 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:17:22,243 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:17:22,243 - INFO - [MLModel] sgd not found. Using default model.
+2025-01-03 23:17:22,243 - INFO - [MLModel] rf not found. Using default model.
+2025-01-03 23:17:22,243 - INFO - [MLModel] gb not found. Using default model.
+2025-01-03 23:17:22,244 - INFO - [MLModel] No existing PyTorch model found. Initializing a new one.
+2025-01-03 23:17:22,245 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:17:22,245 - INFO - [MLModel] Voting classifier not trained yet. It will be trained during model training.
+2025-01-03 23:17:46,453 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:17:46,454 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:17:46,454 - INFO - [MLModel] sgd not found. Using default model.
+2025-01-03 23:17:46,454 - INFO - [MLModel] rf not found. Using default model.
+2025-01-03 23:17:46,454 - INFO - [MLModel] gb not found. Using default model.
+2025-01-03 23:17:46,455 - INFO - [MLModel] No existing PyTorch model found. Initializing a new one.
+2025-01-03 23:17:46,455 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:17:46,455 - INFO - [MLModel] Voting classifier not trained yet. It will be trained during model training.
+2025-01-03 23:17:50,321 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:17:50,322 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:17:50,322 - INFO - [MLModel] sgd not found. Using default model.
+2025-01-03 23:17:50,322 - INFO - [MLModel] rf not found. Using default model.
+2025-01-03 23:17:50,323 - INFO - [MLModel] gb not found. Using default model.
+2025-01-03 23:17:50,324 - INFO - [MLModel] No existing PyTorch model found. Initializing a new one.
+2025-01-03 23:17:50,324 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:17:50,324 - INFO - [MLModel] Voting classifier not trained yet. It will be trained during model training.
+2025-01-03 23:18:03,708 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:18:03,709 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:18:03,709 - INFO - [MLModel] sgd not found. Using default model.
+2025-01-03 23:18:03,709 - INFO - [MLModel] rf not found. Using default model.
+2025-01-03 23:18:03,710 - INFO - [MLModel] gb not found. Using default model.
+2025-01-03 23:18:03,710 - INFO - [MLModel] No existing PyTorch model found. Initializing a new one.
+2025-01-03 23:18:03,711 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:18:03,711 - INFO - [MLModel] Voting classifier not trained yet. It will be trained during model training.
+2025-01-03 23:18:39,337 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:18:39,338 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:18:39,338 - INFO - [MLModel] sgd not found. Using default model.
+2025-01-03 23:18:39,338 - INFO - [MLModel] rf not found. Using default model.
+2025-01-03 23:18:39,338 - INFO - [MLModel] gb not found. Using default model.
+2025-01-03 23:18:39,339 - INFO - [MLModel] No existing PyTorch model found. Initializing a new one.
+2025-01-03 23:18:39,340 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:18:39,340 - INFO - [MLModel] Voting classifier not trained yet. It will be trained during model training.
+2025-01-03 23:21:07,737 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:21:07,737 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:21:07,738 - INFO - [MLModel] sgd not found. Using default model.
+2025-01-03 23:21:07,738 - INFO - [MLModel] rf not found. Using default model.
+2025-01-03 23:21:07,739 - INFO - [MLModel] gb not found. Using default model.
+2025-01-03 23:21:07,740 - INFO - [MLModel] No existing PyTorch model found. Initializing a new one.
+2025-01-03 23:21:07,740 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:21:07,740 - INFO - [MLModel] Voting classifier not trained yet. It will be trained during model training.
+2025-01-03 23:22:46,577 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:22:46,578 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:22:46,586 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:22:46,587 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:22:46,587 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:22:46,587 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:22:55,364 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:22:55,364 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:22:55,365 - INFO - [MLModel] sgd not found. Using default model.
+2025-01-03 23:22:55,365 - INFO - [MLModel] rf not found. Using default model.
+2025-01-03 23:22:55,365 - INFO - [MLModel] gb not found. Using default model.
+2025-01-03 23:22:55,366 - INFO - [MLModel] No existing PyTorch model found. Initializing a new one.
+2025-01-03 23:22:55,366 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:22:55,366 - INFO - [MLModel] Voting classifier not trained yet. It will be trained during model training.
+2025-01-03 23:23:15,147 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:23:15,147 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:23:15,147 - INFO - [MLModel] sgd not found. Using default model.
+2025-01-03 23:23:15,147 - INFO - [MLModel] rf not found. Using default model.
+2025-01-03 23:23:15,147 - INFO - [MLModel] gb not found. Using default model.
+2025-01-03 23:23:15,148 - INFO - [MLModel] No existing PyTorch model found. Initializing a new one.
+2025-01-03 23:23:15,149 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:23:15,149 - INFO - [MLModel] Voting classifier not trained yet. It will be trained during model training.
+2025-01-03 23:23:55,999 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:23:56,000 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:23:56,001 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:23:56,003 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:23:56,003 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:23:56,003 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:23:58,145 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:23:58,145 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:23:58,146 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:23:58,147 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:23:58,148 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:23:58,148 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:24:00,253 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:24:00,254 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:24:00,255 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:24:00,255 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:24:00,256 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:24:00,256 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:24:02,366 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:24:02,367 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:24:02,368 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:24:02,368 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:24:02,369 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:24:02,369 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:24:04,481 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:24:04,482 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:24:04,483 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:24:04,484 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:24:04,484 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:24:04,484 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:24:06,560 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:24:06,561 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:24:06,562 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:24:06,562 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:24:06,563 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:24:06,563 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:24:08,660 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:24:08,660 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:24:08,661 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:24:08,662 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:24:08,662 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:24:08,662 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:24:10,810 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:24:10,810 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:24:10,811 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:24:10,812 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:24:10,813 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:24:10,813 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:24:12,909 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:24:12,910 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:24:12,911 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:24:12,911 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:24:12,911 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:24:12,912 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:24:14,984 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:24:14,985 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:24:14,986 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:24:14,987 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:24:14,987 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:24:14,987 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:24:17,059 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:24:17,060 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:24:17,061 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:24:17,061 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:24:17,061 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:24:17,061 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:24:19,154 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:24:19,154 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:24:19,155 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:24:19,156 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:24:19,156 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:24:19,309 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:24:21,387 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:24:21,388 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:24:21,388 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:24:21,389 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:24:21,389 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:24:21,390 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:24:23,476 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:24:23,477 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:24:23,478 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:24:23,478 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:24:23,479 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:24:23,479 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:24:25,589 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:24:25,590 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:24:25,590 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:24:25,591 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:24:25,591 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:24:25,591 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:24:27,752 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:24:27,755 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:24:27,755 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:24:27,756 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:24:27,756 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:24:27,756 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:24:29,990 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:24:29,991 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:24:29,992 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:24:29,992 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:24:29,992 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:24:29,992 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:24:32,063 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:24:32,064 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:24:32,064 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:24:32,065 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:24:32,065 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:24:32,065 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:24:34,193 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:24:34,194 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:24:34,195 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:24:34,195 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:24:34,196 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:24:34,196 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:24:36,291 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:24:36,293 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:24:36,294 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:24:36,294 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:24:36,295 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:24:36,295 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:28:41,242 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:28:41,242 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:28:41,242 - INFO - [MLModel] sgd not found. Using default model.
+2025-01-03 23:28:41,242 - INFO - [MLModel] rf not found. Using default model.
+2025-01-03 23:28:41,243 - INFO - [MLModel] gb not found. Using default model.
+2025-01-03 23:28:41,243 - INFO - [MLModel] No existing PyTorch model found. Initializing a new one.
+2025-01-03 23:28:41,244 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:28:41,244 - INFO - [MLModel] Voting classifier not trained yet. It will be trained during model training.
+2025-01-03 23:28:45,296 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:28:45,296 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:28:45,297 - INFO - [MLModel] sgd not found. Using default model.
+2025-01-03 23:28:45,297 - INFO - [MLModel] rf not found. Using default model.
+2025-01-03 23:28:45,297 - INFO - [MLModel] gb not found. Using default model.
+2025-01-03 23:28:45,298 - INFO - [MLModel] No existing PyTorch model found. Initializing a new one.
+2025-01-03 23:28:45,298 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:28:45,298 - INFO - [MLModel] Voting classifier not trained yet. It will be trained during model training.
+2025-01-03 23:29:08,710 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:29:08,710 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:29:08,710 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:29:08,710 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:29:08,711 - INFO - [MLModel] sgd not found. Using default model.
+2025-01-03 23:29:08,711 - INFO - [MLModel] sgd not found. Using default model.
+2025-01-03 23:29:08,711 - INFO - [MLModel] rf not found. Using default model.
+2025-01-03 23:29:08,711 - INFO - [MLModel] rf not found. Using default model.
+2025-01-03 23:29:08,711 - INFO - [MLModel] gb not found. Using default model.
+2025-01-03 23:29:08,711 - INFO - [MLModel] gb not found. Using default model.
+2025-01-03 23:29:08,712 - INFO - [MLModel] No existing PyTorch model found. Initializing a new one.
+2025-01-03 23:29:08,712 - INFO - [MLModel] No existing PyTorch model found. Initializing a new one.
+2025-01-03 23:29:08,712 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:29:08,712 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:29:08,713 - INFO - [MLModel] Voting classifier not trained yet. It will be trained during model training.
+2025-01-03 23:29:08,713 - INFO - [MLModel] Voting classifier not trained yet. It will be trained during model training.
+2025-01-03 23:29:11,104 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:11,104 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:11,104 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:11,104 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:11,106 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:11,106 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:11,107 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:11,107 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:11,107 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:11,107 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:11,107 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:11,107 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:13,207 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:13,207 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:13,207 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:13,207 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:13,209 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:13,209 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:13,209 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:13,209 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:13,209 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:13,209 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:13,210 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:13,210 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:15,288 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:15,288 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:15,289 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:15,289 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:15,290 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:15,290 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:15,291 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:15,291 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:15,291 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:15,291 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:15,292 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:15,292 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:17,433 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:17,433 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:17,434 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:17,434 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:17,434 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:17,434 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:17,435 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:17,435 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:17,435 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:17,435 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:17,436 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:17,436 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:19,550 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:19,550 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:19,550 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:19,550 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:19,551 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:19,551 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:19,552 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:19,552 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:19,552 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:19,552 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:19,552 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:19,552 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:21,648 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:21,648 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:21,648 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:21,648 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:21,649 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:21,649 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:21,650 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:21,650 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:21,651 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:21,651 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:21,651 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:21,651 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:23,768 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:23,768 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:23,768 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:23,768 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:23,770 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:23,770 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:23,772 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:23,772 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:23,772 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:23,772 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:23,773 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:23,773 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:25,863 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:25,863 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:25,864 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:25,864 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:25,865 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:25,865 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:25,865 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:25,865 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:25,866 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:25,866 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:25,866 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:25,866 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:27,983 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:27,983 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:27,984 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:27,984 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:27,985 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:27,985 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:27,985 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:27,985 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:27,986 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:27,986 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:27,986 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:27,986 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:30,082 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:30,082 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:30,083 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:30,083 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:30,083 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:30,083 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:30,084 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:30,084 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:30,084 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:30,084 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:30,085 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:30,085 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:32,219 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:32,219 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:32,220 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:32,220 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:32,221 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:32,221 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:32,221 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:32,221 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:32,222 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:32,222 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:32,222 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:32,222 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:34,315 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:34,315 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:34,316 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:34,316 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:34,317 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:34,317 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:34,318 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:34,318 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:34,318 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:34,318 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:34,319 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:34,319 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:36,431 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:36,431 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:36,431 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:36,431 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:36,432 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:36,432 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:36,433 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:36,433 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:36,433 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:36,433 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:36,434 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:36,434 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:38,550 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:38,550 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:38,551 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:38,551 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:38,552 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:38,552 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:38,553 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:38,553 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:38,553 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:38,553 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:38,553 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:38,553 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:40,621 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:40,621 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:40,621 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:40,621 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:40,622 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:40,622 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:40,623 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:40,623 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:40,623 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:40,623 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:40,623 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:40,623 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:42,735 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:42,735 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:42,736 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:42,736 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:42,737 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:42,737 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:42,737 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:42,737 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:42,738 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:42,738 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:42,738 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:42,738 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:44,839 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:44,839 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:44,840 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:44,840 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:44,841 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:44,841 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:44,841 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:44,841 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:44,842 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:44,842 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:44,842 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:44,842 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:46,943 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:46,943 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:46,944 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:46,944 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:46,945 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:46,945 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:46,946 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:46,946 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:46,946 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:46,946 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:46,946 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:46,946 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:49,024 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:49,024 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:49,025 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:49,025 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:49,026 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:49,026 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:49,027 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:49,027 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:49,027 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:49,027 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:49,027 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:49,027 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:51,108 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:51,108 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:51,109 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:51,109 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:51,111 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:51,111 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:51,111 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:51,111 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:51,111 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:51,111 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:51,112 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:51,112 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:53,209 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:53,209 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:53,210 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:53,210 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:53,211 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:53,211 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:53,212 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:53,212 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:53,212 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:53,212 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:53,213 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:53,213 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:55,320 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:55,320 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:55,321 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:55,321 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:55,322 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:55,322 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:55,323 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:55,323 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:55,323 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:55,323 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:55,323 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:55,323 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:57,447 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:57,447 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:57,448 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:57,448 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:57,449 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:57,449 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:57,450 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:57,450 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:57,450 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:57,450 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:57,451 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:57,451 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:59,579 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:59,579 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:29:59,580 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:59,580 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:29:59,581 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:59,581 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:29:59,582 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:59,582 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:29:59,583 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:59,583 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:29:59,583 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:29:59,583 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:01,684 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:01,684 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:01,685 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:01,685 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:01,685 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:01,685 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:01,686 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:01,686 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:01,686 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:01,686 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:01,687 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:01,687 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:03,798 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:03,798 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:03,800 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:03,800 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:03,801 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:03,801 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:03,801 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:03,801 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:03,802 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:03,802 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:03,802 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:03,802 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:05,893 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:05,893 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:05,894 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:05,894 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:05,895 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:05,895 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:05,895 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:05,895 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:05,895 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:05,895 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:05,896 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:05,896 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:07,997 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:07,997 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:07,998 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:07,998 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:07,999 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:07,999 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:08,000 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:08,000 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:08,000 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:08,000 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:08,000 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:08,000 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:10,078 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:10,078 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:10,079 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:10,079 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:10,080 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:10,080 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:10,081 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:10,081 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:10,081 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:10,081 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:10,082 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:10,082 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:12,182 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:12,182 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:12,183 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:12,183 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:12,184 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:12,184 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:12,184 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:12,184 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:12,185 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:12,185 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:12,185 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:12,185 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:14,288 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:14,288 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:14,289 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:14,289 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:14,290 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:14,290 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:14,290 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:14,290 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:14,291 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:14,291 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:14,291 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:14,291 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:16,418 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:16,418 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:16,419 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:16,419 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:16,420 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:16,420 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:16,421 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:16,421 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:16,421 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:16,421 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:16,422 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:16,422 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:18,616 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:18,616 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:18,617 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:18,617 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:18,618 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:18,618 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:18,619 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:18,619 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:18,619 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:18,619 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:18,620 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:18,620 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:20,710 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:20,710 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:20,711 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:20,711 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:20,712 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:20,712 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:20,712 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:20,712 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:20,713 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:20,713 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:20,713 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:20,713 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:22,846 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:22,846 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:22,847 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:22,847 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:22,848 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:22,848 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:22,848 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:22,848 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:22,849 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:22,849 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:22,849 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:22,849 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:24,930 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:24,930 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:24,931 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:24,931 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:24,932 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:24,932 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:24,933 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:24,933 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:24,933 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:24,933 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:24,934 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:24,934 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:27,011 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:27,011 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:27,012 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:27,012 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:27,013 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:27,013 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:27,014 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:27,014 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:27,014 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:27,014 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:27,015 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:27,015 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:29,096 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:29,096 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:29,097 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:29,097 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:29,099 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:29,099 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:29,100 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:29,100 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:29,100 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:29,100 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:29,101 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:29,101 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:31,187 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:31,187 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:31,188 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:31,188 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:31,189 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:31,189 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:31,189 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:31,189 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:31,190 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:31,190 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:31,190 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:31,190 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:33,308 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:33,308 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:33,309 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:33,309 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:33,309 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:33,309 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:33,310 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:33,310 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:33,310 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:33,310 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:33,311 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:33,311 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:35,382 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:35,382 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:35,383 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:35,383 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:35,384 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:35,384 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:35,384 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:35,384 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:35,385 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:35,385 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:35,385 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:35,385 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:37,493 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:37,493 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:37,493 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:37,493 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:37,494 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:37,494 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:37,495 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:37,495 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:37,495 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:37,495 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:37,495 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:37,495 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:39,634 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:39,634 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:39,635 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:39,635 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:39,636 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:39,636 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:39,637 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:39,637 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:39,637 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:39,637 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:39,637 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:39,637 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:41,720 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:41,720 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:41,721 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:41,721 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:41,722 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:41,722 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:41,724 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:41,724 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:41,724 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:41,724 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:41,725 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:41,725 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:43,822 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:43,822 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:43,823 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:43,823 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:43,824 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:43,824 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:43,824 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:43,824 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:43,825 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:43,825 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:43,825 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:43,825 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:45,938 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:45,938 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:45,939 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:45,939 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:45,940 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:45,940 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:45,941 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:45,941 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:45,941 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:45,941 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:45,942 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:45,942 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:48,079 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:48,079 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:48,080 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:48,080 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:48,081 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:48,081 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:48,082 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:48,082 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:48,082 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:48,082 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:48,082 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:48,082 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:50,182 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:50,182 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:50,183 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:50,183 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:50,184 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:50,184 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:50,184 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:50,184 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:50,185 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:50,185 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:50,185 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:50,185 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:52,366 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:52,366 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:52,367 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:52,367 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:52,368 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:52,368 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:52,368 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:52,368 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:52,369 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:52,369 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:52,369 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:52,369 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:54,477 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:54,477 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:54,478 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:54,478 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:54,479 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:54,479 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:54,479 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:54,479 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:54,480 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:54,480 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:54,480 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:54,480 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:56,549 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:56,549 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:56,550 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:56,550 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:56,551 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:56,551 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:56,552 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:56,552 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:56,552 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:56,552 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:56,553 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:56,553 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:58,619 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:58,619 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:30:58,620 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:58,620 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:30:58,621 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:58,621 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:30:58,622 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:58,622 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:30:58,623 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:58,623 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:30:58,623 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:30:58,623 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:00,702 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:00,702 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:00,703 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:00,703 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:00,704 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:00,704 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:00,705 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:00,705 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:00,705 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:00,705 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:00,706 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:00,706 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:02,810 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:02,810 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:02,811 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:02,811 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:02,812 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:02,812 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:02,813 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:02,813 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:02,813 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:02,813 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:02,814 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:02,814 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:04,912 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:04,912 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:04,912 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:04,912 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:04,913 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:04,913 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:04,914 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:04,914 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:04,914 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:04,914 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:04,915 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:04,915 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:07,002 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:07,002 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:07,004 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:07,004 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:07,005 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:07,005 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:07,006 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:07,006 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:07,006 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:07,006 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:07,006 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:07,006 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:09,116 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:09,116 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:09,117 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:09,117 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:09,118 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:09,118 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:09,118 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:09,118 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:09,119 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:09,119 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:09,119 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:09,119 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:11,289 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:11,289 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:11,290 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:11,290 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:11,291 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:11,291 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:11,292 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:11,292 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:11,292 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:11,292 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:11,292 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:11,292 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:13,381 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:13,381 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:13,383 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:13,383 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:13,383 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:13,383 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:13,384 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:13,384 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:13,384 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:13,384 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:13,385 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:13,385 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:15,487 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:15,487 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:15,488 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:15,488 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:15,489 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:15,489 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:15,489 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:15,489 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:15,490 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:15,490 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:15,490 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:15,490 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:17,602 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:17,602 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:17,603 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:17,603 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:17,604 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:17,604 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:17,605 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:17,605 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:17,605 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:17,605 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:17,606 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:17,606 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:19,724 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:19,724 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:19,725 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:19,725 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:19,726 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:19,726 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:19,727 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:19,727 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:19,727 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:19,727 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:19,727 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:19,727 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:21,817 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:21,817 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:21,818 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:21,818 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:21,819 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:21,819 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:21,820 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:21,820 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:21,820 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:21,820 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:21,820 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:21,820 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:23,984 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:23,984 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:23,985 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:23,985 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:23,986 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:23,986 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:23,986 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:23,986 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:23,986 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:23,986 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:23,987 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:23,987 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:26,143 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:26,143 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:26,144 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:26,144 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:26,145 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:26,145 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:26,145 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:26,145 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:26,145 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:26,145 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:26,146 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:26,146 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:28,282 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:28,282 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:28,284 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:28,284 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:28,284 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:28,284 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:28,285 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:28,285 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:28,285 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:28,285 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:28,285 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:28,285 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:30,357 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:30,357 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:30,358 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:30,358 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:30,358 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:30,358 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:30,359 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:30,359 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:30,360 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:30,360 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:30,360 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:30,360 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:32,482 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:32,482 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:32,483 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:32,483 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:32,484 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:32,484 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:32,484 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:32,484 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:32,484 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:32,484 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:32,485 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:32,485 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:34,570 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:34,570 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:34,571 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:34,571 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:34,572 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:34,572 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:34,572 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:34,572 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:34,572 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:34,572 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:34,573 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:34,573 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:36,691 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:36,691 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:36,692 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:36,692 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:36,693 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:36,693 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:36,693 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:36,693 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:36,694 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:36,694 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:36,694 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:36,694 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:38,799 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:38,799 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:38,800 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:38,800 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:38,802 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:38,802 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:38,803 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:38,803 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:38,803 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:38,803 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:38,804 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:38,804 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:40,915 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:40,915 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:40,916 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:40,916 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:40,917 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:40,917 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:40,918 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:40,918 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:40,918 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:40,918 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:40,918 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:40,918 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:43,037 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:43,037 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:43,038 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:43,038 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:43,039 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:43,039 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:43,040 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:43,040 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:43,040 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:43,040 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:43,040 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:43,040 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:45,162 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:45,162 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:31:45,163 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:45,163 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:31:45,164 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:45,164 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-03 23:31:45,166 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:45,166 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:31:45,166 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:45,166 - ERROR - [MLModel] Classical models prediction failed - This SGDClassifier instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:31:45,166 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:45,166 - ERROR - [MLModel] One or more classical models failed to predict.
+2025-01-03 23:31:50,763 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:31:50,764 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:31:50,765 - INFO - [MLModel] sgd not found. Using default model.
+2025-01-03 23:31:50,765 - INFO - [MLModel] rf not found. Using default model.
+2025-01-03 23:31:50,765 - INFO - [MLModel] gb not found. Using default model.
+2025-01-03 23:31:50,766 - INFO - [MLModel] No existing PyTorch model found. Initializing a new one.
+2025-01-03 23:31:50,766 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:31:50,766 - INFO - [MLModel] Voting classifier not trained yet. It will be trained during model training.
+2025-01-03 23:32:33,403 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:32:33,403 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:32:33,403 - INFO - [MLModel] sgd not found. Using default model.
+2025-01-03 23:32:33,404 - INFO - [MLModel] rf not found. Using default model.
+2025-01-03 23:32:33,404 - INFO - [MLModel] gb not found. Using default model.
+2025-01-03 23:32:33,405 - INFO - [MLModel] No existing PyTorch model found. Initializing a new one.
+2025-01-03 23:32:33,405 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:32:33,405 - INFO - [MLModel] Voting classifier not trained yet. It will be trained during model training.
+2025-01-03 23:32:55,428 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:32:55,429 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:32:55,429 - INFO - [MLModel] sgd not found. Using default model.
+2025-01-03 23:32:55,429 - INFO - [MLModel] rf not found. Using default model.
+2025-01-03 23:32:55,429 - INFO - [MLModel] gb not found. Using default model.
+2025-01-03 23:32:55,430 - INFO - [MLModel] No existing PyTorch model found. Initializing a new one.
+2025-01-03 23:32:55,430 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:32:55,431 - INFO - [MLModel] Voting classifier not trained yet. It will be trained during model training.
+2025-01-03 23:33:38,029 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:33:38,029 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:33:38,029 - INFO - [MLModel] sgd not found. Using default model.
+2025-01-03 23:33:38,029 - INFO - [MLModel] rf not found. Using default model.
+2025-01-03 23:33:38,030 - INFO - [MLModel] gb not found. Using default model.
+2025-01-03 23:33:38,030 - INFO - [MLModel] No existing PyTorch model found. Initializing a new one.
+2025-01-03 23:33:38,031 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:33:38,031 - INFO - [MLModel] Voting classifier not trained yet. It will be trained during model training.
+2025-01-03 23:35:21,120 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:35:21,121 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:35:21,122 - INFO - [MLModel] sgd not found. Using default model.
+2025-01-03 23:35:21,122 - INFO - [MLModel] rf not found. Using default model.
+2025-01-03 23:35:21,122 - INFO - [MLModel] gb not found. Using default model.
+2025-01-03 23:35:21,123 - INFO - [MLModel] No existing PyTorch model found. Initializing a new one.
+2025-01-03 23:35:21,124 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:35:21,124 - INFO - [MLModel] Voting classifier not trained yet. It will be trained during model training.
+2025-01-03 23:35:21,124 - WARNING - [MLModel] Scaler and/or PCA files not found. They need to be fitted during training.
+2025-01-03 23:35:32,633 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:35:32,633 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:35:32,633 - INFO - [MLModel] sgd not found. Using default model.
+2025-01-03 23:35:32,634 - INFO - [MLModel] rf not found. Using default model.
+2025-01-03 23:35:32,634 - INFO - [MLModel] gb not found. Using default model.
+2025-01-03 23:35:32,635 - INFO - [MLModel] No existing PyTorch model found. Initializing a new one.
+2025-01-03 23:35:32,635 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:35:32,635 - INFO - [MLModel] Voting classifier not trained yet. It will be trained during model training.
+2025-01-03 23:35:32,635 - WARNING - [MLModel] Scaler and/or PCA files not found. They need to be fitted during training.
+2025-01-03 23:35:36,677 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:35:36,677 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:35:36,678 - INFO - [MLModel] sgd not found. Using default model.
+2025-01-03 23:35:36,678 - INFO - [MLModel] rf not found. Using default model.
+2025-01-03 23:35:36,678 - INFO - [MLModel] gb not found. Using default model.
+2025-01-03 23:35:36,679 - INFO - [MLModel] No existing PyTorch model found. Initializing a new one.
+2025-01-03 23:35:36,679 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:35:36,679 - INFO - [MLModel] Voting classifier not trained yet. It will be trained during model training.
+2025-01-03 23:35:36,680 - WARNING - [MLModel] Scaler and/or PCA files not found. They need to be fitted during training.
+2025-01-03 23:35:49,790 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:35:49,790 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:35:49,791 - ERROR - [MLModel] Error during feature engineering - This PCA instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:35:51,903 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:35:51,903 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:35:51,904 - ERROR - [MLModel] Error during feature engineering - This PCA instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:35:53,993 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:35:53,994 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:35:53,994 - ERROR - [MLModel] Error during feature engineering - This PCA instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:35:56,088 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:35:56,089 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:35:56,089 - ERROR - [MLModel] Error during feature engineering - This PCA instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:35:58,188 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:35:58,189 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:35:58,189 - ERROR - [MLModel] Error during feature engineering - This PCA instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:36:00,278 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:36:00,279 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:36:00,279 - ERROR - [MLModel] Error during feature engineering - This PCA instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:36:02,371 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:36:02,372 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:36:02,372 - ERROR - [MLModel] Error during feature engineering - This PCA instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-01-03 23:37:14,749 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:37:14,749 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:37:14,750 - INFO - [MLModel] sgd not found. Using default model.
+2025-01-03 23:37:14,750 - INFO - [MLModel] rf not found. Using default model.
+2025-01-03 23:37:14,750 - INFO - [MLModel] gb not found. Using default model.
+2025-01-03 23:37:14,751 - INFO - [MLModel] No existing PyTorch model found. Initializing a new one.
+2025-01-03 23:37:14,751 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:37:14,751 - INFO - [MLModel] Voting classifier not trained yet. It will be trained during model training.
+2025-01-03 23:37:14,752 - WARNING - [MLModel] Scaler and/or PCA files not found. They need to be fitted during training.
+2025-01-03 23:53:10,501 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:53:10,501 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:53:10,502 - INFO - [MLModel] sgd not found. Using default model.
+2025-01-03 23:53:10,502 - INFO - [MLModel] rf not found. Using default model.
+2025-01-03 23:53:10,502 - INFO - [MLModel] gb not found. Using default model.
+2025-01-03 23:53:10,502 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:53:10,502 - INFO - [MLModel] Voting classifier not trained yet. It will be trained during model training.
+2025-01-03 23:53:10,503 - INFO - [MLModel] No existing PyTorch model found. Initializing a new one.
+2025-01-03 23:53:10,503 - WARNING - [MLModel] Scaler and/or PCA files not found. They need to be fitted during training.
+2025-01-03 23:53:10,754 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:53:10,754 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:53:10,756 - INFO - [MLModel] PCA transformation fitted successfully.
+2025-01-03 23:53:10,756 - INFO - [MLModel] Scaler fitted successfully.
+2025-01-03 23:53:10,756 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:55:01,237 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:55:01,238 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:55:01,238 - INFO - [MLModel] sgd not found. Using default model.
+2025-01-03 23:55:01,239 - INFO - [MLModel] rf not found. Using default model.
+2025-01-03 23:55:01,239 - INFO - [MLModel] gb not found. Using default model.
+2025-01-03 23:55:01,239 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:55:01,239 - INFO - [MLModel] Voting classifier not trained yet. It will be trained during model training.
+2025-01-03 23:55:01,241 - INFO - [MLModel] No existing PyTorch model found. Initializing a new one.
+2025-01-03 23:55:01,241 - WARNING - [MLModel] Scaler and/or PCA files not found. They need to be fitted during training.
+2025-01-03 23:55:01,535 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:55:01,536 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:55:01,537 - INFO - [MLModel] PCA transformation fitted successfully.
+2025-01-03 23:55:01,537 - INFO - [MLModel] Scaler fitted successfully.
+2025-01-03 23:55:01,538 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:58:11,668 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:58:11,668 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:58:11,669 - INFO - [MLModel] sgd not found. Using default model.
+2025-01-03 23:58:11,669 - INFO - [MLModel] rf not found. Using default model.
+2025-01-03 23:58:11,669 - INFO - [MLModel] gb not found. Using default model.
+2025-01-03 23:58:11,669 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:58:11,669 - INFO - [MLModel] Voting classifier not trained yet. It will be trained during model training.
+2025-01-03 23:58:11,670 - INFO - [MLModel] No existing PyTorch model found. Initializing a new one.
+2025-01-03 23:58:11,671 - WARNING - [MLModel] Scaler and/or PCA files not found. They need to be fitted during training.
+2025-01-03 23:58:11,902 - INFO - [MLModel] Starting feature engineering.
+2025-01-03 23:58:11,902 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-03 23:58:11,904 - INFO - [MLModel] PCA transformation fitted successfully.
+2025-01-03 23:58:11,904 - INFO - [MLModel] Scaler fitted successfully.
+2025-01-03 23:58:11,905 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-03 23:58:11,905 - INFO - [MLModel] Starting training for classical ML models.
+2025-01-03 23:58:11,905 - INFO - [MLModel] Training SGDClassifier.
+2025-01-03 23:58:11,916 - INFO - [MLModel] sgd model saved at D:\Coding3.0\possible\models\sgd_model.pkl
+2025-01-03 23:58:11,916 - INFO - [MLModel] Training RandomForestClassifier.
+2025-01-03 23:58:12,092 - INFO - [MLModel] rf model saved at D:\Coding3.0\possible\models\rf_model.pkl
+2025-01-03 23:58:12,092 - INFO - [MLModel] Training GradientBoostingClassifier.
+2025-01-03 23:58:12,344 - INFO - [MLModel] gb model saved at D:\Coding3.0\possible\models\gb_model.pkl
+2025-01-03 23:58:12,344 - INFO - [MLModel] Training VotingClassifier.
+2025-01-03 23:58:12,836 - INFO - [MLModel] voting model saved at D:\Coding3.0\possible\models\voting_model.pkl
+2025-01-03 23:58:12,837 - INFO - [MLModel] Classical ML models trained and saved successfully.
+2025-01-03 23:58:12,837 - INFO - [MLModel] Starting PyTorch model training.
+2025-01-03 23:58:14,370 - INFO - [MLModel] Epoch 1: Train Loss=0.695990, Validation Loss=0.699929
+2025-01-03 23:58:14,373 - INFO - [MLModel] Epoch 2: Train Loss=0.691080, Validation Loss=0.695414
+2025-01-03 23:58:14,375 - INFO - [MLModel] Epoch 3: Train Loss=0.686265, Validation Loss=0.691091
+2025-01-03 23:58:14,377 - INFO - [MLModel] Epoch 4: Train Loss=0.681567, Validation Loss=0.686983
+2025-01-03 23:58:14,379 - INFO - [MLModel] Epoch 5: Train Loss=0.676932, Validation Loss=0.683044
+2025-01-03 23:58:14,381 - INFO - [MLModel] Epoch 6: Train Loss=0.672319, Validation Loss=0.679144
+2025-01-03 23:58:14,383 - INFO - [MLModel] Epoch 7: Train Loss=0.667719, Validation Loss=0.675284
+2025-01-03 23:58:14,386 - INFO - [MLModel] Epoch 8: Train Loss=0.663080, Validation Loss=0.671467
+2025-01-03 23:58:14,387 - INFO - [MLModel] Epoch 9: Train Loss=0.658384, Validation Loss=0.667668
+2025-01-03 23:58:14,390 - INFO - [MLModel] Epoch 10: Train Loss=0.653628, Validation Loss=0.663813
+2025-01-03 23:58:14,393 - INFO - [MLModel] PyTorch model saved successfully.
+2025-01-03 23:58:14,395 - INFO - [MLModel] Scaler saved at D:\Coding3.0\possible\models\scaler.pkl
+2025-01-03 23:58:14,396 - INFO - [MLModel] PCA saved at D:\Coding3.0\possible\models\pca.pkl
+2025-01-03 23:58:14,397 - INFO - [MLModel] All models trained and saved successfully.
+2025-01-03 23:58:18,470 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:58:18,470 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:58:18,470 - INFO - [MLModel] Loading sgd from D:\Coding3.0\possible\models\sgd_model.pkl
+2025-01-03 23:58:18,477 - INFO - [MLModel] Loading rf from D:\Coding3.0\possible\models\rf_model.pkl
+2025-01-03 23:58:18,499 - INFO - [MLModel] Loading gb from D:\Coding3.0\possible\models\gb_model.pkl
+2025-01-03 23:58:18,513 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:58:18,513 - INFO - [MLModel] Loading existing Voting classifier.
+2025-01-03 23:58:18,551 - INFO - [MLModel] Voting classifier loaded successfully.
+2025-01-03 23:58:18,552 - INFO - [MLModel] Loading existing PyTorch model state.
+2025-01-03 23:58:18,566 - INFO - [MLModel] PyTorch model loaded successfully.
+2025-01-03 23:58:18,579 - INFO - [MLModel] Scaler and PCA loaded successfully.
+2025-01-03 23:58:29,414 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:58:29,414 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:58:29,415 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:58:29,415 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:58:29,415 - INFO - [MLModel] Loading sgd from D:\Coding3.0\possible\models\sgd_model.pkl
+2025-01-03 23:58:29,415 - INFO - [MLModel] Loading sgd from D:\Coding3.0\possible\models\sgd_model.pkl
+2025-01-03 23:58:29,416 - INFO - [MLModel] Loading rf from D:\Coding3.0\possible\models\rf_model.pkl
+2025-01-03 23:58:29,416 - INFO - [MLModel] Loading rf from D:\Coding3.0\possible\models\rf_model.pkl
+2025-01-03 23:58:29,429 - INFO - [MLModel] Loading gb from D:\Coding3.0\possible\models\gb_model.pkl
+2025-01-03 23:58:29,429 - INFO - [MLModel] Loading gb from D:\Coding3.0\possible\models\gb_model.pkl
+2025-01-03 23:58:29,432 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:58:29,432 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:58:29,433 - INFO - [MLModel] Loading existing Voting classifier.
+2025-01-03 23:58:29,433 - INFO - [MLModel] Loading existing Voting classifier.
+2025-01-03 23:58:29,464 - INFO - [MLModel] Voting classifier loaded successfully.
+2025-01-03 23:58:29,464 - INFO - [MLModel] Voting classifier loaded successfully.
+2025-01-03 23:58:29,465 - INFO - [MLModel] Loading existing PyTorch model state.
+2025-01-03 23:58:29,465 - INFO - [MLModel] Loading existing PyTorch model state.
+2025-01-03 23:58:29,466 - INFO - [MLModel] PyTorch model loaded successfully.
+2025-01-03 23:58:29,466 - INFO - [MLModel] PyTorch model loaded successfully.
+2025-01-03 23:58:29,467 - INFO - [MLModel] Scaler and PCA loaded successfully.
+2025-01-03 23:58:29,467 - INFO - [MLModel] Scaler and PCA loaded successfully.
+2025-01-03 23:58:38,347 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:58:38,347 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:58:38,347 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:58:38,348 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:58:38,348 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:58:38,348 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:58:38,348 - INFO - [MLModel] Loading sgd from D:\Coding3.0\possible\models\sgd_model.pkl
+2025-01-03 23:58:38,348 - INFO - [MLModel] Loading sgd from D:\Coding3.0\possible\models\sgd_model.pkl
+2025-01-03 23:58:38,348 - INFO - [MLModel] Loading sgd from D:\Coding3.0\possible\models\sgd_model.pkl
+2025-01-03 23:58:38,349 - INFO - [MLModel] Loading rf from D:\Coding3.0\possible\models\rf_model.pkl
+2025-01-03 23:58:38,349 - INFO - [MLModel] Loading rf from D:\Coding3.0\possible\models\rf_model.pkl
+2025-01-03 23:58:38,349 - INFO - [MLModel] Loading rf from D:\Coding3.0\possible\models\rf_model.pkl
+2025-01-03 23:58:38,363 - INFO - [MLModel] Loading gb from D:\Coding3.0\possible\models\gb_model.pkl
+2025-01-03 23:58:38,363 - INFO - [MLModel] Loading gb from D:\Coding3.0\possible\models\gb_model.pkl
+2025-01-03 23:58:38,363 - INFO - [MLModel] Loading gb from D:\Coding3.0\possible\models\gb_model.pkl
+2025-01-03 23:58:38,366 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:58:38,366 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:58:38,366 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:58:38,367 - INFO - [MLModel] Loading existing Voting classifier.
+2025-01-03 23:58:38,367 - INFO - [MLModel] Loading existing Voting classifier.
+2025-01-03 23:58:38,367 - INFO - [MLModel] Loading existing Voting classifier.
+2025-01-03 23:58:38,475 - INFO - [MLModel] Voting classifier loaded successfully.
+2025-01-03 23:58:38,475 - INFO - [MLModel] Voting classifier loaded successfully.
+2025-01-03 23:58:38,475 - INFO - [MLModel] Voting classifier loaded successfully.
+2025-01-03 23:58:38,476 - INFO - [MLModel] Loading existing PyTorch model state.
+2025-01-03 23:58:38,476 - INFO - [MLModel] Loading existing PyTorch model state.
+2025-01-03 23:58:38,476 - INFO - [MLModel] Loading existing PyTorch model state.
+2025-01-03 23:58:38,478 - INFO - [MLModel] PyTorch model loaded successfully.
+2025-01-03 23:58:38,478 - INFO - [MLModel] PyTorch model loaded successfully.
+2025-01-03 23:58:38,478 - INFO - [MLModel] PyTorch model loaded successfully.
+2025-01-03 23:58:38,480 - INFO - [MLModel] Scaler and PCA loaded successfully.
+2025-01-03 23:58:38,480 - INFO - [MLModel] Scaler and PCA loaded successfully.
+2025-01-03 23:58:38,480 - INFO - [MLModel] Scaler and PCA loaded successfully.
+2025-01-04 00:03:11,810 - INFO - [MLModel] Starting feature engineering.
+2025-01-04 00:03:11,811 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-04 00:03:11,816 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-04 00:03:11,816 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-04 00:03:11,822 - INFO - [MLModel] Classical ML models predictions computed successfully.
+2025-01-04 00:03:11,824 - INFO - [MLModel] PyTorch predictions computed successfully.
+2025-01-04 00:03:11,825 - INFO - [MLModel] Ensemble final prediction computed successfully.
+2025-01-04 00:03:38,594 - INFO - [MLModel] Starting feature engineering.
+2025-01-04 00:03:38,594 - INFO - [MLModel] Starting feature engineering.
+2025-01-04 00:03:38,594 - INFO - [MLModel] Starting feature engineering.
+2025-01-04 00:03:38,595 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-04 00:03:38,595 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-04 00:03:38,595 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-04 00:03:38,595 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-04 00:03:38,595 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-04 00:03:38,595 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-04 00:03:38,596 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-04 00:03:38,596 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-04 00:03:38,596 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-04 00:03:38,601 - INFO - [MLModel] Classical ML models predictions computed successfully.
+2025-01-04 00:03:38,601 - INFO - [MLModel] Classical ML models predictions computed successfully.
+2025-01-04 00:03:38,601 - INFO - [MLModel] Classical ML models predictions computed successfully.
+2025-01-04 00:03:38,602 - INFO - [MLModel] PyTorch predictions computed successfully.
+2025-01-04 00:03:38,602 - INFO - [MLModel] PyTorch predictions computed successfully.
+2025-01-04 00:03:38,602 - INFO - [MLModel] PyTorch predictions computed successfully.
+2025-01-04 00:03:38,603 - INFO - [MLModel] Ensemble final prediction computed successfully.
+2025-01-04 00:03:38,603 - INFO - [MLModel] Ensemble final prediction computed successfully.
+2025-01-04 00:03:38,603 - INFO - [MLModel] Ensemble final prediction computed successfully.
+2025-01-04 00:04:18,638 - INFO - [MLModel] Initializing model pipeline...
+2025-01-04 00:04:18,639 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-04 00:04:18,639 - INFO - [MLModel] Loading sgd from D:\Coding3.0\possible\models\sgd_model.pkl
+2025-01-04 00:04:18,640 - INFO - [MLModel] Loading rf from D:\Coding3.0\possible\models\rf_model.pkl
+2025-01-04 00:04:18,658 - INFO - [MLModel] Loading gb from D:\Coding3.0\possible\models\gb_model.pkl
+2025-01-04 00:04:18,665 - INFO - [MLModel] Voting classifier initialized.
+2025-01-04 00:04:18,666 - INFO - [MLModel] Loading existing Voting classifier.
+2025-01-04 00:04:18,700 - INFO - [MLModel] Voting classifier loaded successfully.
+2025-01-04 00:04:18,701 - INFO - [MLModel] Loading existing PyTorch model state.
+2025-01-04 00:04:18,702 - INFO - [MLModel] PyTorch model loaded successfully.
+2025-01-04 00:04:18,703 - INFO - [MLModel] Scaler and PCA loaded successfully.
+2025-01-04 00:05:29,971 - INFO - [MLModel] Initializing model pipeline...
+2025-01-04 00:05:29,971 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-04 00:05:29,972 - INFO - [MLModel] Loading sgd from D:\Coding3.0\possible\models\sgd_model.pkl
+2025-01-04 00:05:29,973 - INFO - [MLModel] Loading rf from D:\Coding3.0\possible\models\rf_model.pkl
+2025-01-04 00:05:29,991 - INFO - [MLModel] Loading gb from D:\Coding3.0\possible\models\gb_model.pkl
+2025-01-04 00:05:29,999 - INFO - [MLModel] Voting classifier initialized.
+2025-01-04 00:05:29,999 - INFO - [MLModel] Loading existing Voting classifier.
+2025-01-04 00:05:30,048 - INFO - [MLModel] Voting classifier loaded successfully.
+2025-01-04 00:05:30,049 - INFO - [MLModel] Loading existing PyTorch model state.
+2025-01-04 00:05:30,051 - INFO - [MLModel] PyTorch model loaded successfully.
+2025-01-04 00:05:30,053 - INFO - [MLModel] Scaler and PCA loaded successfully.
+2025-01-04 00:07:20,944 - INFO - [MLModel] Initializing model pipeline...
+2025-01-04 00:07:20,944 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-04 00:07:20,944 - INFO - [MLModel] Loading sgd from D:\Coding3.0\possible\models\sgd_model.pkl
+2025-01-04 00:07:20,946 - INFO - [MLModel] Loading rf from D:\Coding3.0\possible\models\rf_model.pkl
+2025-01-04 00:07:20,959 - INFO - [MLModel] Loading gb from D:\Coding3.0\possible\models\gb_model.pkl
+2025-01-04 00:07:20,963 - INFO - [MLModel] Voting classifier initialized.
+2025-01-04 00:07:20,964 - INFO - [MLModel] Loading existing Voting classifier.
+2025-01-04 00:07:20,996 - INFO - [MLModel] Voting classifier loaded successfully.
+2025-01-04 00:07:20,998 - INFO - [MLModel] Loading existing PyTorch model state.
+2025-01-04 00:07:20,999 - INFO - [MLModel] PyTorch model loaded successfully.
+2025-01-04 00:07:21,000 - INFO - [MLModel] Scaler and PCA loaded successfully.
+2025-01-04 00:07:41,875 - INFO - [MLModel] Initializing model pipeline...
+2025-01-04 00:07:41,875 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-04 00:07:41,876 - INFO - [MLModel] Loading sgd from D:\Coding3.0\possible\models\sgd_model.pkl
+2025-01-04 00:07:41,876 - INFO - [MLModel] Loading rf from D:\Coding3.0\possible\models\rf_model.pkl
+2025-01-04 00:07:41,890 - INFO - [MLModel] Loading gb from D:\Coding3.0\possible\models\gb_model.pkl
+2025-01-04 00:07:41,895 - INFO - [MLModel] Voting classifier initialized.
+2025-01-04 00:07:41,895 - INFO - [MLModel] Loading existing Voting classifier.
+2025-01-04 00:07:41,926 - INFO - [MLModel] Voting classifier loaded successfully.
+2025-01-04 00:07:41,927 - INFO - [MLModel] Loading existing PyTorch model state.
+2025-01-04 00:07:41,928 - INFO - [MLModel] PyTorch model loaded successfully.
+2025-01-04 00:07:41,929 - INFO - [MLModel] Scaler and PCA loaded successfully.
+2025-01-04 00:08:11,804 - INFO - [MLModel] Starting feature engineering.
+2025-01-04 00:08:11,804 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-04 00:08:11,805 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-04 00:08:11,805 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-04 00:08:11,812 - INFO - [MLModel] Classical ML models predictions computed successfully.
+2025-01-04 00:08:11,812 - INFO - [MLModel] PyTorch predictions computed successfully.
+2025-01-04 00:08:11,813 - INFO - [MLModel] Ensemble final prediction computed successfully.
+2025-01-04 00:08:19,237 - INFO - [MLModel] Initializing model pipeline...
+2025-01-04 00:08:19,238 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-04 00:08:19,238 - INFO - [MLModel] Loading sgd from D:\Coding3.0\possible\models\sgd_model.pkl
+2025-01-04 00:08:19,239 - INFO - [MLModel] Loading rf from D:\Coding3.0\possible\models\rf_model.pkl
+2025-01-04 00:08:19,253 - INFO - [MLModel] Loading gb from D:\Coding3.0\possible\models\gb_model.pkl
+2025-01-04 00:08:19,259 - INFO - [MLModel] Voting classifier initialized.
+2025-01-04 00:08:19,259 - INFO - [MLModel] Loading existing Voting classifier.
+2025-01-04 00:08:19,291 - INFO - [MLModel] Voting classifier loaded successfully.
+2025-01-04 00:08:19,292 - INFO - [MLModel] Loading existing PyTorch model state.
+2025-01-04 00:08:19,293 - INFO - [MLModel] PyTorch model loaded successfully.
+2025-01-04 00:08:19,294 - INFO - [MLModel] Scaler and PCA loaded successfully.
+2025-01-04 00:08:45,537 - INFO - [MLModel] Initializing model pipeline...
+2025-01-04 00:08:45,537 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-04 00:08:45,538 - INFO - [MLModel] Loading sgd from D:\Coding3.0\possible\models\sgd_model.pkl
+2025-01-04 00:08:45,539 - INFO - [MLModel] Loading rf from D:\Coding3.0\possible\models\rf_model.pkl
+2025-01-04 00:08:45,552 - INFO - [MLModel] Loading gb from D:\Coding3.0\possible\models\gb_model.pkl
+2025-01-04 00:08:45,556 - INFO - [MLModel] Voting classifier initialized.
+2025-01-04 00:08:45,556 - INFO - [MLModel] Loading existing Voting classifier.
+2025-01-04 00:08:45,587 - INFO - [MLModel] Voting classifier loaded successfully.
+2025-01-04 00:08:45,589 - INFO - [MLModel] Loading existing PyTorch model state.
+2025-01-04 00:08:45,590 - INFO - [MLModel] PyTorch model loaded successfully.
+2025-01-04 00:08:45,591 - INFO - [MLModel] Scaler and PCA loaded successfully.
+2025-01-04 00:08:56,440 - INFO - [MLModel] Initializing model pipeline...
+2025-01-04 00:08:56,440 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-04 00:08:56,440 - INFO - [MLModel] Loading sgd from D:\Coding3.0\possible\models\sgd_model.pkl
+2025-01-04 00:08:56,442 - INFO - [MLModel] Loading rf from D:\Coding3.0\possible\models\rf_model.pkl
+2025-01-04 00:08:56,455 - INFO - [MLModel] Loading gb from D:\Coding3.0\possible\models\gb_model.pkl
+2025-01-04 00:08:56,460 - INFO - [MLModel] Voting classifier initialized.
+2025-01-04 00:08:56,460 - INFO - [MLModel] Loading existing Voting classifier.
+2025-01-04 00:08:56,493 - INFO - [MLModel] Voting classifier loaded successfully.
+2025-01-04 00:08:56,494 - INFO - [MLModel] Loading existing PyTorch model state.
+2025-01-04 00:08:56,495 - INFO - [MLModel] PyTorch model loaded successfully.
+2025-01-04 00:08:56,496 - INFO - [MLModel] Scaler and PCA loaded successfully.
+2025-01-04 00:09:01,848 - INFO - [MLModel] Initializing model pipeline...
+2025-01-04 00:09:01,848 - INFO - [MLModel] Initializing model pipeline...
+2025-01-04 00:09:01,849 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-04 00:09:01,849 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-04 00:09:01,849 - INFO - [MLModel] Loading sgd from D:\Coding3.0\possible\models\sgd_model.pkl
+2025-01-04 00:09:01,849 - INFO - [MLModel] Loading sgd from D:\Coding3.0\possible\models\sgd_model.pkl
+2025-01-04 00:09:01,850 - INFO - [MLModel] Loading rf from D:\Coding3.0\possible\models\rf_model.pkl
+2025-01-04 00:09:01,850 - INFO - [MLModel] Loading rf from D:\Coding3.0\possible\models\rf_model.pkl
+2025-01-04 00:09:01,862 - INFO - [MLModel] Loading gb from D:\Coding3.0\possible\models\gb_model.pkl
+2025-01-04 00:09:01,862 - INFO - [MLModel] Loading gb from D:\Coding3.0\possible\models\gb_model.pkl
+2025-01-04 00:09:01,866 - INFO - [MLModel] Voting classifier initialized.
+2025-01-04 00:09:01,866 - INFO - [MLModel] Voting classifier initialized.
+2025-01-04 00:09:01,867 - INFO - [MLModel] Loading existing Voting classifier.
+2025-01-04 00:09:01,867 - INFO - [MLModel] Loading existing Voting classifier.
+2025-01-04 00:09:01,900 - INFO - [MLModel] Voting classifier loaded successfully.
+2025-01-04 00:09:01,900 - INFO - [MLModel] Voting classifier loaded successfully.
+2025-01-04 00:09:01,901 - INFO - [MLModel] Loading existing PyTorch model state.
+2025-01-04 00:09:01,901 - INFO - [MLModel] Loading existing PyTorch model state.
+2025-01-04 00:09:01,902 - INFO - [MLModel] PyTorch model loaded successfully.
+2025-01-04 00:09:01,902 - INFO - [MLModel] PyTorch model loaded successfully.
+2025-01-04 00:09:01,903 - INFO - [MLModel] Scaler and PCA loaded successfully.
+2025-01-04 00:09:01,903 - INFO - [MLModel] Scaler and PCA loaded successfully.
+2025-01-04 00:13:11,803 - INFO - [MLModel] Starting feature engineering.
+2025-01-04 00:13:11,804 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-04 00:13:11,805 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-04 00:13:11,805 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-04 00:13:11,811 - INFO - [MLModel] Classical ML models predictions computed successfully.
+2025-01-04 00:13:11,812 - INFO - [MLModel] PyTorch predictions computed successfully.
+2025-01-04 00:13:11,812 - INFO - [MLModel] Ensemble final prediction computed successfully.
+2025-01-04 00:14:02,080 - INFO - [MLModel] Starting feature engineering.
+2025-01-04 00:14:02,080 - INFO - [MLModel] Starting feature engineering.
+2025-01-04 00:14:02,081 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-04 00:14:02,081 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-04 00:14:02,082 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-04 00:14:02,082 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-04 00:14:02,082 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-04 00:14:02,082 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-04 00:14:02,089 - INFO - [MLModel] Classical ML models predictions computed successfully.
+2025-01-04 00:14:02,089 - INFO - [MLModel] Classical ML models predictions computed successfully.
+2025-01-04 00:14:02,091 - INFO - [MLModel] PyTorch predictions computed successfully.
+2025-01-04 00:14:02,091 - INFO - [MLModel] PyTorch predictions computed successfully.
+2025-01-04 00:14:02,091 - INFO - [MLModel] Ensemble final prediction computed successfully.
+2025-01-04 00:14:02,091 - INFO - [MLModel] Ensemble final prediction computed successfully.
+2025-01-04 00:48:56,647 - INFO - [MLModel] Initializing model pipeline...
+2025-01-04 00:48:56,647 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-04 00:48:56,647 - INFO - [MLModel] Loading sgd from D:\Coding3.0\possible\models\sgd_model.pkl
+2025-01-04 00:48:56,649 - INFO - [MLModel] Loading rf from D:\Coding3.0\possible\models\rf_model.pkl
+2025-01-04 00:48:56,666 - INFO - [MLModel] Loading gb from D:\Coding3.0\possible\models\gb_model.pkl
+2025-01-04 00:48:56,670 - INFO - [MLModel] Voting classifier initialized.
+2025-01-04 00:48:56,671 - INFO - [MLModel] Loading existing Voting classifier.
+2025-01-04 00:48:56,704 - INFO - [MLModel] Voting classifier loaded successfully.
+2025-01-04 00:48:56,705 - INFO - [MLModel] Loading existing PyTorch model state.
+2025-01-04 00:48:56,706 - INFO - [MLModel] PyTorch model loaded successfully.
+2025-01-04 00:48:56,707 - INFO - [MLModel] Scaler and PCA loaded successfully.
+2025-01-04 00:49:00,591 - INFO - [MLModel] Initializing model pipeline...
+2025-01-04 00:49:00,591 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-04 00:49:00,591 - INFO - [MLModel] Loading sgd from D:\Coding3.0\possible\models\sgd_model.pkl
+2025-01-04 00:49:00,592 - INFO - [MLModel] Loading rf from D:\Coding3.0\possible\models\rf_model.pkl
+2025-01-04 00:49:00,606 - INFO - [MLModel] Loading gb from D:\Coding3.0\possible\models\gb_model.pkl
+2025-01-04 00:49:00,611 - INFO - [MLModel] Voting classifier initialized.
+2025-01-04 00:49:00,611 - INFO - [MLModel] Loading existing Voting classifier.
+2025-01-04 00:49:00,644 - INFO - [MLModel] Voting classifier loaded successfully.
+2025-01-04 00:49:00,645 - INFO - [MLModel] Loading existing PyTorch model state.
+2025-01-04 00:49:00,646 - INFO - [MLModel] PyTorch model loaded successfully.
+2025-01-04 00:49:00,647 - INFO - [MLModel] Scaler and PCA loaded successfully.
+2025-01-04 00:50:22,886 - INFO - [MLModel] Initializing model pipeline...
+2025-01-04 00:50:22,887 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-04 00:50:22,887 - INFO - [MLModel] Loading sgd from D:\Coding3.0\possible\models\sgd_model.pkl
+2025-01-04 00:50:22,888 - INFO - [MLModel] Loading rf from D:\Coding3.0\possible\models\rf_model.pkl
+2025-01-04 00:50:22,905 - INFO - [MLModel] Loading gb from D:\Coding3.0\possible\models\gb_model.pkl
+2025-01-04 00:50:22,910 - INFO - [MLModel] Voting classifier initialized.
+2025-01-04 00:50:22,910 - INFO - [MLModel] Loading existing Voting classifier.
+2025-01-04 00:50:22,942 - INFO - [MLModel] Voting classifier loaded successfully.
+2025-01-04 00:50:22,943 - INFO - [MLModel] Loading existing PyTorch model state.
+2025-01-04 00:50:22,945 - INFO - [MLModel] PyTorch model loaded successfully.
+2025-01-04 00:50:22,946 - INFO - [MLModel] Scaler and PCA loaded successfully.
+2025-01-04 00:52:38,358 - INFO - [MLModel] Initializing model pipeline...
+2025-01-04 00:52:38,358 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-04 00:52:38,359 - INFO - [MLModel] Loading sgd from D:\Coding3.0\possible\models\sgd_model.pkl
+2025-01-04 00:52:38,360 - INFO - [MLModel] Loading rf from D:\Coding3.0\possible\models\rf_model.pkl
+2025-01-04 00:52:38,374 - INFO - [MLModel] Loading gb from D:\Coding3.0\possible\models\gb_model.pkl
+2025-01-04 00:52:38,378 - INFO - [MLModel] Voting classifier initialized.
+2025-01-04 00:52:38,379 - INFO - [MLModel] Loading existing Voting classifier.
+2025-01-04 00:52:38,412 - INFO - [MLModel] Voting classifier loaded successfully.
+2025-01-04 00:52:38,413 - INFO - [MLModel] Loading existing PyTorch model state.
+2025-01-04 00:52:38,414 - INFO - [MLModel] PyTorch model loaded successfully.
+2025-01-04 00:52:38,415 - INFO - [MLModel] Scaler and PCA loaded successfully.
+2025-01-04 00:53:25,561 - INFO - [MLModel] Initializing model pipeline...
+2025-01-04 00:53:25,561 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-04 00:53:25,561 - INFO - [MLModel] Loading sgd from D:\Coding3.0\possible\models\sgd_model.pkl
+2025-01-04 00:53:25,562 - INFO - [MLModel] Loading rf from D:\Coding3.0\possible\models\rf_model.pkl
+2025-01-04 00:53:25,576 - INFO - [MLModel] Loading gb from D:\Coding3.0\possible\models\gb_model.pkl
+2025-01-04 00:53:25,580 - INFO - [MLModel] Voting classifier initialized.
+2025-01-04 00:53:25,580 - INFO - [MLModel] Loading existing Voting classifier.
+2025-01-04 00:53:25,612 - INFO - [MLModel] Voting classifier loaded successfully.
+2025-01-04 00:53:25,613 - INFO - [MLModel] Loading existing PyTorch model state.
+2025-01-04 00:53:25,614 - INFO - [MLModel] PyTorch model loaded successfully.
+2025-01-04 00:53:25,615 - INFO - [MLModel] Scaler and PCA loaded successfully.
+2025-01-04 00:53:54,059 - INFO - [MLModel] Initializing model pipeline...
+2025-01-04 00:53:54,059 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-04 00:53:54,060 - INFO - [MLModel] Loading sgd from D:\Coding3.0\possible\models\sgd_model.pkl
+2025-01-04 00:53:54,060 - INFO - [MLModel] Loading rf from D:\Coding3.0\possible\models\rf_model.pkl
+2025-01-04 00:53:54,075 - INFO - [MLModel] Loading gb from D:\Coding3.0\possible\models\gb_model.pkl
+2025-01-04 00:53:54,079 - INFO - [MLModel] Voting classifier initialized.
+2025-01-04 00:53:54,080 - INFO - [MLModel] Loading existing Voting classifier.
+2025-01-04 00:53:54,112 - INFO - [MLModel] Voting classifier loaded successfully.
+2025-01-04 00:53:54,113 - INFO - [MLModel] Loading existing PyTorch model state.
+2025-01-04 00:53:54,114 - INFO - [MLModel] PyTorch model loaded successfully.
+2025-01-04 00:53:54,115 - INFO - [MLModel] Scaler and PCA loaded successfully.
+2025-01-04 00:53:56,894 - INFO - [MLModel] Starting feature engineering.
+2025-01-04 00:53:56,894 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-04 00:53:56,895 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-04 00:53:56,895 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-04 00:53:56,902 - INFO - [MLModel] Classical ML models predictions computed successfully.
+2025-01-04 00:53:56,903 - INFO - [MLModel] PyTorch predictions computed successfully.
+2025-01-04 00:53:56,903 - INFO - [MLModel] Ensemble final prediction computed successfully.
+2025-01-04 01:01:01,968 - INFO - [MLModel] Initializing model pipeline...
+2025-01-04 01:01:01,969 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-04 01:01:01,969 - INFO - [MLModel] Loading sgd from D:\Coding3.0\possible\models\sgd_model.pkl
+2025-01-04 01:01:01,970 - INFO - [MLModel] Loading rf from D:\Coding3.0\possible\models\rf_model.pkl
+2025-01-04 01:01:01,983 - INFO - [MLModel] Loading gb from D:\Coding3.0\possible\models\gb_model.pkl
+2025-01-04 01:01:01,987 - INFO - [MLModel] Voting classifier initialized.
+2025-01-04 01:01:01,987 - INFO - [MLModel] Loading existing Voting classifier.
+2025-01-04 01:01:02,017 - INFO - [MLModel] Voting classifier loaded successfully.
+2025-01-04 01:01:02,019 - INFO - [MLModel] Loading existing PyTorch model state.
+2025-01-04 01:01:02,020 - INFO - [MLModel] PyTorch model loaded successfully.
+2025-01-04 01:01:02,021 - INFO - [MLModel] Scaler and PCA loaded successfully.
+2025-01-04 01:01:05,960 - INFO - [MLModel] Initializing model pipeline...
+2025-01-04 01:01:05,960 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-04 01:01:05,961 - INFO - [MLModel] Loading sgd from D:\Coding3.0\possible\models\sgd_model.pkl
+2025-01-04 01:01:05,962 - INFO - [MLModel] Loading rf from D:\Coding3.0\possible\models\rf_model.pkl
+2025-01-04 01:01:05,975 - INFO - [MLModel] Loading gb from D:\Coding3.0\possible\models\gb_model.pkl
+2025-01-04 01:01:05,980 - INFO - [MLModel] Voting classifier initialized.
+2025-01-04 01:01:05,980 - INFO - [MLModel] Loading existing Voting classifier.
+2025-01-04 01:01:06,017 - INFO - [MLModel] Voting classifier loaded successfully.
+2025-01-04 01:01:06,018 - INFO - [MLModel] Loading existing PyTorch model state.
+2025-01-04 01:01:06,020 - INFO - [MLModel] PyTorch model loaded successfully.
+2025-01-04 01:01:06,021 - INFO - [MLModel] Scaler and PCA loaded successfully.
+2025-01-04 01:06:02,249 - INFO - [MLModel] Starting feature engineering.
+2025-01-04 01:06:02,249 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-04 01:06:02,250 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-04 01:06:02,250 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-04 01:06:02,256 - INFO - [MLModel] Classical ML models predictions computed successfully.
+2025-01-04 01:06:02,257 - INFO - [MLModel] PyTorch predictions computed successfully.
+2025-01-04 01:06:02,257 - INFO - [MLModel] Ensemble final prediction computed successfully.
+2025-01-04 01:11:02,180 - INFO - [MLModel] Starting feature engineering.
+2025-01-04 01:11:02,181 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-04 01:11:02,182 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-04 01:11:02,182 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-04 01:11:02,188 - INFO - [MLModel] Classical ML models predictions computed successfully.
+2025-01-04 01:11:02,189 - INFO - [MLModel] PyTorch predictions computed successfully.
+2025-01-04 01:11:02,189 - INFO - [MLModel] Ensemble final prediction computed successfully.
+2025-01-04 01:16:02,190 - INFO - [MLModel] Starting feature engineering.
+2025-01-04 01:16:02,191 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-04 01:16:02,191 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-04 01:16:02,192 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-04 01:16:02,198 - INFO - [MLModel] Classical ML models predictions computed successfully.
+2025-01-04 01:16:02,198 - INFO - [MLModel] PyTorch predictions computed successfully.
+2025-01-04 01:16:02,199 - INFO - [MLModel] Ensemble final prediction computed successfully.
+2025-01-04 01:21:02,152 - INFO - [MLModel] Starting feature engineering.
+2025-01-04 01:21:02,153 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-04 01:21:02,153 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-04 01:21:02,154 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-04 01:21:02,159 - INFO - [MLModel] Classical ML models predictions computed successfully.
+2025-01-04 01:21:02,159 - INFO - [MLModel] PyTorch predictions computed successfully.
+2025-01-04 01:21:02,160 - INFO - [MLModel] Ensemble final prediction computed successfully.
+2025-01-04 01:26:02,217 - INFO - [MLModel] Starting feature engineering.
+2025-01-04 01:26:02,217 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-04 01:26:02,218 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-04 01:26:02,218 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-04 01:26:02,223 - INFO - [MLModel] Classical ML models predictions computed successfully.
+2025-01-04 01:26:02,223 - INFO - [MLModel] PyTorch predictions computed successfully.
+2025-01-04 01:26:02,223 - INFO - [MLModel] Ensemble final prediction computed successfully.
+2025-01-04 01:31:02,214 - INFO - [MLModel] Starting feature engineering.
+2025-01-04 01:31:02,215 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-04 01:31:02,215 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-04 01:31:02,216 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-04 01:31:02,220 - INFO - [MLModel] Classical ML models predictions computed successfully.
+2025-01-04 01:31:02,221 - INFO - [MLModel] PyTorch predictions computed successfully.
+2025-01-04 01:31:02,221 - INFO - [MLModel] Ensemble final prediction computed successfully.
+2025-01-04 14:26:02,239 - INFO - [MLModel] Starting feature engineering.
+2025-01-04 14:26:02,240 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-04 14:26:02,241 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-04 14:26:02,241 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-04 14:26:02,247 - INFO - [MLModel] Classical ML models predictions computed successfully.
+2025-01-04 14:26:02,247 - INFO - [MLModel] PyTorch predictions computed successfully.
+2025-01-04 14:26:02,248 - INFO - [MLModel] Ensemble final prediction computed successfully.
+2025-01-04 14:31:02,177 - INFO - [MLModel] Starting feature engineering.
+2025-01-04 14:31:02,178 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-04 14:31:02,179 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-04 14:31:02,179 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-04 14:31:02,185 - INFO - [MLModel] Classical ML models predictions computed successfully.
+2025-01-04 14:31:02,186 - INFO - [MLModel] PyTorch predictions computed successfully.
+2025-01-04 14:31:02,186 - INFO - [MLModel] Ensemble final prediction computed successfully.
+2025-01-04 14:36:02,180 - INFO - [MLModel] Starting feature engineering.
+2025-01-04 14:36:02,181 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-04 14:36:02,181 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-04 14:36:02,182 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-04 14:36:02,194 - INFO - [MLModel] Classical ML models predictions computed successfully.
+2025-01-04 14:36:02,195 - INFO - [MLModel] PyTorch predictions computed successfully.
+2025-01-04 14:36:02,195 - INFO - [MLModel] Ensemble final prediction computed successfully.
+2025-01-04 14:41:02,184 - INFO - [MLModel] Starting feature engineering.
+2025-01-04 14:41:02,185 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-04 14:41:02,186 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-04 14:41:02,186 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-04 14:41:02,192 - INFO - [MLModel] Classical ML models predictions computed successfully.
+2025-01-04 14:41:02,193 - INFO - [MLModel] PyTorch predictions computed successfully.
+2025-01-04 14:41:02,193 - INFO - [MLModel] Ensemble final prediction computed successfully.
+2025-01-04 14:44:02,993 - INFO - [MLModel] Initializing model pipeline...
+2025-01-04 14:44:02,993 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-04 14:44:02,993 - INFO - [MLModel] Loading sgd from D:\Coding3.0\possible\models\sgd_model.pkl
+2025-01-04 14:44:03,194 - INFO - [MLModel] Loading rf from D:\Coding3.0\possible\models\rf_model.pkl
+2025-01-04 14:44:03,624 - INFO - [MLModel] Loading gb from D:\Coding3.0\possible\models\gb_model.pkl
+2025-01-04 14:44:03,702 - INFO - [MLModel] Voting classifier initialized.
+2025-01-04 14:44:03,702 - INFO - [MLModel] Loading existing Voting classifier.
+2025-01-04 14:44:04,168 - INFO - [MLModel] Voting classifier loaded successfully.
+2025-01-04 14:44:04,169 - INFO - [MLModel] Loading existing PyTorch model state.
+2025-01-04 14:44:04,210 - INFO - [MLModel] PyTorch model loaded successfully.
+2025-01-04 14:44:04,253 - INFO - [MLModel] Scaler and PCA loaded successfully.
+2025-01-04 14:44:08,704 - INFO - [MLModel] Initializing model pipeline...
+2025-01-04 14:44:08,705 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-04 14:44:08,705 - INFO - [MLModel] Loading sgd from D:\Coding3.0\possible\models\sgd_model.pkl
+2025-01-04 14:44:08,706 - INFO - [MLModel] Loading rf from D:\Coding3.0\possible\models\rf_model.pkl
+2025-01-04 14:44:08,722 - INFO - [MLModel] Loading gb from D:\Coding3.0\possible\models\gb_model.pkl
+2025-01-04 14:44:08,727 - INFO - [MLModel] Voting classifier initialized.
+2025-01-04 14:44:08,728 - INFO - [MLModel] Loading existing Voting classifier.
+2025-01-04 14:44:08,763 - INFO - [MLModel] Voting classifier loaded successfully.
+2025-01-04 14:44:08,764 - INFO - [MLModel] Loading existing PyTorch model state.
+2025-01-04 14:44:08,766 - INFO - [MLModel] PyTorch model loaded successfully.
+2025-01-04 14:44:08,767 - INFO - [MLModel] Scaler and PCA loaded successfully.
+2025-01-04 14:44:21,313 - INFO - [MLModel] Initializing model pipeline...
+2025-01-04 14:44:21,313 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-04 14:44:21,314 - INFO - [MLModel] Loading sgd from D:\Coding3.0\possible\models\sgd_model.pkl
+2025-01-04 14:44:21,315 - INFO - [MLModel] Loading rf from D:\Coding3.0\possible\models\rf_model.pkl
+2025-01-04 14:44:21,328 - INFO - [MLModel] Loading gb from D:\Coding3.0\possible\models\gb_model.pkl
+2025-01-04 14:44:21,333 - INFO - [MLModel] Voting classifier initialized.
+2025-01-04 14:44:21,334 - INFO - [MLModel] Loading existing Voting classifier.
+2025-01-04 14:44:21,368 - INFO - [MLModel] Voting classifier loaded successfully.
+2025-01-04 14:44:21,370 - INFO - [MLModel] Loading existing PyTorch model state.
+2025-01-04 14:44:21,371 - INFO - [MLModel] PyTorch model loaded successfully.
+2025-01-04 14:44:21,372 - INFO - [MLModel] Scaler and PCA loaded successfully.
+2025-01-04 14:44:27,117 - INFO - [MLModel] Initializing model pipeline...
+2025-01-04 14:44:27,118 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-04 14:44:27,118 - INFO - [MLModel] Loading sgd from D:\Coding3.0\possible\models\sgd_model.pkl
+2025-01-04 14:44:27,119 - INFO - [MLModel] Loading rf from D:\Coding3.0\possible\models\rf_model.pkl
+2025-01-04 14:44:27,134 - INFO - [MLModel] Loading gb from D:\Coding3.0\possible\models\gb_model.pkl
+2025-01-04 14:44:27,139 - INFO - [MLModel] Voting classifier initialized.
+2025-01-04 14:44:27,140 - INFO - [MLModel] Loading existing Voting classifier.
+2025-01-04 14:44:27,176 - INFO - [MLModel] Voting classifier loaded successfully.
+2025-01-04 14:44:27,178 - INFO - [MLModel] Loading existing PyTorch model state.
+2025-01-04 14:44:27,179 - INFO - [MLModel] PyTorch model loaded successfully.
+2025-01-04 14:44:27,180 - INFO - [MLModel] Scaler and PCA loaded successfully.
+2025-01-04 14:49:04,470 - INFO - [MLModel] Starting feature engineering.
+2025-01-04 14:49:04,471 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-04 14:49:04,472 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-04 14:49:04,472 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-04 14:49:04,485 - INFO - [MLModel] Classical ML models predictions computed successfully.
+2025-01-04 14:49:04,487 - INFO - [MLModel] PyTorch predictions computed successfully.
+2025-01-04 14:49:04,488 - INFO - [MLModel] Ensemble final prediction computed successfully.
+2025-01-04 14:49:27,303 - INFO - [MLModel] Starting feature engineering.
+2025-01-04 14:49:27,304 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-04 14:49:27,304 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-04 14:49:27,305 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-04 14:49:27,318 - INFO - [MLModel] Classical ML models predictions computed successfully.
+2025-01-04 14:49:27,321 - INFO - [MLModel] PyTorch predictions computed successfully.
+2025-01-04 14:49:27,321 - INFO - [MLModel] Ensemble final prediction computed successfully.
+2025-01-04 14:54:04,445 - INFO - [MLModel] Starting feature engineering.
+2025-01-04 14:54:04,446 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-04 14:54:04,446 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-04 14:54:04,446 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-04 14:54:04,452 - INFO - [MLModel] Classical ML models predictions computed successfully.
+2025-01-04 14:54:04,453 - INFO - [MLModel] PyTorch predictions computed successfully.
+2025-01-04 14:54:04,453 - INFO - [MLModel] Ensemble final prediction computed successfully.
+2025-01-04 14:59:04,472 - INFO - [MLModel] Starting feature engineering.
+2025-01-04 14:59:04,473 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-04 14:59:04,473 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-04 14:59:04,473 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-04 14:59:04,487 - INFO - [MLModel] Classical ML models predictions computed successfully.
+2025-01-04 14:59:04,488 - INFO - [MLModel] PyTorch predictions computed successfully.
+2025-01-04 14:59:04,488 - INFO - [MLModel] Ensemble final prediction computed successfully.
+2025-01-04 15:04:04,433 - INFO - [MLModel] Starting feature engineering.
+2025-01-04 15:04:04,434 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-04 15:04:04,435 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-04 15:04:04,435 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-04 15:04:04,449 - INFO - [MLModel] Classical ML models predictions computed successfully.
+2025-01-04 15:04:04,450 - INFO - [MLModel] PyTorch predictions computed successfully.
+2025-01-04 15:04:04,450 - INFO - [MLModel] Ensemble final prediction computed successfully.
+2025-01-04 15:09:04,431 - INFO - [MLModel] Starting feature engineering.
+2025-01-04 15:09:04,432 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-04 15:09:04,432 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-04 15:09:04,432 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-04 15:09:04,445 - INFO - [MLModel] Classical ML models predictions computed successfully.
+2025-01-04 15:09:04,446 - INFO - [MLModel] PyTorch predictions computed successfully.
+2025-01-04 15:09:04,447 - INFO - [MLModel] Ensemble final prediction computed successfully.
+2025-01-04 15:14:04,465 - INFO - [MLModel] Starting feature engineering.
+2025-01-04 15:14:04,465 - INFO - [MLModel] Processed 451 valid rows of features.
+2025-01-04 15:14:04,466 - INFO - [MLModel] PCA transformation applied successfully.
+2025-01-04 15:14:04,466 - INFO - [MLModel] Feature scaling applied successfully.
+2025-01-04 15:14:04,479 - INFO - [MLModel] Classical ML models predictions computed successfully.
+2025-01-04 15:14:04,480 - INFO - [MLModel] PyTorch predictions computed successfully.
+2025-01-04 15:14:04,481 - INFO - [MLModel] Ensemble final prediction computed successfully.

@@ -1,0 +1,103 @@
+<!-- templates/settings.html -->
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container mt-4">
+  <h2 class="text-center mb-4">Settings</h2>
+  
+  <form id="settingsForm" class="mt-3">
+    <div class="row">
+      <!-- Risk Level -->
+      <div class="col-md-4 mb-3">
+        <label for="riskLevel" class="form-label">Risk Level</label>
+        <select class="form-select" id="riskLevel">
+          <option value="low">Low</option>
+          <option value="medium">Medium</option>
+          <option value="high">High</option>
+        </select>
+      </div>
+
+      <!-- Max Trades -->
+      <div class="col-md-4 mb-3">
+        <label for="maxTrades" class="form-label">Max Trades</label>
+        <input type="number" class="form-control" id="maxTrades" min="1">
+      </div>
+
+      <!-- Trade Interval -->
+      <div class="col-md-4 mb-3">
+        <label for="tradeInterval" class="form-label">Trade Interval</label>
+        <select class="form-select" id="tradeInterval">
+          <option value="1m">1 Minute</option>
+          <option value="5m">5 Minutes</option>
+          <option value="15m">15 Minutes</option>
+          <option value="1h">1 Hour</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="row">
+      <!-- Stop Loss Percentage -->
+      <div class="col-md-4 mb-3">
+        <label for="stopLossPercentage" class="form-label">Stop Loss (%)</label>
+        <input type="number" class="form-control" id="stopLossPercentage" min="0" step="0.1">
+      </div>
+
+      <!-- Take Profit Percentage -->
+      <div class="col-md-4 mb-3">
+        <label for="takeProfitPercentage" class="form-label">Take Profit (%)</label>
+        <input type="number" class="form-control" id="takeProfitPercentage" min="0" step="0.1">
+      </div>
+
+      <!-- RSI Period -->
+      <div class="col-md-4 mb-3">
+        <label for="rsiPeriod" class="form-label">RSI Period</label>
+        <input type="number" class="form-control" id="rsiPeriod" min="1">
+      </div>
+    </div>
+
+    <div class="row">
+      <!-- EMA Fast Period -->
+      <div class="col-md-4 mb-3">
+        <label for="emaFastPeriod" class="form-label">EMA Fast Period</label>
+        <input type="number" class="form-control" id="emaFastPeriod" min="1">
+      </div>
+
+      <!-- EMA Slow Period -->
+      <div class="col-md-4 mb-3">
+        <label for="emaSlowPeriod" class="form-label">EMA Slow Period</label>
+        <input type="number" class="form-control" id="emaSlowPeriod" min="1">
+      </div>
+
+      <!-- Bollinger Bands Period -->
+      <div class="col-md-4 mb-3">
+        <label for="bbandsPeriod" class="form-label">Bollinger Bands Period</label>
+        <input type="number" class="form-control" id="bbandsPeriod" min="1">
+      </div>
+    </div>
+
+    <div class="row">
+      <!-- Trailing ATR Multiplier -->
+      <div class="col-md-6 mb-3">
+        <label for="trailingATRMultiplier" class="form-label">Trailing ATR Multiplier</label>
+        <input type="number" class="form-control" id="trailingATRMultiplier" min="0" step="0.1">
+      </div>
+      <!-- Adjust ATR Multiplier -->
+      <div class="col-md-6 mb-3">
+        <label for="adjustATRMultiplier" class="form-label">Adjust ATR Multiplier</label>
+        <input type="number" class="form-control" id="adjustATRMultiplier" min="0" step="0.1">
+      </div>
+    </div>
+
+    <div class="row">
+      <!-- Trade Cooldown -->
+      <div class="col-md-6 mb-3">
+        <label for="tradeCooldown" class="form-label">Trade Cooldown (seconds)</label>
+        <input type="number" class="form-control" id="tradeCooldown" min="0">
+      </div>
+    </div>
+
+    <!-- Save Button -->
+    <button type="button" class="btn btn-primary mt-3" id="saveSettingsButton">Save Settings</button>
+  </form>
+</div>
+{% endblock %}

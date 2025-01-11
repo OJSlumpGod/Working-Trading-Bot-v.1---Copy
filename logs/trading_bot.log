@@ -1,0 +1,1279 @@
+2025-01-03 23:07:46,423 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-03 23:07:46,971 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-03 23:07:46,998 - TradingBot - INFO - [load_state] Initialized new state in database.
+2025-01-03 23:07:47,163 - TradingBot - INFO - [load_historical_metrics] Initialized metrics in database.
+2025-01-03 23:07:47,164 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-03 23:07:47,165 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60}
+2025-01-03 23:07:51,106 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-03 23:07:51,255 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-03 23:07:51,255 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-03 23:07:51,256 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-03 23:07:51,262 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-03 23:07:51,262 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60}
+2025-01-03 23:08:21,948 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-03 23:08:22,040 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-03 23:08:22,041 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-03 23:08:22,042 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-03 23:08:22,043 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-03 23:08:22,043 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60}
+2025-01-03 23:08:26,320 - TradingBot - INFO - [start] TradingBot has started running.
+2025-01-03 23:08:26,331 - TradingBot - INFO - [save_state] State saved to database.
+2025-01-03 23:08:26,427 - TradingBot - ERROR - [get_prices] RequestException: 404 Client Error: Not Found for url: https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/pricing/candles?instrument=EUR_USD&count=500&price=M&granularity=H1
+2025-01-03 23:08:26,429 - TradingBot - INFO - [run_job_queue] No price data available.
+2025-01-03 23:08:28,620 - TradingBot - ERROR - [get_prices] RequestException: 404 Client Error: Not Found for url: https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/pricing/candles?instrument=EUR_USD&count=500&price=M&granularity=H1
+2025-01-03 23:08:28,620 - TradingBot - INFO - [run_job_queue] No price data available.
+2025-01-03 23:08:30,738 - TradingBot - ERROR - [get_prices] RequestException: 404 Client Error: Not Found for url: https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/pricing/candles?instrument=EUR_USD&count=500&price=M&granularity=H1
+2025-01-03 23:08:30,739 - TradingBot - INFO - [run_job_queue] No price data available.
+2025-01-03 23:08:32,840 - TradingBot - ERROR - [get_prices] RequestException: 404 Client Error: Not Found for url: https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/pricing/candles?instrument=EUR_USD&count=500&price=M&granularity=H1
+2025-01-03 23:08:32,841 - TradingBot - INFO - [run_job_queue] No price data available.
+2025-01-03 23:08:33,905 - TradingBot - INFO - [save_state] State saved to database.
+2025-01-03 23:08:33,906 - TradingBot - INFO - [stop] TradingBot stopped.
+2025-01-03 23:11:44,558 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-03 23:11:44,681 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-03 23:11:44,683 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-03 23:11:44,684 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-03 23:11:44,691 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-03 23:11:44,692 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60}
+2025-01-03 23:12:14,876 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-03 23:12:14,979 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-03 23:12:14,980 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-03 23:12:14,980 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-03 23:12:14,982 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-03 23:12:14,982 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60}
+2025-01-03 23:12:19,267 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-03 23:12:19,353 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-03 23:12:19,354 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-03 23:12:19,354 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-03 23:12:19,356 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-03 23:12:19,356 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60}
+2025-01-03 23:12:24,436 - TradingBot - INFO - [start] TradingBot has started running.
+2025-01-03 23:12:24,448 - TradingBot - INFO - [save_state] State saved to database.
+2025-01-03 23:12:24,568 - TradingBot - ERROR - [get_prices] RequestException: 404 Client Error: Not Found for url: https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/pricing/candles?instrument=EUR_USD&count=500&price=M&granularity=H1
+2025-01-03 23:12:24,568 - TradingBot - INFO - [run_job_queue] No price data available.
+2025-01-03 23:12:26,648 - TradingBot - ERROR - [get_prices] RequestException: 404 Client Error: Not Found for url: https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/pricing/candles?instrument=EUR_USD&count=500&price=M&granularity=H1
+2025-01-03 23:12:26,648 - TradingBot - INFO - [run_job_queue] No price data available.
+2025-01-03 23:12:28,718 - TradingBot - ERROR - [get_prices] RequestException: 404 Client Error: Not Found for url: https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/pricing/candles?instrument=EUR_USD&count=500&price=M&granularity=H1
+2025-01-03 23:12:28,719 - TradingBot - INFO - [run_job_queue] No price data available.
+2025-01-03 23:12:30,814 - TradingBot - ERROR - [get_prices] RequestException: 404 Client Error: Not Found for url: https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/pricing/candles?instrument=EUR_USD&count=500&price=M&granularity=H1
+2025-01-03 23:12:30,814 - TradingBot - INFO - [run_job_queue] No price data available.
+2025-01-03 23:12:32,893 - TradingBot - ERROR - [get_prices] RequestException: 404 Client Error: Not Found for url: https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/pricing/candles?instrument=EUR_USD&count=500&price=M&granularity=H1
+2025-01-03 23:12:32,894 - TradingBot - INFO - [run_job_queue] No price data available.
+2025-01-03 23:12:34,967 - TradingBot - ERROR - [get_prices] RequestException: 404 Client Error: Not Found for url: https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/pricing/candles?instrument=EUR_USD&count=500&price=M&granularity=H1
+2025-01-03 23:12:34,968 - TradingBot - INFO - [run_job_queue] No price data available.
+2025-01-03 23:12:37,096 - TradingBot - ERROR - [get_prices] RequestException: 404 Client Error: Not Found for url: https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/pricing/candles?instrument=EUR_USD&count=500&price=M&granularity=H1
+2025-01-03 23:12:37,096 - TradingBot - INFO - [run_job_queue] No price data available.
+2025-01-03 23:12:39,164 - TradingBot - ERROR - [get_prices] RequestException: 404 Client Error: Not Found for url: https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/pricing/candles?instrument=EUR_USD&count=500&price=M&granularity=H1
+2025-01-03 23:12:39,165 - TradingBot - INFO - [run_job_queue] No price data available.
+2025-01-03 23:12:41,298 - TradingBot - ERROR - [get_prices] RequestException: 404 Client Error: Not Found for url: https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/pricing/candles?instrument=EUR_USD&count=500&price=M&granularity=H1
+2025-01-03 23:12:41,299 - TradingBot - INFO - [run_job_queue] No price data available.
+2025-01-03 23:12:43,371 - TradingBot - ERROR - [get_prices] RequestException: 404 Client Error: Not Found for url: https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/pricing/candles?instrument=EUR_USD&count=500&price=M&granularity=H1
+2025-01-03 23:12:43,372 - TradingBot - INFO - [run_job_queue] No price data available.
+2025-01-03 23:12:45,465 - TradingBot - ERROR - [get_prices] RequestException: 404 Client Error: Not Found for url: https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/pricing/candles?instrument=EUR_USD&count=500&price=M&granularity=H1
+2025-01-03 23:12:45,466 - TradingBot - INFO - [run_job_queue] No price data available.
+2025-01-03 23:12:47,565 - TradingBot - ERROR - [get_prices] RequestException: 404 Client Error: Not Found for url: https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/pricing/candles?instrument=EUR_USD&count=500&price=M&granularity=H1
+2025-01-03 23:12:47,566 - TradingBot - INFO - [run_job_queue] No price data available.
+2025-01-03 23:12:49,683 - TradingBot - ERROR - [get_prices] RequestException: 404 Client Error: Not Found for url: https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/pricing/candles?instrument=EUR_USD&count=500&price=M&granularity=H1
+2025-01-03 23:12:49,683 - TradingBot - INFO - [run_job_queue] No price data available.
+2025-01-03 23:12:51,759 - TradingBot - ERROR - [get_prices] RequestException: 404 Client Error: Not Found for url: https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/pricing/candles?instrument=EUR_USD&count=500&price=M&granularity=H1
+2025-01-03 23:12:51,760 - TradingBot - INFO - [run_job_queue] No price data available.
+2025-01-03 23:12:53,906 - TradingBot - ERROR - [get_prices] RequestException: 404 Client Error: Not Found for url: https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/pricing/candles?instrument=EUR_USD&count=500&price=M&granularity=H1
+2025-01-03 23:12:53,907 - TradingBot - INFO - [run_job_queue] No price data available.
+2025-01-03 23:12:55,989 - TradingBot - ERROR - [get_prices] RequestException: 404 Client Error: Not Found for url: https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/pricing/candles?instrument=EUR_USD&count=500&price=M&granularity=H1
+2025-01-03 23:12:55,989 - TradingBot - INFO - [run_job_queue] No price data available.
+2025-01-03 23:12:58,092 - TradingBot - ERROR - [get_prices] RequestException: 404 Client Error: Not Found for url: https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/pricing/candles?instrument=EUR_USD&count=500&price=M&granularity=H1
+2025-01-03 23:12:58,093 - TradingBot - INFO - [run_job_queue] No price data available.
+2025-01-03 23:13:00,188 - TradingBot - ERROR - [get_prices] RequestException: 404 Client Error: Not Found for url: https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/pricing/candles?instrument=EUR_USD&count=500&price=M&granularity=H1
+2025-01-03 23:13:00,189 - TradingBot - INFO - [run_job_queue] No price data available.
+2025-01-03 23:13:02,268 - TradingBot - ERROR - [get_prices] RequestException: 404 Client Error: Not Found for url: https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/pricing/candles?instrument=EUR_USD&count=500&price=M&granularity=H1
+2025-01-03 23:13:02,269 - TradingBot - INFO - [run_job_queue] No price data available.
+2025-01-03 23:13:04,349 - TradingBot - ERROR - [get_prices] RequestException: 404 Client Error: Not Found for url: https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/pricing/candles?instrument=EUR_USD&count=500&price=M&granularity=H1
+2025-01-03 23:13:04,350 - TradingBot - INFO - [run_job_queue] No price data available.
+2025-01-03 23:13:06,442 - TradingBot - ERROR - [get_prices] RequestException: 404 Client Error: Not Found for url: https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/pricing/candles?instrument=EUR_USD&count=500&price=M&granularity=H1
+2025-01-03 23:13:06,443 - TradingBot - INFO - [run_job_queue] No price data available.
+2025-01-03 23:13:08,516 - TradingBot - ERROR - [get_prices] RequestException: 404 Client Error: Not Found for url: https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/pricing/candles?instrument=EUR_USD&count=500&price=M&granularity=H1
+2025-01-03 23:13:08,517 - TradingBot - INFO - [run_job_queue] No price data available.
+2025-01-03 23:13:10,604 - TradingBot - ERROR - [get_prices] RequestException: 404 Client Error: Not Found for url: https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/pricing/candles?instrument=EUR_USD&count=500&price=M&granularity=H1
+2025-01-03 23:13:10,605 - TradingBot - INFO - [run_job_queue] No price data available.
+2025-01-03 23:13:15,873 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-03 23:13:15,966 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-03 23:13:15,968 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-03 23:13:15,968 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-03 23:13:15,975 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-03 23:13:15,976 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60}
+2025-01-03 23:13:22,827 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-03 23:13:22,922 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-03 23:13:22,923 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-03 23:13:22,924 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-03 23:13:22,925 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-03 23:13:22,925 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60}
+2025-01-03 23:17:18,400 - TradingBot - INFO - Initializing TradingBot...
+2025-01-03 23:17:18,406 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-03 23:17:18,477 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-03 23:17:18,478 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-03 23:17:18,478 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-03 23:17:18,479 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-03 23:17:18,480 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-03 23:17:18,480 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60}
+2025-01-03 23:17:22,242 - TradingBot - INFO - Initializing TradingBot...
+2025-01-03 23:17:22,248 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-03 23:17:22,350 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-03 23:17:22,351 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-03 23:17:22,352 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-03 23:17:22,352 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-03 23:17:22,354 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-03 23:17:22,354 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60}
+2025-01-03 23:17:46,453 - TradingBot - INFO - Initializing TradingBot...
+2025-01-03 23:17:46,459 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-03 23:17:46,554 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-03 23:17:46,554 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-03 23:17:46,555 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-03 23:17:46,555 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-03 23:17:46,557 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-03 23:17:46,557 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60}
+2025-01-03 23:17:50,321 - TradingBot - INFO - Initializing TradingBot...
+2025-01-03 23:17:50,328 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-03 23:17:50,469 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-03 23:17:50,470 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-03 23:17:50,470 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-03 23:17:50,471 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-03 23:17:50,472 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-03 23:17:50,472 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60}
+2025-01-03 23:18:03,708 - TradingBot - INFO - Initializing TradingBot...
+2025-01-03 23:18:03,715 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-03 23:18:03,786 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-03 23:18:03,786 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-03 23:18:03,787 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-03 23:18:03,788 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-03 23:18:03,789 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-03 23:18:03,789 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60}
+2025-01-03 23:18:39,337 - TradingBot - INFO - Initializing TradingBot...
+2025-01-03 23:18:39,344 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-03 23:18:39,443 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-03 23:18:39,444 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-03 23:18:39,445 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-03 23:18:39,445 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-03 23:18:39,446 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-03 23:18:39,446 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60}
+2025-01-03 23:21:07,737 - TradingBot - INFO - Initializing TradingBot...
+2025-01-03 23:21:07,744 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-03 23:21:07,839 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-03 23:21:07,839 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-03 23:21:07,840 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-03 23:21:07,841 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-03 23:21:07,842 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-03 23:21:07,843 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60}
+2025-01-03 23:22:46,463 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:22:46,576 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:22:46,588 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:22:55,364 - TradingBot - INFO - Initializing TradingBot...
+2025-01-03 23:22:55,370 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-03 23:22:55,493 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-03 23:22:55,493 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-03 23:22:55,494 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-03 23:22:55,495 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-03 23:22:55,496 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-03 23:22:55,496 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60}
+2025-01-03 23:23:15,146 - TradingBot - INFO - Initializing TradingBot...
+2025-01-03 23:23:15,153 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-03 23:23:15,255 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-03 23:23:15,256 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-03 23:23:15,256 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-03 23:23:15,257 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-03 23:23:15,258 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-03 23:23:15,258 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60}
+2025-01-03 23:23:54,123 - TradingBot - INFO - [save_state] State saved to database.
+2025-01-03 23:23:54,123 - TradingBot - INFO - [stop] TradingBot stopped.
+2025-01-03 23:23:55,836 - TradingBot - INFO - [start] TradingBot has started running.
+2025-01-03 23:23:55,848 - TradingBot - INFO - [save_state] State saved to database.
+2025-01-03 23:23:55,850 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:23:55,999 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:23:56,003 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:23:58,004 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:23:58,144 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:23:58,148 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:24:00,149 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:24:00,253 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:24:00,256 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:24:02,257 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:24:02,366 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:24:02,369 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:24:04,370 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:24:04,481 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:24:04,485 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:24:06,486 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:24:06,560 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:24:06,563 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:24:08,564 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:24:08,659 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:24:08,662 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:24:10,663 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:24:10,809 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:24:10,813 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:24:12,814 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:24:12,909 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:24:12,912 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:24:14,912 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:24:14,984 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:24:14,987 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:24:16,987 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:24:17,059 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:24:17,062 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:24:19,063 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:24:19,153 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:24:19,310 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:24:21,310 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:24:21,387 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:24:21,390 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:24:23,390 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:24:23,476 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:24:23,479 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:24:25,480 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:24:25,589 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:24:25,591 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:24:27,592 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:24:27,752 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:24:27,757 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:24:29,757 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:24:29,990 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:24:29,993 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:24:31,994 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:24:32,062 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:24:32,065 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:24:34,066 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:24:34,193 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:24:34,196 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:24:36,197 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:24:36,291 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:24:36,295 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:28:41,241 - TradingBot - INFO - Initializing TradingBot...
+2025-01-03 23:28:41,247 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-03 23:28:41,373 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-03 23:28:41,373 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-03 23:28:41,375 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-03 23:28:41,375 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-03 23:28:41,382 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-03 23:28:41,382 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60}
+2025-01-03 23:28:45,295 - TradingBot - INFO - Initializing TradingBot...
+2025-01-03 23:28:45,302 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-03 23:28:45,414 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-03 23:28:45,415 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-03 23:28:45,416 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-03 23:28:45,416 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-03 23:28:45,417 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-03 23:28:45,417 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60}
+2025-01-03 23:29:08,707 - TradingBot - INFO - [save_state] State saved to database.
+2025-01-03 23:29:08,708 - TradingBot - INFO - [stop] TradingBot stopped.
+2025-01-03 23:29:08,709 - TradingBot - INFO - Initializing TradingBot...
+2025-01-03 23:29:08,714 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-03 23:29:08,816 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-03 23:29:08,817 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-03 23:29:08,818 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-03 23:29:08,819 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-03 23:29:10,947 - TradingBot - INFO - [start] TradingBot has started running.
+2025-01-03 23:29:10,959 - TradingBot - INFO - [save_state] State saved to database.
+2025-01-03 23:29:10,959 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:29:11,103 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:29:11,108 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:29:13,108 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:29:13,206 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:29:13,210 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:29:15,211 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:29:15,288 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:29:15,292 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:29:17,292 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:29:17,433 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:29:17,436 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:29:19,437 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:29:19,549 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:29:19,552 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:29:21,553 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:29:21,647 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:29:21,651 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:29:23,652 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:29:23,767 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:29:23,773 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:29:25,774 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:29:25,863 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:29:25,866 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:29:27,867 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:29:27,983 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:29:27,986 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:29:29,987 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:29:30,082 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:29:30,085 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:29:32,085 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:29:32,219 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:29:32,223 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:29:34,223 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:29:34,315 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:29:34,319 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:29:36,319 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:29:36,430 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:29:36,434 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:29:38,434 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:29:38,550 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:29:38,553 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:29:40,554 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:29:40,620 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:29:40,624 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:29:42,624 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:29:42,735 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:29:42,738 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:29:44,740 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:29:44,839 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:29:44,842 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:29:46,843 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:29:46,943 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:29:46,947 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:29:48,947 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:29:49,024 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:29:49,028 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:29:51,028 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:29:51,108 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:29:51,112 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:29:53,112 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:29:53,208 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:29:53,213 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:29:55,214 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:29:55,320 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:29:55,324 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:29:57,324 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:29:57,446 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:29:57,451 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:29:59,452 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:29:59,578 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:29:59,583 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:30:01,584 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:30:01,683 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:30:01,687 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:30:03,687 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:30:03,798 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:30:03,803 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:30:05,803 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:30:05,893 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:30:05,896 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:30:07,897 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:30:07,997 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:30:08,000 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:30:10,001 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:30:10,078 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:30:10,082 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:30:12,083 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:30:12,181 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:30:12,185 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:30:14,186 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:30:14,287 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:30:14,291 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:30:16,292 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:30:16,417 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:30:16,422 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:30:18,423 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:30:18,616 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:30:18,620 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:30:20,621 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:30:20,710 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:30:20,713 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:30:22,714 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:30:22,846 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:30:22,849 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:30:24,850 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:30:24,929 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:30:24,934 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:30:26,934 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:30:27,011 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:30:27,016 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:30:29,016 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:30:29,096 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:30:29,102 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:30:31,102 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:30:31,187 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:30:31,191 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:30:33,191 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:30:33,308 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:30:33,311 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:30:35,312 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:30:35,382 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:30:35,385 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:30:37,386 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:30:37,492 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:30:37,496 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:30:39,496 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:30:39,634 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:30:39,638 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:30:41,638 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:30:41,720 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:30:41,725 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:30:43,726 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:30:43,821 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:30:43,825 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:30:45,826 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:30:45,938 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:30:45,942 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:30:47,943 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:30:48,078 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:30:48,083 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:30:50,083 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:30:50,181 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:30:50,186 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:30:52,186 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:30:52,366 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:30:52,370 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:30:54,370 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:30:54,477 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:30:54,481 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:30:56,481 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:30:56,549 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:30:56,553 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:30:58,554 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:30:58,619 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:30:58,623 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:31:00,624 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:31:00,702 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:31:00,706 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:31:02,706 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:31:02,810 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:31:02,814 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:31:04,815 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:31:04,911 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:31:04,915 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:31:06,916 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:31:07,002 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:31:07,007 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:31:09,007 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:31:09,115 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:31:09,120 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:31:11,121 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:31:11,289 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:31:11,293 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:31:13,293 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:31:13,381 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:31:13,385 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:31:15,386 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:31:15,487 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:31:15,490 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:31:17,491 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:31:17,602 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:31:17,606 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:31:19,607 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:31:19,724 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:31:19,727 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:31:21,728 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:31:21,817 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:31:21,820 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:31:23,821 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:31:23,984 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:31:23,987 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:31:25,988 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:31:26,143 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:31:26,146 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:31:28,147 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:31:28,282 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:31:28,286 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:31:30,286 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:31:30,356 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:31:30,360 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:31:32,361 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:31:32,481 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:31:32,485 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:31:34,486 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:31:34,570 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:31:34,573 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:31:36,574 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:31:36,691 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:31:36,694 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:31:38,695 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:31:38,799 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:31:38,804 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:31:40,806 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:31:40,915 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:31:40,918 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:31:42,919 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:31:43,030 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:31:43,040 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:31:45,041 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:31:45,162 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:31:45,167 - TradingBot - INFO - [run_job_queue] ML returned invalid prediction.
+2025-01-03 23:31:50,763 - TradingBot - INFO - Initializing TradingBot...
+2025-01-03 23:31:50,769 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-03 23:31:50,865 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-03 23:31:50,866 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-03 23:31:50,867 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-03 23:31:50,868 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-03 23:31:50,875 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-03 23:31:50,875 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60}
+2025-01-03 23:32:33,402 - TradingBot - INFO - Initializing TradingBot...
+2025-01-03 23:32:33,408 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-03 23:32:33,488 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-03 23:32:33,488 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-03 23:32:33,489 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-03 23:32:33,490 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-03 23:32:33,491 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-03 23:32:33,492 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60}
+2025-01-03 23:32:55,428 - TradingBot - INFO - Initializing TradingBot...
+2025-01-03 23:32:55,434 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-03 23:32:55,512 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-03 23:32:55,512 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-03 23:32:55,513 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-03 23:32:55,514 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-03 23:32:55,516 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-03 23:32:55,516 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60}
+2025-01-03 23:33:38,028 - TradingBot - INFO - Initializing TradingBot...
+2025-01-03 23:35:32,632 - TradingBot - INFO - Initializing TradingBot...
+2025-01-03 23:35:32,638 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-03 23:35:32,748 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-03 23:35:32,748 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-03 23:35:32,749 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-03 23:35:32,750 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-03 23:35:32,752 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-03 23:35:32,752 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60}
+2025-01-03 23:35:36,677 - TradingBot - INFO - Initializing TradingBot...
+2025-01-03 23:35:36,683 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-03 23:35:36,782 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-03 23:35:36,782 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-03 23:35:36,783 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-03 23:35:36,784 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-03 23:35:36,785 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-03 23:35:36,786 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60}
+2025-01-03 23:35:48,223 - TradingBot - INFO - [save_state] State saved to database.
+2025-01-03 23:35:48,224 - TradingBot - INFO - [stop] TradingBot stopped.
+2025-01-03 23:35:49,704 - TradingBot - INFO - [start] TradingBot has started running.
+2025-01-03 23:35:49,710 - TradingBot - INFO - [save_state] State saved to database.
+2025-01-03 23:35:49,711 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:35:49,789 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:35:49,791 - TradingBot - INFO - [run_job_queue] No valid features for ML.
+2025-01-03 23:35:51,792 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:35:51,902 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:35:51,904 - TradingBot - INFO - [run_job_queue] No valid features for ML.
+2025-01-03 23:35:53,905 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:35:53,993 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:35:53,994 - TradingBot - INFO - [run_job_queue] No valid features for ML.
+2025-01-03 23:35:55,995 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:35:56,087 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:35:56,089 - TradingBot - INFO - [run_job_queue] No valid features for ML.
+2025-01-03 23:35:58,090 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:35:58,188 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:35:58,190 - TradingBot - INFO - [run_job_queue] No valid features for ML.
+2025-01-03 23:36:00,190 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:36:00,278 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:36:00,279 - TradingBot - INFO - [run_job_queue] No valid features for ML.
+2025-01-03 23:36:02,279 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:36:02,371 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-03 23:36:02,372 - TradingBot - INFO - [run_job_queue] No valid features for ML.
+2025-01-03 23:36:03,029 - TradingBot - INFO - [save_state] State saved to database.
+2025-01-03 23:36:03,030 - TradingBot - ERROR - [stop] Error shutting down scheduler: Scheduler is not running
+2025-01-03 23:36:03,030 - TradingBot - INFO - [stop] TradingBot stopped.
+2025-01-03 23:37:14,749 - TradingBot - INFO - Initializing TradingBot...
+2025-01-03 23:37:14,755 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-03 23:37:14,844 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-03 23:37:14,845 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-03 23:37:14,846 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-03 23:37:14,847 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-03 23:37:14,854 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-03 23:37:14,854 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60}
+2025-01-03 23:53:10,501 - TradingBot - INFO - Initializing TradingBot...
+2025-01-03 23:53:10,508 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-03 23:53:10,641 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-03 23:53:10,641 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-03 23:53:10,642 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-03 23:53:10,643 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-03 23:53:10,643 - TradingBot - INFO - [TradingBot] MLModel not ready. Performing initial training.
+2025-01-03 23:53:10,643 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:55:01,236 - TradingBot - INFO - Initializing TradingBot...
+2025-01-03 23:55:01,247 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-03 23:55:01,379 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-03 23:55:01,380 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-03 23:55:01,381 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-03 23:55:01,381 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-03 23:55:01,381 - TradingBot - INFO - [TradingBot] MLModel not ready. Performing initial training.
+2025-01-03 23:55:01,382 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:58:11,667 - TradingBot - INFO - Initializing TradingBot...
+2025-01-03 23:58:11,674 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-03 23:58:11,771 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-03 23:58:11,771 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-03 23:58:11,773 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-03 23:58:11,774 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-03 23:58:11,774 - TradingBot - INFO - [TradingBot] MLModel not ready. Performing initial training.
+2025-01-03 23:58:11,774 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-03 23:58:14,397 - TradingBot - INFO - [TradingBot] Initial training completed successfully.
+2025-01-03 23:58:14,398 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-03 23:58:14,398 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60}
+2025-01-03 23:58:18,470 - TradingBot - INFO - Initializing TradingBot...
+2025-01-03 23:58:18,582 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-03 23:58:18,673 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-03 23:58:18,673 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-03 23:58:18,674 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-03 23:58:18,674 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-03 23:58:18,675 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-03 23:58:18,675 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60}
+2025-01-03 23:58:25,007 - TradingBot - INFO - [start] TradingBot has started running.
+2025-01-03 23:58:25,050 - TradingBot - INFO - [save_state] State saved to database.
+2025-01-03 23:58:29,412 - TradingBot - INFO - [save_state] State saved to database.
+2025-01-03 23:58:29,412 - TradingBot - INFO - [stop] TradingBot stopped.
+2025-01-03 23:58:29,413 - TradingBot - INFO - Initializing TradingBot...
+2025-01-03 23:58:29,469 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-03 23:58:29,559 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-03 23:58:29,559 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-03 23:58:29,561 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-03 23:58:29,561 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-03 23:58:31,475 - TradingBot - INFO - [start] TradingBot has started running.
+2025-01-03 23:58:31,488 - TradingBot - INFO - [save_state] State saved to database.
+2025-01-03 23:58:38,345 - TradingBot - INFO - [save_state] State saved to database.
+2025-01-03 23:58:38,346 - TradingBot - INFO - [stop] TradingBot stopped.
+2025-01-03 23:58:38,347 - TradingBot - INFO - Initializing TradingBot...
+2025-01-03 23:58:38,481 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-03 23:58:38,601 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-03 23:58:38,601 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-03 23:58:38,603 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-03 23:58:38,603 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-03 23:58:46,455 - TradingBot - INFO - [start] TradingBot has started running.
+2025-01-03 23:58:46,467 - TradingBot - INFO - [save_state] State saved to database.
+2025-01-04 00:03:11,676 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-04 00:03:11,810 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-04 00:03:11,825 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 1}
+2025-01-04 00:03:11,927 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'M15', 'count': 100}
+2025-01-04 00:03:12,031 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H4', 'count': 100}
+2025-01-04 00:03:12,127 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 1, 'sell_signals': 0}
+2025-01-04 00:03:12,128 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-04 00:03:12,128 - TradingBot - INFO - [multi_timeframe_analysis] Combined Buy: 1, Combined Sell: 1
+2025-01-04 00:03:12,128 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 00:03:12,222 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 00:03:12,222 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 00:03:12,223 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 00:03:12,223 - TradingBot - INFO - [manage_position] Opening BUY. Confidence score: 3
+2025-01-04 00:03:12,223 - TradingBot - ERROR - [make_trade] Exception: unsupported format string passed to NoneType.__format__
+2025-01-04 00:03:13,224 - TradingBot - ERROR - [make_trade] Exception: unsupported format string passed to NoneType.__format__
+2025-01-04 00:03:14,224 - TradingBot - ERROR - [make_trade] Exception: unsupported format string passed to NoneType.__format__
+2025-01-04 00:03:15,225 - TradingBot - ERROR - [make_trade] Failed after retries.
+2025-01-04 00:03:15,225 - TradingBot - INFO - [manage_position] Opening BUY. Confidence score: 3
+2025-01-04 00:03:15,226 - TradingBot - ERROR - [make_trade] Exception: unsupported format string passed to NoneType.__format__
+2025-01-04 00:03:16,227 - TradingBot - ERROR - [make_trade] Exception: unsupported format string passed to NoneType.__format__
+2025-01-04 00:03:17,227 - TradingBot - ERROR - [make_trade] Exception: unsupported format string passed to NoneType.__format__
+2025-01-04 00:03:18,228 - TradingBot - ERROR - [make_trade] Failed after retries.
+2025-01-04 00:03:38,484 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-04 00:03:38,593 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-04 00:03:38,604 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 1}
+2025-01-04 00:03:38,717 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'M15', 'count': 100}
+2025-01-04 00:03:38,799 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H4', 'count': 100}
+2025-01-04 00:03:38,870 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 1, 'sell_signals': 0}
+2025-01-04 00:03:38,871 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-04 00:03:38,871 - TradingBot - INFO - [multi_timeframe_analysis] Combined Buy: 1, Combined Sell: 1
+2025-01-04 00:03:38,871 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 00:03:39,009 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 00:03:39,010 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 00:03:39,010 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 00:03:39,010 - TradingBot - INFO - [manage_position] Opening BUY. Confidence score: 3
+2025-01-04 00:03:39,010 - TradingBot - ERROR - [make_trade] Exception: unsupported format string passed to NoneType.__format__
+2025-01-04 00:03:40,011 - TradingBot - ERROR - [make_trade] Exception: unsupported format string passed to NoneType.__format__
+2025-01-04 00:03:41,012 - TradingBot - ERROR - [make_trade] Exception: unsupported format string passed to NoneType.__format__
+2025-01-04 00:03:42,012 - TradingBot - ERROR - [make_trade] Failed after retries.
+2025-01-04 00:03:42,012 - TradingBot - INFO - [manage_position] Opening BUY. Confidence score: 3
+2025-01-04 00:03:42,013 - TradingBot - ERROR - [make_trade] Exception: unsupported format string passed to NoneType.__format__
+2025-01-04 00:03:43,013 - TradingBot - ERROR - [make_trade] Exception: unsupported format string passed to NoneType.__format__
+2025-01-04 00:03:44,013 - TradingBot - ERROR - [make_trade] Exception: unsupported format string passed to NoneType.__format__
+2025-01-04 00:03:45,014 - TradingBot - ERROR - [make_trade] Failed after retries.
+2025-01-04 00:04:18,638 - TradingBot - INFO - Initializing TradingBot...
+2025-01-04 00:04:18,708 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-04 00:04:18,781 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-04 00:04:18,782 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-04 00:04:18,784 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-04 00:04:18,784 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-04 00:04:18,786 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-04 00:04:18,786 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60}
+2025-01-04 00:05:29,970 - TradingBot - INFO - Initializing TradingBot...
+2025-01-04 00:05:30,057 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-04 00:05:30,140 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-04 00:05:30,141 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-04 00:05:30,142 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-04 00:05:30,142 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-04 00:05:30,144 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-04 00:05:30,145 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60}
+2025-01-04 00:07:20,943 - TradingBot - INFO - Initializing TradingBot...
+2025-01-04 00:07:21,004 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-04 00:07:21,083 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-04 00:07:21,084 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-04 00:07:21,084 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-04 00:07:21,085 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-04 00:07:21,086 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-04 00:07:21,087 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60}
+2025-01-04 00:07:41,875 - TradingBot - INFO - Initializing TradingBot...
+2025-01-04 00:07:41,933 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-04 00:07:42,010 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-04 00:07:42,011 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-04 00:07:42,011 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-04 00:07:42,012 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-04 00:07:42,013 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-04 00:07:42,013 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60}
+2025-01-04 00:08:11,687 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-04 00:08:11,803 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-04 00:08:11,813 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 1}
+2025-01-04 00:08:11,951 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'M15', 'count': 100}
+2025-01-04 00:08:12,057 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H4', 'count': 100}
+2025-01-04 00:08:12,175 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 1, 'sell_signals': 0}
+2025-01-04 00:08:12,176 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-04 00:08:12,176 - TradingBot - INFO - [multi_timeframe_analysis] Combined Buy: 1, Combined Sell: 1
+2025-01-04 00:08:12,176 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 00:08:12,261 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 00:08:12,262 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 00:08:12,262 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 00:08:12,262 - TradingBot - INFO - [manage_position] Opening BUY. Confidence score: 3
+2025-01-04 00:08:12,262 - TradingBot - ERROR - [make_trade] Exception: unsupported format string passed to NoneType.__format__
+2025-01-04 00:08:13,263 - TradingBot - ERROR - [make_trade] Exception: unsupported format string passed to NoneType.__format__
+2025-01-04 00:08:14,264 - TradingBot - ERROR - [make_trade] Exception: unsupported format string passed to NoneType.__format__
+2025-01-04 00:08:15,264 - TradingBot - ERROR - [make_trade] Failed after retries.
+2025-01-04 00:08:15,264 - TradingBot - INFO - [manage_position] Opening BUY. Confidence score: 3
+2025-01-04 00:08:15,265 - TradingBot - ERROR - [make_trade] Exception: unsupported format string passed to NoneType.__format__
+2025-01-04 00:08:16,266 - TradingBot - ERROR - [make_trade] Exception: unsupported format string passed to NoneType.__format__
+2025-01-04 00:08:17,266 - TradingBot - ERROR - [make_trade] Exception: unsupported format string passed to NoneType.__format__
+2025-01-04 00:08:18,267 - TradingBot - ERROR - [make_trade] Failed after retries.
+2025-01-04 00:08:19,237 - TradingBot - INFO - Initializing TradingBot...
+2025-01-04 00:08:19,298 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-04 00:08:19,367 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-04 00:08:19,368 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-04 00:08:19,368 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-04 00:08:19,369 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-04 00:08:19,370 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-04 00:08:19,370 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60}
+2025-01-04 00:08:45,537 - TradingBot - INFO - Initializing TradingBot...
+2025-01-04 00:08:45,594 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-04 00:08:45,682 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-04 00:08:45,682 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-04 00:08:45,683 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-04 00:08:45,683 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-04 00:08:45,685 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-04 00:08:45,685 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60}
+2025-01-04 00:08:56,439 - TradingBot - INFO - Initializing TradingBot...
+2025-01-04 00:08:56,499 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-04 00:08:56,577 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-04 00:08:56,577 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-04 00:08:56,578 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-04 00:08:56,578 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-04 00:08:56,580 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-04 00:08:56,580 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60}
+2025-01-04 00:09:01,846 - TradingBot - INFO - [save_state] State saved to database.
+2025-01-04 00:09:01,846 - TradingBot - INFO - [stop] TradingBot stopped.
+2025-01-04 00:09:01,847 - TradingBot - INFO - Initializing TradingBot...
+2025-01-04 00:09:01,904 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-04 00:09:02,023 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-04 00:09:02,023 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-04 00:09:02,024 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-04 00:09:02,025 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-04 00:09:04,134 - TradingBot - INFO - [start] TradingBot has started running.
+2025-01-04 00:09:04,146 - TradingBot - INFO - [save_state] State saved to database.
+2025-01-04 00:13:11,685 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-04 00:13:11,803 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-04 00:13:11,812 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 1}
+2025-01-04 00:13:11,915 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'M15', 'count': 100}
+2025-01-04 00:13:11,982 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H4', 'count': 100}
+2025-01-04 00:13:12,074 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 1, 'sell_signals': 0}
+2025-01-04 00:13:12,074 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-04 00:13:12,074 - TradingBot - INFO - [multi_timeframe_analysis] Combined Buy: 1, Combined Sell: 1
+2025-01-04 00:13:12,074 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 00:13:12,146 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 00:13:12,146 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 00:13:12,146 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 00:13:12,146 - TradingBot - INFO - [manage_position] Opening BUY. Confidence score: 3
+2025-01-04 00:13:12,147 - TradingBot - ERROR - [make_trade] Exception: unsupported format string passed to NoneType.__format__
+2025-01-04 00:13:13,147 - TradingBot - ERROR - [make_trade] Exception: unsupported format string passed to NoneType.__format__
+2025-01-04 00:13:14,148 - TradingBot - ERROR - [make_trade] Exception: unsupported format string passed to NoneType.__format__
+2025-01-04 00:13:15,149 - TradingBot - ERROR - [make_trade] Failed after retries.
+2025-01-04 00:13:15,149 - TradingBot - INFO - [manage_position] Opening BUY. Confidence score: 3
+2025-01-04 00:13:15,149 - TradingBot - ERROR - [make_trade] Exception: unsupported format string passed to NoneType.__format__
+2025-01-04 00:13:16,150 - TradingBot - ERROR - [make_trade] Exception: unsupported format string passed to NoneType.__format__
+2025-01-04 00:13:17,150 - TradingBot - ERROR - [make_trade] Exception: unsupported format string passed to NoneType.__format__
+2025-01-04 00:13:18,151 - TradingBot - ERROR - [make_trade] Failed after retries.
+2025-01-04 00:14:01,908 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-04 00:14:02,080 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-04 00:14:02,092 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 1}
+2025-01-04 00:14:02,217 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'M15', 'count': 100}
+2025-01-04 00:14:02,343 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H4', 'count': 100}
+2025-01-04 00:14:02,446 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 1, 'sell_signals': 0}
+2025-01-04 00:14:02,447 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-04 00:14:02,447 - TradingBot - INFO - [multi_timeframe_analysis] Combined Buy: 1, Combined Sell: 1
+2025-01-04 00:14:02,447 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 00:14:02,559 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 00:14:02,560 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 00:14:02,560 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 00:14:02,560 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 00:14:02,646 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 00:14:02,646 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 00:14:02,647 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 00:14:02,647 - TradingBot - INFO - [manage_position] Opening BUY. Confidence score: 3
+2025-01-04 00:14:02,647 - TradingBot - ERROR - [run_job_queue] Unexpected error: 'TradingBot' object has no attribute 'stop_loss_percentage'
+2025-01-04 00:48:56,646 - TradingBot - INFO - Initializing TradingBot...
+2025-01-04 00:48:56,711 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-04 00:48:56,867 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-04 00:48:56,867 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-04 00:48:56,869 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-04 00:48:56,870 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-04 00:48:56,876 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-04 00:48:56,877 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60, 'rsiPeriod': 14, 'emaFastPeriod': 12, 'emaSlowPeriod': 26, 'bbandsPeriod': 20}
+2025-01-04 00:49:00,590 - TradingBot - INFO - Initializing TradingBot...
+2025-01-04 00:49:00,650 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-04 00:49:00,795 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-04 00:49:00,796 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-04 00:49:00,797 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-04 00:49:00,797 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-04 00:49:00,799 - TradingBot - INFO - Training interval updated to 24 hours.
+2025-01-04 00:49:00,799 - TradingBot - INFO - [apply_settings] Updated settings: {'riskLevel': 'medium', 'maxTrades': 5, 'tradeIntervalHours': 24, 'stopLossPercentage': 2.0, 'takeProfitPercentage': 5.0, 'trailingATRMultiplier': 1.5, 'adjustATRMultiplier': 1.5, 'tradeCooldown': 60, 'rsiPeriod': 14, 'emaFastPeriod': 12, 'emaSlowPeriod': 26, 'bbandsPeriod': 20}
+2025-01-04 00:49:24,401 - TradingBot - INFO - [save_state] State saved to database.
+2025-01-04 00:49:24,401 - TradingBot - INFO - [stop] TradingBot stopped.
+2025-01-04 00:49:26,845 - TradingBot - INFO - [start] TradingBot has started running.
+2025-01-04 00:49:26,858 - TradingBot - INFO - [save_state] State saved to database.
+2025-01-04 00:50:22,886 - TradingBot - INFO - Initializing TradingBot...
+2025-01-04 00:50:22,949 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-04 00:50:23,048 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-04 00:50:23,049 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-04 00:50:23,050 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-04 00:50:23,051 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-04 00:50:23,058 - TradingBot - INFO - TradingBot: Settings applied successfully.
+2025-01-04 00:52:38,358 - TradingBot - INFO - Initializing TradingBot...
+2025-01-04 00:52:38,419 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-04 00:52:38,510 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-04 00:52:38,511 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-04 00:52:38,512 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-04 00:52:38,512 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-04 00:52:38,514 - TradingBot - INFO - TradingBot: Settings applied successfully.
+2025-01-04 00:53:25,560 - TradingBot - INFO - Initializing TradingBot...
+2025-01-04 00:53:25,619 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-04 00:53:25,686 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-04 00:53:25,686 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-04 00:53:25,687 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-04 00:53:25,688 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-04 00:53:25,689 - TradingBot - INFO - TradingBot: Settings applied successfully.
+2025-01-04 00:53:54,059 - TradingBot - INFO - Initializing TradingBot...
+2025-01-04 00:53:54,119 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-04 00:53:54,243 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-04 00:53:54,244 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-04 00:53:54,245 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-04 00:53:54,245 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-04 00:53:54,247 - TradingBot - INFO - TradingBot: Settings applied successfully.
+2025-01-04 00:53:56,716 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-04 00:53:56,894 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-04 00:53:56,903 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 1}
+2025-01-04 00:53:56,986 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'M15', 'count': 100}
+2025-01-04 00:53:57,061 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H4', 'count': 100}
+2025-01-04 00:53:57,148 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 1, 'sell_signals': 0}
+2025-01-04 00:53:57,148 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-04 00:53:57,148 - TradingBot - INFO - [multi_timeframe_analysis] Combined Buy: 1, Combined Sell: 1
+2025-01-04 00:53:57,148 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 00:53:57,239 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 00:53:57,239 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 00:53:57,239 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 00:53:57,239 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 00:53:57,342 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 00:53:57,343 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 00:53:57,343 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 00:53:57,343 - TradingBot - INFO - [manage_position] Opening BUY. Confidence score: 3
+2025-01-04 00:53:57,343 - TradingBot - INFO - [make_trade] Sending trade order to https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/orders with data {"order": {"units": "1000", "instrument": "EUR_USD", "timeInForce": "FOK", "type": "MARKET", "positionFill": "DEFAULT", "stopLossOnFill": {"price": "1.01028"}, "takeProfitOnFill": {"price": "1.08244"}}}
+2025-01-04 00:53:57,403 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-04 00:53:57,525 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-04 00:53:57,525 - TradingBot - ERROR - [make_trade] Trade ID not found in response.
+2025-01-04 00:53:57,526 - TradingBot - INFO - [manage_position] Opening BUY. Confidence score: 3
+2025-01-04 00:53:57,526 - TradingBot - ERROR - [run_job_queue] Unexpected error: TradingBot.make_trade() missing 2 required positional arguments: 'stop_loss' and 'take_profit'
+2025-01-04 01:01:01,968 - TradingBot - INFO - Initializing TradingBot...
+2025-01-04 01:01:02,024 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-04 01:01:02,165 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-04 01:01:02,166 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-04 01:01:02,166 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-04 01:01:02,167 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-04 01:01:02,168 - TradingBot - INFO - TradingBot: Settings applied successfully.
+2025-01-04 01:01:05,959 - TradingBot - INFO - Initializing TradingBot...
+2025-01-04 01:01:06,024 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-04 01:01:06,121 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-04 01:01:06,121 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-04 01:01:06,122 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-04 01:01:06,122 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-04 01:01:06,123 - TradingBot - INFO - TradingBot: Settings applied successfully.
+2025-01-04 01:01:12,377 - TradingBot - INFO - [save_state] State saved to database.
+2025-01-04 01:01:12,378 - TradingBot - INFO - [stop] TradingBot stopped.
+2025-01-04 01:01:14,343 - TradingBot - INFO - [start] TradingBot has started running.
+2025-01-04 01:01:14,356 - TradingBot - INFO - [save_state] State saved to database.
+2025-01-04 01:06:02,029 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-04 01:06:02,248 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-04 01:06:02,257 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 1}
+2025-01-04 01:06:02,439 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'M15', 'count': 100}
+2025-01-04 01:06:02,521 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H4', 'count': 100}
+2025-01-04 01:06:02,606 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 1, 'sell_signals': 0}
+2025-01-04 01:06:02,606 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-04 01:06:02,606 - TradingBot - INFO - [multi_timeframe_analysis] Combined Buy: 1, Combined Sell: 1
+2025-01-04 01:06:02,607 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 01:06:02,722 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 01:06:02,722 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 01:06:02,722 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 01:06:02,723 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 100}
+2025-01-04 01:06:02,786 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 01:06:02,922 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 01:06:02,922 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 01:06:02,923 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 01:06:02,923 - TradingBot - INFO - [manage_position] Opening BUY. Confidence score: 3
+2025-01-04 01:06:02,923 - TradingBot - INFO - [manage_position] Calculated SL: 1.01028, TP: 1.08244
+2025-01-04 01:06:02,923 - TradingBot - INFO - [make_trade] Attempt 1: Sending trade order to https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/orders with data {"order": {"units": "1000", "instrument": "EUR_USD", "timeInForce": "FOK", "type": "MARKET", "positionFill": "DEFAULT", "stopLossOnFill": {"price": "1.01028"}, "takeProfitOnFill": {"price": "1.08244"}}}
+2025-01-04 01:06:03,018 - TradingBot - ERROR - [make_trade] Trade ID not found. Error: Trade ID not found and no error message provided.. Full Response: {"orderCreateTransaction": {"id": "6371", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6371", "requestID": "97353181666007105", "time": "2025-01-04T06:06:03.291998132Z", "type": "MARKET_ORDER", "instrument": "EUR_USD", "units": "1000", "timeInForce": "FOK", "positionFill": "DEFAULT", "takeProfitOnFill": {"price": "1.08244", "timeInForce": "GTC"}, "stopLossOnFill": {"price": "1.01028", "timeInForce": "GTC", "triggerMode": "TOP_OF_BOOK"}, "reason": "CLIENT_ORDER"}, "orderCancelTransaction": {"id": "6372", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6371", "requestID": "97353181666007105", "time": "2025-01-04T06:06:03.291998132Z", "type": "ORDER_CANCEL", "orderID": "6371", "reason": "MARKET_HALTED"}, "relatedTransactionIDs": ["6371", "6372"], "lastTransactionID": "6372"}
+2025-01-04 01:11:02,029 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-04 01:11:02,180 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-04 01:11:02,189 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 1}
+2025-01-04 01:11:02,318 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'M15', 'count': 100}
+2025-01-04 01:11:02,435 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H4', 'count': 100}
+2025-01-04 01:11:02,556 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 1, 'sell_signals': 0}
+2025-01-04 01:11:02,557 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-04 01:11:02,557 - TradingBot - INFO - [multi_timeframe_analysis] Combined Buy: 1, Combined Sell: 1
+2025-01-04 01:11:02,557 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 01:11:02,639 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 01:11:02,639 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 01:11:02,639 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 01:11:02,640 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 100}
+2025-01-04 01:11:02,713 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 01:11:02,813 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 01:11:02,813 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 01:11:02,814 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 01:11:02,814 - TradingBot - INFO - [manage_position] Opening BUY. Confidence score: 3
+2025-01-04 01:11:02,814 - TradingBot - INFO - [manage_position] Calculated SL: 1.01028, TP: 1.08244
+2025-01-04 01:11:02,814 - TradingBot - INFO - [make_trade] Attempt 1: Sending trade order to https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/orders with data {"order": {"units": "1000", "instrument": "EUR_USD", "timeInForce": "FOK", "type": "MARKET", "positionFill": "DEFAULT", "stopLossOnFill": {"price": "1.01028"}, "takeProfitOnFill": {"price": "1.08244"}}}
+2025-01-04 01:11:02,933 - TradingBot - ERROR - [make_trade] Trade ID not found. Error: Trade ID not found and no error message provided.. Full Response: {"orderCreateTransaction": {"id": "6373", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6373", "requestID": "97353182924370173", "time": "2025-01-04T06:11:03.207524434Z", "type": "MARKET_ORDER", "instrument": "EUR_USD", "units": "1000", "timeInForce": "FOK", "positionFill": "DEFAULT", "takeProfitOnFill": {"price": "1.08244", "timeInForce": "GTC"}, "stopLossOnFill": {"price": "1.01028", "timeInForce": "GTC", "triggerMode": "TOP_OF_BOOK"}, "reason": "CLIENT_ORDER"}, "orderCancelTransaction": {"id": "6374", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6373", "requestID": "97353182924370173", "time": "2025-01-04T06:11:03.207524434Z", "type": "ORDER_CANCEL", "orderID": "6373", "reason": "MARKET_HALTED"}, "relatedTransactionIDs": ["6373", "6374"], "lastTransactionID": "6374"}
+2025-01-04 01:16:02,030 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-04 01:16:02,190 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-04 01:16:02,199 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 1}
+2025-01-04 01:16:02,305 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'M15', 'count': 100}
+2025-01-04 01:16:02,395 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H4', 'count': 100}
+2025-01-04 01:16:02,530 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 1, 'sell_signals': 0}
+2025-01-04 01:16:02,531 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-04 01:16:02,531 - TradingBot - INFO - [multi_timeframe_analysis] Combined Buy: 1, Combined Sell: 1
+2025-01-04 01:16:02,531 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 01:16:02,648 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 01:16:02,648 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 01:16:02,648 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 01:16:02,648 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 100}
+2025-01-04 01:16:02,733 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 01:16:02,819 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 01:16:02,820 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 01:16:02,820 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 01:16:02,820 - TradingBot - INFO - [manage_position] Opening BUY. Confidence score: 3
+2025-01-04 01:16:02,820 - TradingBot - INFO - [manage_position] Calculated SL: 1.01028, TP: 1.08244
+2025-01-04 01:16:02,820 - TradingBot - INFO - [make_trade] Attempt 1: Sending trade order to https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/orders with data {"order": {"units": "1000", "instrument": "EUR_USD", "timeInForce": "FOK", "type": "MARKET", "positionFill": "DEFAULT", "stopLossOnFill": {"price": "1.01028"}, "takeProfitOnFill": {"price": "1.08244"}}}
+2025-01-04 01:16:02,925 - TradingBot - ERROR - [make_trade] Trade ID not found. Error: Trade ID not found and no error message provided.. Full Response: {"orderCreateTransaction": {"id": "6375", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6375", "requestID": "79338785669862646", "time": "2025-01-04T06:16:03.210092909Z", "type": "MARKET_ORDER", "instrument": "EUR_USD", "units": "1000", "timeInForce": "FOK", "positionFill": "DEFAULT", "takeProfitOnFill": {"price": "1.08244", "timeInForce": "GTC"}, "stopLossOnFill": {"price": "1.01028", "timeInForce": "GTC", "triggerMode": "TOP_OF_BOOK"}, "reason": "CLIENT_ORDER"}, "orderCancelTransaction": {"id": "6376", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6375", "requestID": "79338785669862646", "time": "2025-01-04T06:16:03.210092909Z", "type": "ORDER_CANCEL", "orderID": "6375", "reason": "MARKET_HALTED"}, "relatedTransactionIDs": ["6375", "6376"], "lastTransactionID": "6376"}
+2025-01-04 01:21:02,024 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-04 01:21:02,152 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-04 01:21:02,160 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 1}
+2025-01-04 01:21:02,311 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'M15', 'count': 100}
+2025-01-04 01:21:02,422 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H4', 'count': 100}
+2025-01-04 01:21:02,500 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 1, 'sell_signals': 0}
+2025-01-04 01:21:02,501 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-04 01:21:02,501 - TradingBot - INFO - [multi_timeframe_analysis] Combined Buy: 1, Combined Sell: 1
+2025-01-04 01:21:02,501 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 01:21:02,606 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 01:21:02,606 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 01:21:02,607 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 01:21:02,607 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 100}
+2025-01-04 01:21:02,708 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 01:21:02,802 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 01:21:02,804 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 01:21:02,804 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 01:21:02,804 - TradingBot - INFO - [manage_position] Opening BUY. Confidence score: 3
+2025-01-04 01:21:02,804 - TradingBot - INFO - [manage_position] Calculated SL: 1.01028, TP: 1.08244
+2025-01-04 01:21:02,805 - TradingBot - INFO - [make_trade] Attempt 1: Sending trade order to https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/orders with data {"order": {"units": "1000", "instrument": "EUR_USD", "timeInForce": "FOK", "type": "MARKET", "positionFill": "DEFAULT", "stopLossOnFill": {"price": "1.01028"}, "takeProfitOnFill": {"price": "1.08244"}}}
+2025-01-04 01:21:02,921 - TradingBot - ERROR - [make_trade] Trade ID not found. Error: Trade ID not found and no error message provided.. Full Response: {"orderCreateTransaction": {"id": "6377", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6377", "requestID": "79338786928232614", "time": "2025-01-04T06:21:03.208615629Z", "type": "MARKET_ORDER", "instrument": "EUR_USD", "units": "1000", "timeInForce": "FOK", "positionFill": "DEFAULT", "takeProfitOnFill": {"price": "1.08244", "timeInForce": "GTC"}, "stopLossOnFill": {"price": "1.01028", "timeInForce": "GTC", "triggerMode": "TOP_OF_BOOK"}, "reason": "CLIENT_ORDER"}, "orderCancelTransaction": {"id": "6378", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6377", "requestID": "79338786928232614", "time": "2025-01-04T06:21:03.208615629Z", "type": "ORDER_CANCEL", "orderID": "6377", "reason": "MARKET_HALTED"}, "relatedTransactionIDs": ["6377", "6378"], "lastTransactionID": "6378"}
+2025-01-04 01:26:02,031 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-04 01:26:02,216 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-04 01:26:02,224 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 1}
+2025-01-04 01:26:02,314 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'M15', 'count': 100}
+2025-01-04 01:26:02,400 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H4', 'count': 100}
+2025-01-04 01:26:02,529 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 1, 'sell_signals': 0}
+2025-01-04 01:26:02,529 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-04 01:26:02,529 - TradingBot - INFO - [multi_timeframe_analysis] Combined Buy: 1, Combined Sell: 1
+2025-01-04 01:26:02,529 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 01:26:02,622 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 01:26:02,623 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 01:26:02,623 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 01:26:02,623 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 100}
+2025-01-04 01:26:02,697 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 01:26:02,844 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 01:26:02,844 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 01:26:02,845 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 01:26:02,845 - TradingBot - INFO - [manage_position] Opening BUY. Confidence score: 3
+2025-01-04 01:26:02,845 - TradingBot - INFO - [manage_position] Calculated SL: 1.01028, TP: 1.08244
+2025-01-04 01:26:02,845 - TradingBot - INFO - [make_trade] Attempt 1: Sending trade order to https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/orders with data {"order": {"units": "1000", "instrument": "EUR_USD", "timeInForce": "FOK", "type": "MARKET", "positionFill": "DEFAULT", "stopLossOnFill": {"price": "1.01028"}, "takeProfitOnFill": {"price": "1.08244"}}}
+2025-01-04 01:26:02,941 - TradingBot - ERROR - [make_trade] Trade ID not found. Error: Trade ID not found and no error message provided.. Full Response: {"orderCreateTransaction": {"id": "6379", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6379", "requestID": "97353186699453831", "time": "2025-01-04T06:26:03.222449682Z", "type": "MARKET_ORDER", "instrument": "EUR_USD", "units": "1000", "timeInForce": "FOK", "positionFill": "DEFAULT", "takeProfitOnFill": {"price": "1.08244", "timeInForce": "GTC"}, "stopLossOnFill": {"price": "1.01028", "timeInForce": "GTC", "triggerMode": "TOP_OF_BOOK"}, "reason": "CLIENT_ORDER"}, "orderCancelTransaction": {"id": "6380", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6379", "requestID": "97353186699453831", "time": "2025-01-04T06:26:03.222449682Z", "type": "ORDER_CANCEL", "orderID": "6379", "reason": "MARKET_HALTED"}, "relatedTransactionIDs": ["6379", "6380"], "lastTransactionID": "6380"}
+2025-01-04 01:31:02,028 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-04 01:31:02,214 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-04 01:31:02,221 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 1}
+2025-01-04 01:31:02,330 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'M15', 'count': 100}
+2025-01-04 01:31:02,447 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H4', 'count': 100}
+2025-01-04 01:31:02,579 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 1, 'sell_signals': 0}
+2025-01-04 01:31:02,580 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-04 01:31:02,580 - TradingBot - INFO - [multi_timeframe_analysis] Combined Buy: 1, Combined Sell: 1
+2025-01-04 01:31:02,580 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 01:31:02,682 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 01:31:02,683 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 01:31:02,683 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 01:31:02,683 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 100}
+2025-01-04 01:31:02,782 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 01:31:02,869 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 01:31:02,870 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 01:31:02,870 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 01:31:02,870 - TradingBot - INFO - [manage_position] Opening BUY. Confidence score: 3
+2025-01-04 01:31:02,870 - TradingBot - INFO - [manage_position] Calculated SL: 1.01028, TP: 1.08244
+2025-01-04 01:31:02,871 - TradingBot - INFO - [make_trade] Attempt 1: Sending trade order to https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/orders with data {"order": {"units": "1000", "instrument": "EUR_USD", "timeInForce": "FOK", "type": "MARKET", "positionFill": "DEFAULT", "stopLossOnFill": {"price": "1.01028"}, "takeProfitOnFill": {"price": "1.08244"}}}
+2025-01-04 01:31:02,972 - TradingBot - ERROR - [make_trade] Trade ID not found. Error: Trade ID not found and no error message provided.. Full Response: {"orderCreateTransaction": {"id": "6381", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6381", "requestID": "97353187957819623", "time": "2025-01-04T06:31:03.248275582Z", "type": "MARKET_ORDER", "instrument": "EUR_USD", "units": "1000", "timeInForce": "FOK", "positionFill": "DEFAULT", "takeProfitOnFill": {"price": "1.08244", "timeInForce": "GTC"}, "stopLossOnFill": {"price": "1.01028", "timeInForce": "GTC", "triggerMode": "TOP_OF_BOOK"}, "reason": "CLIENT_ORDER"}, "orderCancelTransaction": {"id": "6382", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6381", "requestID": "97353187957819623", "time": "2025-01-04T06:31:03.248275582Z", "type": "ORDER_CANCEL", "orderID": "6381", "reason": "MARKET_HALTED"}, "relatedTransactionIDs": ["6381", "6382"], "lastTransactionID": "6382"}
+2025-01-04 14:26:02,035 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-04 14:26:02,239 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-04 14:26:02,248 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 1}
+2025-01-04 14:26:02,394 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'M15', 'count': 100}
+2025-01-04 14:26:02,515 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H4', 'count': 100}
+2025-01-04 14:26:02,614 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 1, 'sell_signals': 0}
+2025-01-04 14:26:02,614 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-04 14:26:02,615 - TradingBot - INFO - [multi_timeframe_analysis] Combined Buy: 1, Combined Sell: 1
+2025-01-04 14:26:02,615 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 14:26:02,690 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 14:26:02,691 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 14:26:02,691 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 14:26:02,691 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 100}
+2025-01-04 14:26:02,760 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 14:26:02,902 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 14:26:02,902 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 14:26:02,903 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 14:26:02,903 - TradingBot - INFO - [manage_position] Opening BUY. Confidence score: 3
+2025-01-04 14:26:02,903 - TradingBot - INFO - [manage_position] Calculated SL: 1.01028, TP: 1.08244
+2025-01-04 14:26:02,903 - TradingBot - INFO - [make_trade] Attempt 1: Sending trade order to https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/orders with data {"order": {"units": "1000", "instrument": "EUR_USD", "timeInForce": "FOK", "type": "MARKET", "positionFill": "DEFAULT", "stopLossOnFill": {"price": "1.01028"}, "takeProfitOnFill": {"price": "1.08244"}}}
+2025-01-04 14:26:03,005 - TradingBot - ERROR - [make_trade] Trade ID not found. Error: Trade ID not found and no error message provided.. Full Response: {"orderCreateTransaction": {"id": "6383", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6383", "requestID": "97353383004052371", "time": "2025-01-04T19:26:06.478710392Z", "type": "MARKET_ORDER", "instrument": "EUR_USD", "units": "1000", "timeInForce": "FOK", "positionFill": "DEFAULT", "takeProfitOnFill": {"price": "1.08244", "timeInForce": "GTC"}, "stopLossOnFill": {"price": "1.01028", "timeInForce": "GTC", "triggerMode": "TOP_OF_BOOK"}, "reason": "CLIENT_ORDER"}, "orderCancelTransaction": {"id": "6384", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6383", "requestID": "97353383004052371", "time": "2025-01-04T19:26:06.478710392Z", "type": "ORDER_CANCEL", "orderID": "6383", "reason": "MARKET_HALTED"}, "relatedTransactionIDs": ["6383", "6384"], "lastTransactionID": "6384"}
+2025-01-04 14:31:02,036 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-04 14:31:02,177 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-04 14:31:02,186 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 1}
+2025-01-04 14:31:02,294 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'M15', 'count': 100}
+2025-01-04 14:31:02,407 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H4', 'count': 100}
+2025-01-04 14:31:02,578 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 1, 'sell_signals': 0}
+2025-01-04 14:31:02,578 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-04 14:31:02,579 - TradingBot - INFO - [multi_timeframe_analysis] Combined Buy: 1, Combined Sell: 1
+2025-01-04 14:31:02,579 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 14:31:02,676 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 14:31:02,677 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 14:31:02,677 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 14:31:02,677 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 100}
+2025-01-04 14:31:02,834 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 14:31:02,927 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 14:31:02,928 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 14:31:02,928 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 14:31:02,928 - TradingBot - INFO - [manage_position] Opening BUY. Confidence score: 3
+2025-01-04 14:31:02,929 - TradingBot - INFO - [manage_position] Calculated SL: 1.01028, TP: 1.08244
+2025-01-04 14:31:02,929 - TradingBot - INFO - [make_trade] Attempt 1: Sending trade order to https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/orders with data {"order": {"units": "1000", "instrument": "EUR_USD", "timeInForce": "FOK", "type": "MARKET", "positionFill": "DEFAULT", "stopLossOnFill": {"price": "1.01028"}, "takeProfitOnFill": {"price": "1.08244"}}}
+2025-01-04 14:31:02,998 - TradingBot - ERROR - [make_trade] Trade ID not found. Error: Trade ID not found and no error message provided.. Full Response: {"orderCreateTransaction": {"id": "6385", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6385", "requestID": "61324587242251014", "time": "2025-01-04T19:31:06.474150262Z", "type": "MARKET_ORDER", "instrument": "EUR_USD", "units": "1000", "timeInForce": "FOK", "positionFill": "DEFAULT", "takeProfitOnFill": {"price": "1.08244", "timeInForce": "GTC"}, "stopLossOnFill": {"price": "1.01028", "timeInForce": "GTC", "triggerMode": "TOP_OF_BOOK"}, "reason": "CLIENT_ORDER"}, "orderCancelTransaction": {"id": "6386", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6385", "requestID": "61324587242251014", "time": "2025-01-04T19:31:06.474150262Z", "type": "ORDER_CANCEL", "orderID": "6385", "reason": "MARKET_HALTED"}, "relatedTransactionIDs": ["6385", "6386"], "lastTransactionID": "6386"}
+2025-01-04 14:36:02,032 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-04 14:36:02,179 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-04 14:36:02,196 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 1}
+2025-01-04 14:36:02,269 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'M15', 'count': 100}
+2025-01-04 14:36:02,410 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H4', 'count': 100}
+2025-01-04 14:36:02,533 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 1, 'sell_signals': 0}
+2025-01-04 14:36:02,533 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-04 14:36:02,534 - TradingBot - INFO - [multi_timeframe_analysis] Combined Buy: 1, Combined Sell: 1
+2025-01-04 14:36:02,534 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 14:36:02,609 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 14:36:02,610 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 14:36:02,610 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 14:36:02,611 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 100}
+2025-01-04 14:36:02,730 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 14:36:02,817 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 14:36:02,818 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 14:36:02,818 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 14:36:02,818 - TradingBot - INFO - [manage_position] Opening BUY. Confidence score: 3
+2025-01-04 14:36:02,819 - TradingBot - INFO - [manage_position] Calculated SL: 1.01028, TP: 1.08244
+2025-01-04 14:36:02,819 - TradingBot - INFO - [make_trade] Attempt 1: Sending trade order to https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/orders with data {"order": {"units": "1000", "instrument": "EUR_USD", "timeInForce": "FOK", "type": "MARKET", "positionFill": "DEFAULT", "stopLossOnFill": {"price": "1.01028"}, "takeProfitOnFill": {"price": "1.08244"}}}
+2025-01-04 14:36:02,927 - TradingBot - ERROR - [make_trade] Trade ID not found. Error: Trade ID not found and no error message provided.. Full Response: {"orderCreateTransaction": {"id": "6387", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6387", "requestID": "97353385520765621", "time": "2025-01-04T19:36:06.403181337Z", "type": "MARKET_ORDER", "instrument": "EUR_USD", "units": "1000", "timeInForce": "FOK", "positionFill": "DEFAULT", "takeProfitOnFill": {"price": "1.08244", "timeInForce": "GTC"}, "stopLossOnFill": {"price": "1.01028", "timeInForce": "GTC", "triggerMode": "TOP_OF_BOOK"}, "reason": "CLIENT_ORDER"}, "orderCancelTransaction": {"id": "6388", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6387", "requestID": "97353385520765621", "time": "2025-01-04T19:36:06.403181337Z", "type": "ORDER_CANCEL", "orderID": "6387", "reason": "MARKET_HALTED"}, "relatedTransactionIDs": ["6387", "6388"], "lastTransactionID": "6388"}
+2025-01-04 14:41:02,033 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-04 14:41:02,184 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-04 14:41:02,193 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 1}
+2025-01-04 14:41:02,295 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'M15', 'count': 100}
+2025-01-04 14:41:02,391 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H4', 'count': 100}
+2025-01-04 14:41:02,515 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 1, 'sell_signals': 0}
+2025-01-04 14:41:02,516 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-04 14:41:02,516 - TradingBot - INFO - [multi_timeframe_analysis] Combined Buy: 1, Combined Sell: 1
+2025-01-04 14:41:02,516 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 14:41:02,647 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 14:41:02,647 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 14:41:02,648 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 14:41:02,648 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 100}
+2025-01-04 14:41:02,746 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 14:41:02,848 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 14:41:02,848 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 14:41:02,848 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 14:41:02,848 - TradingBot - INFO - [manage_position] Opening BUY. Confidence score: 3
+2025-01-04 14:41:02,849 - TradingBot - INFO - [manage_position] Calculated SL: 1.01028, TP: 1.08244
+2025-01-04 14:41:02,849 - TradingBot - INFO - [make_trade] Attempt 1: Sending trade order to https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/orders with data {"order": {"units": "1000", "instrument": "EUR_USD", "timeInForce": "FOK", "type": "MARKET", "positionFill": "DEFAULT", "stopLossOnFill": {"price": "1.01028"}, "takeProfitOnFill": {"price": "1.08244"}}}
+2025-01-04 14:41:02,933 - TradingBot - ERROR - [make_trade] Trade ID not found. Error: Trade ID not found and no error message provided.. Full Response: {"orderCreateTransaction": {"id": "6389", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6389", "requestID": "61324589758986125", "time": "2025-01-04T19:41:06.413461493Z", "type": "MARKET_ORDER", "instrument": "EUR_USD", "units": "1000", "timeInForce": "FOK", "positionFill": "DEFAULT", "takeProfitOnFill": {"price": "1.08244", "timeInForce": "GTC"}, "stopLossOnFill": {"price": "1.01028", "timeInForce": "GTC", "triggerMode": "TOP_OF_BOOK"}, "reason": "CLIENT_ORDER"}, "orderCancelTransaction": {"id": "6390", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6389", "requestID": "61324589758986125", "time": "2025-01-04T19:41:06.413461493Z", "type": "ORDER_CANCEL", "orderID": "6389", "reason": "MARKET_HALTED"}, "relatedTransactionIDs": ["6389", "6390"], "lastTransactionID": "6390"}
+2025-01-04 14:44:02,992 - TradingBot - INFO - Initializing TradingBot...
+2025-01-04 14:44:04,304 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-04 14:44:04,410 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-04 14:44:04,411 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-04 14:44:04,493 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-04 14:44:04,493 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-04 14:44:04,507 - TradingBot - INFO - TradingBot: Settings applied successfully.
+2025-01-04 14:44:08,704 - TradingBot - INFO - Initializing TradingBot...
+2025-01-04 14:44:08,771 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-04 14:44:08,902 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-04 14:44:08,903 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-04 14:44:08,904 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-04 14:44:08,904 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-04 14:44:08,905 - TradingBot - INFO - TradingBot: Settings applied successfully.
+2025-01-04 14:44:15,956 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 14:44:16,061 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 14:44:21,313 - TradingBot - INFO - Initializing TradingBot...
+2025-01-04 14:44:21,375 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-04 14:44:21,487 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-04 14:44:21,487 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-04 14:44:21,488 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-04 14:44:21,488 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-04 14:44:21,489 - TradingBot - INFO - TradingBot: Settings applied successfully.
+2025-01-04 14:44:27,117 - TradingBot - INFO - Initializing TradingBot...
+2025-01-04 14:44:27,184 - TradingBot - INFO - [load_account_balance] Fetching account summary from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/summary
+2025-01-04 14:44:27,261 - TradingBot - INFO - [load_account_balance] Account balance: 86763.875
+2025-01-04 14:44:27,262 - TradingBot - INFO - TradingBot initialized successfully.
+2025-01-04 14:44:27,263 - TradingBot - INFO - [load_state] Loaded existing state from database.
+2025-01-04 14:44:27,264 - TradingBot - INFO - [load_historical_metrics] Loaded trade_count=0, profit_loss=0.0
+2025-01-04 14:44:27,265 - TradingBot - INFO - TradingBot: Settings applied successfully.
+2025-01-04 14:49:04,307 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-04 14:49:04,469 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-04 14:49:04,488 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 1}
+2025-01-04 14:49:04,586 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'M15', 'count': 100}
+2025-01-04 14:49:04,685 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H4', 'count': 100}
+2025-01-04 14:49:04,755 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 1, 'sell_signals': 0}
+2025-01-04 14:49:04,756 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-04 14:49:04,756 - TradingBot - INFO - [multi_timeframe_analysis] Combined Buy: 1, Combined Sell: 1
+2025-01-04 14:49:04,756 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 14:49:04,874 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 14:49:04,874 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 14:49:04,875 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 14:49:04,875 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 100}
+2025-01-04 14:49:05,000 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 14:49:05,110 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 14:49:05,111 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 14:49:05,111 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 14:49:05,111 - TradingBot - INFO - [manage_position] Opening BUY. Confidence score: 3
+2025-01-04 14:49:05,111 - TradingBot - INFO - [manage_position] Calculated SL: 1.01028, TP: 1.08244
+2025-01-04 14:49:05,111 - TradingBot - INFO - [make_trade] Attempt 1: Sending trade order to https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/orders with data {"order": {"units": "1000", "instrument": "EUR_USD", "timeInForce": "FOK", "type": "MARKET", "positionFill": "DEFAULT", "stopLossOnFill": {"price": "1.01028"}, "takeProfitOnFill": {"price": "1.08244"}}}
+2025-01-04 14:49:05,238 - TradingBot - ERROR - [make_trade] Trade ID not found. Error: Trade ID not found and no error message provided.. Full Response: {"orderCreateTransaction": {"id": "6391", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6391", "requestID": "97353388800886377", "time": "2025-01-04T19:49:08.721349926Z", "type": "MARKET_ORDER", "instrument": "EUR_USD", "units": "1000", "timeInForce": "FOK", "positionFill": "DEFAULT", "takeProfitOnFill": {"price": "1.08244", "timeInForce": "GTC"}, "stopLossOnFill": {"price": "1.01028", "timeInForce": "GTC", "triggerMode": "TOP_OF_BOOK"}, "reason": "CLIENT_ORDER"}, "orderCancelTransaction": {"id": "6392", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6391", "requestID": "97353388800886377", "time": "2025-01-04T19:49:08.721349926Z", "type": "ORDER_CANCEL", "orderID": "6391", "reason": "MARKET_HALTED"}, "relatedTransactionIDs": ["6391", "6392"], "lastTransactionID": "6392"}
+2025-01-04 14:49:27,199 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-04 14:49:27,302 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-04 14:49:27,322 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 1}
+2025-01-04 14:49:27,413 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'M15', 'count': 100}
+2025-01-04 14:49:27,527 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H4', 'count': 100}
+2025-01-04 14:49:27,630 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 1, 'sell_signals': 0}
+2025-01-04 14:49:27,631 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-04 14:49:27,631 - TradingBot - INFO - [multi_timeframe_analysis] Combined Buy: 1, Combined Sell: 1
+2025-01-04 14:49:27,631 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 14:49:27,774 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 14:49:27,774 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 14:49:27,774 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 14:49:27,775 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 100}
+2025-01-04 14:49:27,864 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 14:49:27,965 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 14:49:27,967 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 14:49:27,967 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 14:49:27,967 - TradingBot - INFO - [manage_position] Opening BUY. Confidence score: 3
+2025-01-04 14:49:27,967 - TradingBot - INFO - [manage_position] Calculated SL: 1.01028, TP: 1.08244
+2025-01-04 14:49:27,968 - TradingBot - INFO - [make_trade] Attempt 1: Sending trade order to https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/orders with data {"order": {"units": "1000", "instrument": "EUR_USD", "timeInForce": "FOK", "type": "MARKET", "positionFill": "DEFAULT", "stopLossOnFill": {"price": "1.01028"}, "takeProfitOnFill": {"price": "1.08244"}}}
+2025-01-04 14:49:28,066 - TradingBot - ERROR - [make_trade] Trade ID not found. Error: Trade ID not found and no error message provided.. Full Response: {"orderCreateTransaction": {"id": "6393", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6393", "requestID": "61324591877239270", "time": "2025-01-04T19:49:31.540446897Z", "type": "MARKET_ORDER", "instrument": "EUR_USD", "units": "1000", "timeInForce": "FOK", "positionFill": "DEFAULT", "takeProfitOnFill": {"price": "1.08244", "timeInForce": "GTC"}, "stopLossOnFill": {"price": "1.01028", "timeInForce": "GTC", "triggerMode": "TOP_OF_BOOK"}, "reason": "CLIENT_ORDER"}, "orderCancelTransaction": {"id": "6394", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6393", "requestID": "61324591877239270", "time": "2025-01-04T19:49:31.540446897Z", "type": "ORDER_CANCEL", "orderID": "6393", "reason": "MARKET_HALTED"}, "relatedTransactionIDs": ["6393", "6394"], "lastTransactionID": "6394"}
+2025-01-04 14:52:58,899 - TradingBot - INFO - [save_state] State saved to database.
+2025-01-04 14:52:58,900 - TradingBot - INFO - [stop] TradingBot stopped.
+2025-01-04 14:54:04,312 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-04 14:54:04,444 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-04 14:54:04,454 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 1}
+2025-01-04 14:54:04,550 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'M15', 'count': 100}
+2025-01-04 14:54:04,674 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H4', 'count': 100}
+2025-01-04 14:54:04,794 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 1, 'sell_signals': 0}
+2025-01-04 14:54:04,794 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-04 14:54:04,795 - TradingBot - INFO - [multi_timeframe_analysis] Combined Buy: 1, Combined Sell: 1
+2025-01-04 14:54:04,795 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 14:54:04,913 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 14:54:04,913 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 14:54:04,914 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 14:54:04,914 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 100}
+2025-01-04 14:54:05,007 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 14:54:05,104 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 14:54:05,104 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 14:54:05,105 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 14:54:05,105 - TradingBot - INFO - [manage_position] Opening BUY. Confidence score: 3
+2025-01-04 14:54:05,105 - TradingBot - INFO - [manage_position] Calculated SL: 1.01028, TP: 1.08244
+2025-01-04 14:54:05,105 - TradingBot - INFO - [make_trade] Attempt 1: Sending trade order to https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/orders with data {"order": {"units": "1000", "instrument": "EUR_USD", "timeInForce": "FOK", "type": "MARKET", "positionFill": "DEFAULT", "stopLossOnFill": {"price": "1.01028"}, "takeProfitOnFill": {"price": "1.08244"}}}
+2025-01-04 14:54:05,187 - TradingBot - ERROR - [make_trade] Trade ID not found. Error: Trade ID not found and no error message provided.. Full Response: {"orderCreateTransaction": {"id": "6395", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6395", "requestID": "97353390059248783", "time": "2025-01-04T19:54:08.671205921Z", "type": "MARKET_ORDER", "instrument": "EUR_USD", "units": "1000", "timeInForce": "FOK", "positionFill": "DEFAULT", "takeProfitOnFill": {"price": "1.08244", "timeInForce": "GTC"}, "stopLossOnFill": {"price": "1.01028", "timeInForce": "GTC", "triggerMode": "TOP_OF_BOOK"}, "reason": "CLIENT_ORDER"}, "orderCancelTransaction": {"id": "6396", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6395", "requestID": "97353390059248783", "time": "2025-01-04T19:54:08.671205921Z", "type": "ORDER_CANCEL", "orderID": "6395", "reason": "MARKET_HALTED"}, "relatedTransactionIDs": ["6395", "6396"], "lastTransactionID": "6396"}
+2025-01-04 14:59:04,309 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-04 14:59:04,471 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-04 14:59:04,488 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 1}
+2025-01-04 14:59:04,605 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'M15', 'count': 100}
+2025-01-04 14:59:04,720 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H4', 'count': 100}
+2025-01-04 14:59:04,809 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 1, 'sell_signals': 0}
+2025-01-04 14:59:04,809 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-04 14:59:04,809 - TradingBot - INFO - [multi_timeframe_analysis] Combined Buy: 1, Combined Sell: 1
+2025-01-04 14:59:04,809 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 14:59:04,915 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 14:59:04,916 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 14:59:04,916 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 14:59:04,916 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 100}
+2025-01-04 14:59:05,020 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 14:59:05,139 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 14:59:05,139 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 14:59:05,139 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 14:59:05,140 - TradingBot - INFO - [manage_position] Opening BUY. Confidence score: 3
+2025-01-04 14:59:05,140 - TradingBot - INFO - [manage_position] Calculated SL: 1.01028, TP: 1.08244
+2025-01-04 14:59:05,141 - TradingBot - INFO - [make_trade] Attempt 1: Sending trade order to https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/orders with data {"order": {"units": "1000", "instrument": "EUR_USD", "timeInForce": "FOK", "type": "MARKET", "positionFill": "DEFAULT", "stopLossOnFill": {"price": "1.01028"}, "takeProfitOnFill": {"price": "1.08244"}}}
+2025-01-04 14:59:05,239 - TradingBot - ERROR - [make_trade] Trade ID not found. Error: Trade ID not found and no error message provided.. Full Response: {"orderCreateTransaction": {"id": "6397", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6397", "requestID": "79338992808811170", "time": "2025-01-04T19:59:08.722165166Z", "type": "MARKET_ORDER", "instrument": "EUR_USD", "units": "1000", "timeInForce": "FOK", "positionFill": "DEFAULT", "takeProfitOnFill": {"price": "1.08244", "timeInForce": "GTC"}, "stopLossOnFill": {"price": "1.01028", "timeInForce": "GTC", "triggerMode": "TOP_OF_BOOK"}, "reason": "CLIENT_ORDER"}, "orderCancelTransaction": {"id": "6398", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6397", "requestID": "79338992808811170", "time": "2025-01-04T19:59:08.722165166Z", "type": "ORDER_CANCEL", "orderID": "6397", "reason": "MARKET_HALTED"}, "relatedTransactionIDs": ["6397", "6398"], "lastTransactionID": "6398"}
+2025-01-04 15:04:04,308 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-04 15:04:04,433 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-04 15:04:04,451 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 1}
+2025-01-04 15:04:04,629 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'M15', 'count': 100}
+2025-01-04 15:04:04,757 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H4', 'count': 100}
+2025-01-04 15:04:04,842 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 1, 'sell_signals': 0}
+2025-01-04 15:04:04,843 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-04 15:04:04,843 - TradingBot - INFO - [multi_timeframe_analysis] Combined Buy: 1, Combined Sell: 1
+2025-01-04 15:04:04,843 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 15:04:04,905 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 15:04:04,906 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 15:04:04,906 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 15:04:04,907 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 100}
+2025-01-04 15:04:05,011 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 15:04:05,089 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 15:04:05,090 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 15:04:05,090 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 15:04:05,090 - TradingBot - INFO - [manage_position] Opening BUY. Confidence score: 3
+2025-01-04 15:04:05,091 - TradingBot - INFO - [manage_position] Calculated SL: 1.01028, TP: 1.08244
+2025-01-04 15:04:05,091 - TradingBot - INFO - [make_trade] Attempt 1: Sending trade order to https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/orders with data {"order": {"units": "1000", "instrument": "EUR_USD", "timeInForce": "FOK", "type": "MARKET", "positionFill": "DEFAULT", "stopLossOnFill": {"price": "1.01028"}, "takeProfitOnFill": {"price": "1.08244"}}}
+2025-01-04 15:04:05,163 - TradingBot - ERROR - [make_trade] Trade ID not found. Error: Trade ID not found and no error message provided.. Full Response: {"orderCreateTransaction": {"id": "6399", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6399", "requestID": "97353392575973485", "time": "2025-01-04T20:04:08.651802768Z", "type": "MARKET_ORDER", "instrument": "EUR_USD", "units": "1000", "timeInForce": "FOK", "positionFill": "DEFAULT", "takeProfitOnFill": {"price": "1.08244", "timeInForce": "GTC"}, "stopLossOnFill": {"price": "1.01028", "timeInForce": "GTC", "triggerMode": "TOP_OF_BOOK"}, "reason": "CLIENT_ORDER"}, "orderCancelTransaction": {"id": "6400", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6399", "requestID": "97353392575973485", "time": "2025-01-04T20:04:08.651802768Z", "type": "ORDER_CANCEL", "orderID": "6399", "reason": "MARKET_HALTED"}, "relatedTransactionIDs": ["6399", "6400"], "lastTransactionID": "6400"}
+2025-01-04 15:09:04,320 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-04 15:09:04,430 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-04 15:09:04,447 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 1}
+2025-01-04 15:09:04,536 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'M15', 'count': 100}
+2025-01-04 15:09:04,663 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H4', 'count': 100}
+2025-01-04 15:09:04,798 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 1, 'sell_signals': 0}
+2025-01-04 15:09:04,798 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-04 15:09:04,799 - TradingBot - INFO - [multi_timeframe_analysis] Combined Buy: 1, Combined Sell: 1
+2025-01-04 15:09:04,799 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 15:09:04,896 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 15:09:04,896 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 15:09:04,896 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 15:09:04,896 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 100}
+2025-01-04 15:09:05,004 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 15:09:05,084 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 15:09:05,084 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 15:09:05,084 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 15:09:05,084 - TradingBot - INFO - [manage_position] Opening BUY. Confidence score: 3
+2025-01-04 15:09:05,086 - TradingBot - INFO - [manage_position] Calculated SL: 1.01028, TP: 1.08244
+2025-01-04 15:09:05,086 - TradingBot - INFO - [make_trade] Attempt 1: Sending trade order to https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/orders with data {"order": {"units": "1000", "instrument": "EUR_USD", "timeInForce": "FOK", "type": "MARKET", "positionFill": "DEFAULT", "stopLossOnFill": {"price": "1.01028"}, "takeProfitOnFill": {"price": "1.08244"}}}
+2025-01-04 15:09:05,177 - TradingBot - ERROR - [make_trade] Trade ID not found. Error: Trade ID not found and no error message provided.. Full Response: {"orderCreateTransaction": {"id": "6401", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6401", "requestID": "97353393834339382", "time": "2025-01-04T20:09:08.661198839Z", "type": "MARKET_ORDER", "instrument": "EUR_USD", "units": "1000", "timeInForce": "FOK", "positionFill": "DEFAULT", "takeProfitOnFill": {"price": "1.08244", "timeInForce": "GTC"}, "stopLossOnFill": {"price": "1.01028", "timeInForce": "GTC", "triggerMode": "TOP_OF_BOOK"}, "reason": "CLIENT_ORDER"}, "orderCancelTransaction": {"id": "6402", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6401", "requestID": "97353393834339382", "time": "2025-01-04T20:09:08.661198839Z", "type": "ORDER_CANCEL", "orderID": "6401", "reason": "MARKET_HALTED"}, "relatedTransactionIDs": ["6401", "6402"], "lastTransactionID": "6402"}
+2025-01-04 15:14:04,319 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 500}
+2025-01-04 15:14:04,464 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 0}
+2025-01-04 15:14:04,481 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 1}
+2025-01-04 15:14:04,569 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'M15', 'count': 100}
+2025-01-04 15:14:04,669 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H4', 'count': 100}
+2025-01-04 15:14:04,782 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 1, 'sell_signals': 0}
+2025-01-04 15:14:04,783 - TradingBot - INFO - [evaluate_indicators] Summary: {'buy_signals': 0, 'sell_signals': 1}
+2025-01-04 15:14:04,783 - TradingBot - INFO - [multi_timeframe_analysis] Combined Buy: 1, Combined Sell: 1
+2025-01-04 15:14:04,783 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 15:14:04,879 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 15:14:04,880 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 15:14:04,880 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 15:14:04,881 - TradingBot - INFO - [get_prices] Fetching candles from https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles with params {'granularity': 'H1', 'count': 100}
+2025-01-04 15:14:05,028 - TradingBot - INFO - [get_open_trades] Fetching open trades from https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/openTrades
+2025-01-04 15:14:05,138 - TradingBot - INFO - [get_open_trades] 0 open trades found on OANDA.
+2025-01-04 15:14:05,138 - TradingBot - INFO - [synchronize_positions] No open trades on OANDA to synchronize.
+2025-01-04 15:14:05,138 - TradingBot - INFO - [analyze_open_trades] No open positions to analyze.
+2025-01-04 15:14:05,138 - TradingBot - INFO - [manage_position] Opening BUY. Confidence score: 3
+2025-01-04 15:14:05,139 - TradingBot - INFO - [manage_position] Calculated SL: 1.01028, TP: 1.08244
+2025-01-04 15:14:05,140 - TradingBot - INFO - [make_trade] Attempt 1: Sending trade order to https://api-fxpractice.oanda.com/v3/accounts/101-001-27648896-001/orders with data {"order": {"units": "1000", "instrument": "EUR_USD", "timeInForce": "FOK", "type": "MARKET", "positionFill": "DEFAULT", "stopLossOnFill": {"price": "1.01028"}, "takeProfitOnFill": {"price": "1.08244"}}}
+2025-01-04 15:14:05,244 - TradingBot - ERROR - [make_trade] Trade ID not found. Error: Trade ID not found and no error message provided.. Full Response: {"orderCreateTransaction": {"id": "6403", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6403", "requestID": "97353395092705527", "time": "2025-01-04T20:14:08.731572695Z", "type": "MARKET_ORDER", "instrument": "EUR_USD", "units": "1000", "timeInForce": "FOK", "positionFill": "DEFAULT", "takeProfitOnFill": {"price": "1.08244", "timeInForce": "GTC"}, "stopLossOnFill": {"price": "1.01028", "timeInForce": "GTC", "triggerMode": "TOP_OF_BOOK"}, "reason": "CLIENT_ORDER"}, "orderCancelTransaction": {"id": "6404", "accountID": "101-001-27648896-001", "userID": 27648896, "batchID": "6403", "requestID": "97353395092705527", "time": "2025-01-04T20:14:08.731572695Z", "type": "ORDER_CANCEL", "orderID": "6403", "reason": "MARKET_HALTED"}, "relatedTransactionIDs": ["6403", "6404"], "lastTransactionID": "6404"}

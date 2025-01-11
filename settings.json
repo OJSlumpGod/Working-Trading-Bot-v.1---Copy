@@ -1,0 +1,14 @@
+{
+    "riskLevel": "medium",
+    "maxTrades": 5,
+    "tradeIntervalHours": 24,
+    "stopLossPercentage": 2.0,
+    "takeProfitPercentage": 5.0,
+    "trailingATRMultiplier": 1.5,
+    "adjustATRMultiplier": 1.5,
+    "tradeCooldown": 60,
+    "rsiPeriod": 14,
+    "emaFastPeriod": 12,
+    "emaSlowPeriod": 26,
+    "bbandsPeriod": 20
+}

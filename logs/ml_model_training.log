@@ -1,0 +1,9 @@
+2025-01-03 23:35:21,120 - INFO - [MLModel] Initializing model pipeline...
+2025-01-03 23:35:21,121 - INFO - [MLModel] Models directory: D:\Coding3.0\possible\models
+2025-01-03 23:35:21,122 - INFO - [MLModel] sgd not found. Using default model.
+2025-01-03 23:35:21,122 - INFO - [MLModel] rf not found. Using default model.
+2025-01-03 23:35:21,122 - INFO - [MLModel] gb not found. Using default model.
+2025-01-03 23:35:21,123 - INFO - [MLModel] No existing PyTorch model found. Initializing a new one.
+2025-01-03 23:35:21,124 - INFO - [MLModel] Voting classifier initialized.
+2025-01-03 23:35:21,124 - INFO - [MLModel] Voting classifier not trained yet. It will be trained during model training.
+2025-01-03 23:35:21,124 - WARNING - [MLModel] Scaler and/or PCA files not found. They need to be fitted during training.

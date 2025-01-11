@@ -1,0 +1,184 @@
+2025-01-03 23:07:47,163 - INFO - BotManager: No existing state file found. Starting fresh.
+2025-01-03 23:07:47,165 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-03 23:07:51,256 - INFO - BotManager: No existing state file found. Starting fresh.
+2025-01-03 23:07:51,262 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-03 23:08:22,042 - INFO - BotManager: No existing state file found. Starting fresh.
+2025-01-03 23:08:22,044 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-03 23:08:26,332 - INFO - BotManager: Continuous run started.
+2025-01-03 23:08:26,332 - INFO - BotManager: TradingBot started.
+2025-01-03 23:08:26,334 - INFO - BotManager: State saved successfully.
+2025-01-03 23:08:34,842 - INFO - BotManager: Continuous run stopped.
+2025-01-03 23:08:34,842 - INFO - BotManager: TradingBot stopped.
+2025-01-03 23:08:34,843 - INFO - BotManager: State saved successfully.
+2025-01-03 23:11:44,690 - INFO - BotManager: State loaded successfully.
+2025-01-03 23:11:44,692 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-03 23:12:14,981 - INFO - BotManager: State loaded successfully.
+2025-01-03 23:12:14,982 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-03 23:12:19,355 - INFO - BotManager: State loaded successfully.
+2025-01-03 23:12:19,357 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-03 23:12:24,448 - INFO - BotManager: Continuous run started.
+2025-01-03 23:12:24,448 - INFO - BotManager: TradingBot started.
+2025-01-03 23:12:24,451 - INFO - BotManager: State saved successfully.
+2025-01-03 23:13:15,974 - INFO - BotManager: State loaded successfully.
+2025-01-03 23:13:15,975 - INFO - BotManager: TradingBot is already running.
+2025-01-03 23:13:15,976 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-03 23:13:22,924 - INFO - BotManager: State loaded successfully.
+2025-01-03 23:13:22,924 - INFO - BotManager: TradingBot is already running.
+2025-01-03 23:13:22,925 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-03 23:17:18,479 - INFO - BotManager: State loaded successfully.
+2025-01-03 23:17:18,480 - INFO - BotManager: TradingBot is already running.
+2025-01-03 23:17:18,481 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-03 23:17:22,353 - INFO - BotManager: State loaded successfully.
+2025-01-03 23:17:22,353 - INFO - BotManager: TradingBot is already running.
+2025-01-03 23:17:22,354 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-03 23:17:46,556 - INFO - BotManager: State loaded successfully.
+2025-01-03 23:17:46,556 - INFO - BotManager: TradingBot is already running.
+2025-01-03 23:17:46,557 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-03 23:17:50,471 - INFO - BotManager: State loaded successfully.
+2025-01-03 23:17:50,471 - INFO - BotManager: TradingBot is already running.
+2025-01-03 23:17:50,472 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-03 23:18:03,788 - INFO - BotManager: State loaded successfully.
+2025-01-03 23:18:03,788 - INFO - BotManager: TradingBot is already running.
+2025-01-03 23:18:03,789 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-03 23:18:39,445 - INFO - BotManager: State loaded successfully.
+2025-01-03 23:18:39,446 - INFO - BotManager: TradingBot is already running.
+2025-01-03 23:18:39,447 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-03 23:21:07,841 - INFO - BotManager: State loaded successfully.
+2025-01-03 23:21:07,842 - INFO - BotManager: TradingBot is already running.
+2025-01-03 23:21:07,843 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-03 23:22:55,495 - INFO - BotManager: State loaded successfully.
+2025-01-03 23:22:55,495 - INFO - BotManager: TradingBot is already running.
+2025-01-03 23:22:55,496 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-03 23:23:15,257 - INFO - BotManager: State loaded successfully.
+2025-01-03 23:23:15,257 - INFO - BotManager: TradingBot is already running.
+2025-01-03 23:23:15,258 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-03 23:23:54,123 - INFO - BotManager: TradingBot stopped.
+2025-01-03 23:23:54,124 - INFO - BotManager: State saved successfully.
+2025-01-03 23:23:55,849 - INFO - BotManager: Continuous run started.
+2025-01-03 23:23:55,849 - INFO - BotManager: TradingBot started.
+2025-01-03 23:23:55,851 - INFO - BotManager: State saved successfully.
+2025-01-03 23:28:41,381 - INFO - BotManager: State loaded successfully.
+2025-01-03 23:28:41,381 - INFO - BotManager: TradingBot is already running.
+2025-01-03 23:28:41,382 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-03 23:28:45,417 - INFO - BotManager: State loaded successfully.
+2025-01-03 23:28:45,417 - INFO - BotManager: TradingBot is already running.
+2025-01-03 23:28:45,418 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-03 23:29:08,708 - INFO - BotManager: TradingBot stopped.
+2025-01-03 23:29:08,709 - INFO - BotManager: State saved successfully.
+2025-01-03 23:29:08,819 - INFO - Trading bot reset.
+2025-01-03 23:29:10,959 - INFO - BotManager: Continuous run started.
+2025-01-03 23:29:10,959 - INFO - BotManager: TradingBot started.
+2025-01-03 23:29:10,962 - INFO - BotManager: State saved successfully.
+2025-01-03 23:31:50,873 - INFO - BotManager: State loaded successfully.
+2025-01-03 23:31:50,874 - INFO - BotManager: TradingBot is already running.
+2025-01-03 23:31:50,875 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-03 23:32:33,490 - INFO - BotManager: State loaded successfully.
+2025-01-03 23:32:33,490 - INFO - BotManager: TradingBot is already running.
+2025-01-03 23:32:33,492 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-03 23:32:55,514 - INFO - BotManager: State loaded successfully.
+2025-01-03 23:32:55,515 - INFO - BotManager: TradingBot is already running.
+2025-01-03 23:32:55,516 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-03 23:35:32,751 - INFO - BotManager: State loaded successfully.
+2025-01-03 23:35:32,751 - INFO - BotManager: TradingBot is already running.
+2025-01-03 23:35:32,752 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-03 23:35:36,784 - INFO - BotManager: State loaded successfully.
+2025-01-03 23:35:36,785 - INFO - BotManager: TradingBot is already running.
+2025-01-03 23:35:36,786 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-03 23:35:48,224 - INFO - BotManager: TradingBot stopped.
+2025-01-03 23:35:48,225 - INFO - BotManager: State saved successfully.
+2025-01-03 23:35:49,711 - INFO - BotManager: Continuous run started.
+2025-01-03 23:35:49,711 - INFO - BotManager: TradingBot started.
+2025-01-03 23:35:49,712 - INFO - BotManager: State saved successfully.
+2025-01-03 23:36:04,373 - INFO - BotManager: Continuous run stopped.
+2025-01-03 23:36:04,373 - INFO - BotManager: TradingBot stopped.
+2025-01-03 23:36:04,374 - INFO - BotManager: State saved successfully.
+2025-01-03 23:37:14,853 - INFO - BotManager: State loaded successfully.
+2025-01-03 23:37:14,854 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-03 23:58:14,397 - INFO - BotManager: State loaded successfully.
+2025-01-03 23:58:14,398 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-03 23:58:18,674 - INFO - BotManager: State loaded successfully.
+2025-01-03 23:58:18,675 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-03 23:58:25,050 - INFO - BotManager: TradingBot started.
+2025-01-03 23:58:25,051 - INFO - BotManager: State saved successfully.
+2025-01-03 23:58:29,412 - INFO - BotManager: TradingBot stopped.
+2025-01-03 23:58:29,413 - INFO - BotManager: State saved successfully.
+2025-01-03 23:58:29,562 - INFO - Trading bot reset.
+2025-01-03 23:58:31,488 - INFO - BotManager: TradingBot started.
+2025-01-03 23:58:31,488 - INFO - BotManager: State saved successfully.
+2025-01-03 23:58:38,346 - INFO - BotManager: TradingBot stopped.
+2025-01-03 23:58:38,346 - INFO - BotManager: State saved successfully.
+2025-01-03 23:58:38,604 - INFO - Trading bot reset.
+2025-01-03 23:58:46,468 - INFO - BotManager: TradingBot started.
+2025-01-03 23:58:46,468 - INFO - BotManager: State saved successfully.
+2025-01-04 00:04:18,785 - INFO - BotManager: State loaded successfully.
+2025-01-04 00:04:18,785 - INFO - BotManager: TradingBot is already running.
+2025-01-04 00:04:18,786 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-04 00:05:30,143 - INFO - BotManager: State loaded successfully.
+2025-01-04 00:05:30,143 - INFO - BotManager: TradingBot is already running.
+2025-01-04 00:05:30,145 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-04 00:07:21,085 - INFO - BotManager: State loaded successfully.
+2025-01-04 00:07:21,086 - INFO - BotManager: TradingBot is already running.
+2025-01-04 00:07:21,087 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-04 00:07:42,012 - INFO - BotManager: State loaded successfully.
+2025-01-04 00:07:42,013 - INFO - BotManager: TradingBot is already running.
+2025-01-04 00:07:42,014 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-04 00:08:19,369 - INFO - BotManager: State loaded successfully.
+2025-01-04 00:08:19,369 - INFO - BotManager: TradingBot is already running.
+2025-01-04 00:08:19,371 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-04 00:08:45,684 - INFO - BotManager: State loaded successfully.
+2025-01-04 00:08:45,684 - INFO - BotManager: TradingBot is already running.
+2025-01-04 00:08:45,685 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-04 00:08:56,579 - INFO - BotManager: State loaded successfully.
+2025-01-04 00:08:56,579 - INFO - BotManager: TradingBot is already running.
+2025-01-04 00:08:56,580 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-04 00:09:01,846 - INFO - BotManager: TradingBot stopped.
+2025-01-04 00:09:01,847 - INFO - BotManager: State saved successfully.
+2025-01-04 00:09:02,026 - INFO - Trading bot reset.
+2025-01-04 00:09:04,147 - INFO - BotManager: TradingBot started.
+2025-01-04 00:09:04,148 - INFO - BotManager: State saved successfully.
+2025-01-04 00:48:56,870 - INFO - BotManager: State loaded successfully.
+2025-01-04 00:48:56,871 - INFO - BotManager: TradingBot is already running.
+2025-01-04 00:48:56,877 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-04 00:49:00,798 - INFO - BotManager: State loaded successfully.
+2025-01-04 00:49:00,798 - INFO - BotManager: TradingBot is already running.
+2025-01-04 00:49:00,800 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-04 00:49:24,401 - INFO - BotManager: TradingBot stopped.
+2025-01-04 00:49:24,402 - INFO - BotManager: State saved successfully.
+2025-01-04 00:49:26,858 - INFO - BotManager: TradingBot started.
+2025-01-04 00:49:26,859 - INFO - BotManager: State saved successfully.
+2025-01-04 00:50:23,057 - INFO - BotManager: State loaded successfully.
+2025-01-04 00:50:23,058 - INFO - BotManager: TradingBot is already running.
+2025-01-04 00:50:23,058 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-04 00:52:38,513 - INFO - BotManager: State loaded successfully.
+2025-01-04 00:52:38,513 - INFO - BotManager: TradingBot is already running.
+2025-01-04 00:52:38,514 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-04 00:53:25,688 - INFO - BotManager: State loaded successfully.
+2025-01-04 00:53:25,688 - INFO - BotManager: TradingBot is already running.
+2025-01-04 00:53:25,689 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-04 00:53:54,246 - INFO - BotManager: State loaded successfully.
+2025-01-04 00:53:54,246 - INFO - BotManager: TradingBot is already running.
+2025-01-04 00:53:54,247 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-04 01:01:02,167 - INFO - BotManager: State loaded successfully.
+2025-01-04 01:01:02,168 - INFO - BotManager: TradingBot is already running.
+2025-01-04 01:01:02,169 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-04 01:01:06,123 - INFO - BotManager: State loaded successfully.
+2025-01-04 01:01:06,123 - INFO - BotManager: TradingBot is already running.
+2025-01-04 01:01:06,124 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-04 01:01:12,378 - INFO - BotManager: TradingBot stopped.
+2025-01-04 01:01:12,378 - INFO - BotManager: State saved successfully.
+2025-01-04 01:01:14,356 - INFO - BotManager: TradingBot started.
+2025-01-04 01:01:14,357 - INFO - BotManager: State saved successfully.
+2025-01-04 14:44:04,499 - INFO - BotManager: State loaded successfully.
+2025-01-04 14:44:04,500 - INFO - BotManager: TradingBot is already running.
+2025-01-04 14:44:04,507 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-04 14:44:08,905 - INFO - BotManager: State loaded successfully.
+2025-01-04 14:44:08,905 - INFO - BotManager: TradingBot is already running.
+2025-01-04 14:44:08,905 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-04 14:44:21,489 - INFO - BotManager: State loaded successfully.
+2025-01-04 14:44:21,489 - INFO - BotManager: TradingBot is already running.
+2025-01-04 14:44:21,490 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-04 14:44:27,264 - INFO - BotManager: State loaded successfully.
+2025-01-04 14:44:27,264 - INFO - BotManager: TradingBot is already running.
+2025-01-04 14:44:27,265 - INFO - BotManager: Settings applied to TradingBot.
+2025-01-04 14:52:58,900 - INFO - BotManager: TradingBot stopped.
+2025-01-04 14:52:58,901 - INFO - BotManager: State saved successfully.

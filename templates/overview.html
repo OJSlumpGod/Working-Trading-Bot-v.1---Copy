@@ -1,0 +1,58 @@
+<!-- templates/overview.html -->
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container mt-4">
+  <h2 class="text-center mb-4">Trading Dashboard Overview</h2>
+
+  <!-- Row for metrics -->
+  <div class="row text-center">
+    <div class="col-md-3 mb-3">
+      <div class="card">
+        <div class="card-header">Total Trades</div>
+        <div class="card-body">
+          <h5 id="tradeCount" class="card-title">0</h5>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3 mb-3">
+      <div class="card">
+        <div class="card-header">Profit/Loss</div>
+        <div class="card-body">
+          <h5 id="profitLoss" class="card-title">$0.00</h5>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3 mb-3">
+      <div class="card">
+        <div class="card-header">Account Balance</div>
+        <div class="card-body">
+          <h5 id="accountBalance" class="card-title">$0.00</h5>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3 mb-3">
+      <div class="card">
+        <div class="card-header">Time Elapsed</div>
+        <div class="card-body">
+          <h5 id="timeElapsed" class="card-title">00:00:00</h5>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Example Chart (if you use Chart.js) -->
+  <div class="mt-4">
+    <h4>Profit/Loss Chart</h4>
+    <canvas id="profitLossChart"></canvas>
+  </div>
+
+  <!-- Optional: Start/Stop Bot Buttons (only if you want them) -->
+  <div class="text-center mt-4">
+    <button id="startBot" class="btn btn-success me-2">Start Bot</button>
+    <button id="stopBot" class="btn btn-danger">Stop Bot</button>
+    <button id="resetBot" class="btn btn-warning">Reset Bot</button>
+  </div>
+
+</div>
+{% endblock %}
